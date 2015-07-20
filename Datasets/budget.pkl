@@ -1,0 +1,6089 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+VVampires Suck
+p4
+V$20 million
+p5
+sVThe Great Flood
+p6
+VN/A
+p7
+sVLife of Pi
+p8
+V$120 million
+p9
+sVThe Crazies
+p10
+V$20 million
+p11
+sVCinco De Mayo: La Batalla
+p12
+VN/A
+p13
+sVUnderdogs
+p14
+VN/A
+p15
+sVGrace Unplugged
+p16
+VN/A
+p17
+sVBegin Again
+p18
+VN/A
+p19
+sVBatkid Begins
+p20
+VN/A
+p21
+sVNo Good Deed (2014)
+p22
+V$13.2 million
+p23
+sVAn Honest Liar
+p24
+VN/A
+p25
+sVLockout
+p26
+V$20 million
+p27
+sVTitanic 3D
+p28
+V$18 million
+p29
+sVSingin' In the Rain (2012 re-release)
+p30
+VN/A
+p31
+sVHarry Potter and the Deathly Hallows Part 1
+p32
+VN/A
+p33
+sVThe Muppets
+p34
+V$45 million
+p35
+sVTonight You're Mine
+p36
+VN/A
+p37
+sVWhile We're Young
+p38
+VN/A
+p39
+sVThe Graduate: 45th Anniversary Reunion
+p40
+VN/A
+p41
+sVMake Your Move
+p42
+VN/A
+p43
+sVPaul
+p44
+V$40 million
+p45
+sVLee Daniels' The Butler
+p46
+V$30 million
+p47
+sVMunger Road
+p48
+VN/A
+p49
+sVJack Reacher
+p50
+V$60 million
+p51
+sVThe Virginity Hit
+p52
+V$2 million
+p53
+sVMr. Pip
+p54
+VN/A
+p55
+sVDown the Shore
+p56
+VN/A
+p57
+sVJinn
+p58
+VN/A
+p59
+sVKon-Tiki
+p60
+VN/A
+p61
+sVMiddle Men
+p62
+V$20 million
+p63
+sVThe Tourist
+p64
+V$100 million
+p65
+sVLetters to God
+p66
+V$3 million
+p67
+sVThe Amazing Spider-Man
+p68
+V$230 million
+p69
+sVBrooklyn's Finest
+p70
+V$17 million
+p71
+sVHamari Adhuri Kahani
+p72
+VN/A
+p73
+sVElsa & Fred (2014)
+p74
+VN/A
+p75
+sVAttack the Block
+p76
+V$13 million
+p77
+sVDanny Collins
+p78
+V$10 million
+p79
+sVMan of Steel
+p80
+V$225 million
+p81
+sVLegion (2010)
+p82
+V$26 million
+p83
+sVReal Steel
+p84
+VN/A
+p85
+sVAddicted
+p86
+VN/A
+p87
+sVThe Signal (2014)
+p88
+VN/A
+p89
+sVLittle Fockers
+p90
+V$100 million
+p91
+sVCaptain America: The First Avenger
+p92
+V$140 million
+p93
+sVGimme Shelter
+p94
+VN/A
+p95
+sVAlexander and the Terrible, Horrible, No Good, Very Bad Day
+p96
+V$28 million
+p97
+sVThe Wizard of Oz (3D/IMAX)
+p98
+VN/A
+p99
+sVSunshine Superman
+p100
+VN/A
+p101
+sVYou're Next
+p102
+VN/A
+p103
+sVThe Imitation Game
+p104
+VN/A
+p105
+sVYou're Not You
+p106
+VN/A
+p107
+sVThis is the End
+p108
+V$32 million
+p109
+sVEpic
+p110
+V$100 million
+p111
+sVGlee The 3D Concert Movie
+p112
+V$9 million
+p113
+sVWhere Hope Grows
+p114
+VN/A
+p115
+sVOne Direction: This is Us
+p116
+V$10 million
+p117
+sVKillers
+p118
+V$75 million
+p119
+sVSimon and the Oaks
+p120
+VN/A
+p121
+sVSelf/Less
+p122
+VN/A
+p123
+sVGreenberg
+p124
+VN/A
+p125
+sVMy Old Lady
+p126
+VN/A
+p127
+sVOculus
+p128
+V$5 million
+p129
+sVThat Awkward Moment
+p130
+V$8 million
+p131
+sVA.C.O.D.
+p132
+VN/A
+p133
+sVThe Last Godfather
+p134
+V$13.4 million
+p135
+sVBlood Ties (2014)
+p136
+VN/A
+p137
+sVThe Heat
+p138
+V$43 million
+p139
+sVThe Campaign
+p140
+VN/A
+p141
+sVTwice Born
+p142
+VN/A
+p143
+sVHow to Train Your Dragon 2
+p144
+V$145 million
+p145
+sVIron Man 2
+p146
+V$200 million
+p147
+sVIron Man 3
+p148
+V$200 million
+p149
+sVToy Story 3
+p150
+V$200 million
+p151
+sVHaute Cuisine
+p152
+VN/A
+p153
+sVLa Soga
+p154
+VN/A
+p155
+sVSuper 8
+p156
+V$50 million
+p157
+sVRamona and Beezus
+p158
+V$15 million
+p159
+sVThe LEGO Movie
+p160
+V$60 million
+p161
+sVThe Adventurer: The Curse of the Midas Box
+p162
+VN/A
+p163
+sVEarth to Echo
+p164
+V$13 million
+p165
+sVGod's Not Dead
+p166
+V$2 million
+p167
+sVI, Frankenstein
+p168
+V$65 million
+p169
+sVSex and the City 2
+p170
+V$100 million
+p171
+sVThe Twilight Saga: Eclipse
+p172
+V$68 million
+p173
+sVWe're the Millers
+p174
+V$37 million
+p175
+sVTangerines
+p176
+VN/A
+p177
+sVJupiter Ascending
+p178
+V$176 million
+p179
+sVEnough Said
+p180
+VN/A
+p181
+sVWinnie Mandela
+p182
+VN/A
+p183
+sVThe Romantics
+p184
+VN/A
+p185
+sVRise of the Planet of the Apes
+p186
+V$93 million
+p187
+sVBad Words
+p188
+VN/A
+p189
+sVGuzaarish
+p190
+VN/A
+p191
+sVRush (2013)
+p192
+V$38 million
+p193
+sVBreathless (2010 re-issue)
+p194
+VN/A
+p195
+sVThe Good Lie
+p196
+VN/A
+p197
+sVScream 4
+p198
+V$40 million
+p199
+sVTomorrow When the War Began
+p200
+VN/A
+p201
+sVAnimals (2015)
+p202
+VN/A
+p203
+sVSafety Not Guaranteed
+p204
+VN/A
+p205
+sVStraw Dogs (2011)
+p206
+V$25 million
+p207
+sVChronicle (2012)
+p208
+V$12 million
+p209
+sVThe Words
+p210
+V$6 million
+p211
+sVTo Die is Hard
+p212
+VN/A
+p213
+sVMaps to the Stars
+p214
+VN/A
+p215
+sVGerontophilia
+p216
+VN/A
+p217
+sVMartha Marcy May Marlene
+p218
+VN/A
+p219
+sVLost River
+p220
+VN/A
+p221
+sVHit and Run
+p222
+V$2 million
+p223
+sVI Origins
+p224
+VN/A
+p225
+sVA Haunted House
+p226
+V$2.5 million
+p227
+sVSaint Misbehavin': The Wavy Gravy Movie
+p228
+VN/A
+p229
+sVShame
+p230
+VN/A
+p231
+sVHome Run
+p232
+VN/A
+p233
+sVWelcome to Me
+p234
+VN/A
+p235
+sVThe Polar Express (IMAX re-issue 2010)
+p236
+VN/A
+p237
+sVThe Wicker Man - Final Cut
+p238
+VN/A
+p239
+sVAatsinki: The Story of Arctic Cowboys
+p240
+VN/A
+p241
+sVParanoia
+p242
+V$35 million
+p243
+sVThe DUFF
+p244
+V$8.5 million
+p245
+sVStar Wars: Episode I - The Phantom Menace (in 3D)
+p246
+VN/A
+p247
+sVStalingrad (2014)
+p248
+VN/A
+p249
+sVJab Tak Hai Jaan
+p250
+VN/A
+p251
+sVBesharam
+p252
+VN/A
+p253
+sVThe Back-Up Plan
+p254
+V$35 million
+p255
+sVGrandmaster
+p256
+VN/A
+p257
+sVMcFarland, USA
+p258
+VN/A
+p259
+sVBefore I Go To Sleep
+p260
+VN/A
+p261
+sVG.I. Joe: Retaliation
+p262
+V$130 million
+p263
+sVThe Lord of the Rings: The Fellowship of the Ring (2011 re-release)
+p264
+VN/A
+p265
+sVThe Last Exorcism Part II
+p266
+V$5 million
+p267
+sVHot Pursuit
+p268
+V$35 million
+p269
+sVEvery Day
+p270
+V$3 million
+p271
+sVThe Master
+p272
+VN/A
+p273
+sV22 Jump Street
+p274
+V$50 million
+p275
+sVIdentity Thief
+p276
+V$35 million
+p277
+sVParticle Fever
+p278
+VN/A
+p279
+sVUnder the Boardwalk: The Monopoly Story
+p280
+VN/A
+p281
+sVCity Island
+p282
+V$6 million
+p283
+sVRise of the Guardians
+p284
+V$145 million
+p285
+sVDraft Day
+p286
+VN/A
+p287
+sVThe Mortal Instruments: City of Bones
+p288
+V$60 million
+p289
+sVGhost Team One
+p290
+VN/A
+p291
+sVVamps
+p292
+VN/A
+p293
+sVDetective Byomkesh Bakshy
+p294
+VN/A
+p295
+sVSilver Linings Playbook
+p296
+V$21 million
+p297
+sVRuby Sparks
+p298
+VN/A
+p299
+sVA Most Wanted Man
+p300
+VN/A
+p301
+sVSide Effects (2013)
+p302
+VN/A
+p303
+sVNo One Lives
+p304
+VN/A
+p305
+sVWhere Are You Taking Me?
+p306
+VN/A
+p307
+sVJohn Carter
+p308
+V$250 million
+p309
+sVThe Passionate Thief (2014 re-release)
+p310
+VN/A
+p311
+sVMission: Impossible - Ghost Protocol
+p312
+V$145 million
+p313
+sVBurlesque
+p314
+V$55 million
+p315
+sVExpedition to the End of the World
+p316
+VN/A
+p317
+sVAmerican Reunion
+p318
+V$50 million
+p319
+sVBrick Mansions
+p320
+V$28 million
+p321
+sVJoe (2014)
+p322
+VN/A
+p323
+sVOne For the Money
+p324
+V$40 million
+p325
+sVBodyguard
+p326
+VN/A
+p327
+sVGloria (2014)
+p328
+VN/A
+p329
+sVNow, Forager
+p330
+VN/A
+p331
+sVDo You Believe?
+p332
+VN/A
+p333
+sVJustice Is Mind
+p334
+VN/A
+p335
+sVPiku
+p336
+VN/A
+p337
+sVIt Follows
+p338
+VN/A
+p339
+sVFor Greater Glory
+p340
+VN/A
+p341
+sVFinding Fanny
+p342
+VN/A
+p343
+sVThe Institute
+p344
+VN/A
+p345
+sVSaving Private Perez
+p346
+VN/A
+p347
+sVWrath of the Titans
+p348
+V$150 million
+p349
+sVWhite House Down
+p350
+V$150 million
+p351
+sVCopperhead
+p352
+VN/A
+p353
+sVSolitary Man
+p354
+V$15 million
+p355
+sVUnbroken
+p356
+V$65 million
+p357
+sV21 Jump Street
+p358
+V$42 million
+p359
+sVFlight
+p360
+V$31 million
+p361
+sVViolet Tendencies
+p362
+VN/A
+p363
+sVThe Love Punch
+p364
+VN/A
+p365
+sVCop Out
+p366
+V$30 million
+p367
+sVDream House
+p368
+V$50 million
+p369
+sVThe Identical
+p370
+VN/A
+p371
+sVMissionary
+p372
+VN/A
+p373
+sVThe Liberator
+p374
+VN/A
+p375
+sVTransformers: Dark of the Moon
+p376
+V$195 million
+p377
+sVFrozen
+p378
+V$150 million
+p379
+sVThe Woman in Black 2: Angel of Death
+p380
+VN/A
+p381
+sVGett: The Trial of Viviane Amsalem
+p382
+VN/A
+p383
+sVThe Gunman
+p384
+V$40 million
+p385
+sVA Million Ways to Die in the West
+p386
+V$40 million
+p387
+sVBernie
+p388
+VN/A
+p389
+sVTwelve
+p390
+V$5 million
+p391
+sVMax (2015)
+p392
+VN/A
+p393
+sVBullet to the Head
+p394
+VN/A
+p395
+sVTranscendence
+p396
+V$100 million
+p397
+sVIn Time
+p398
+V$40 million
+p399
+sVDecoding Annie Parker
+p400
+VN/A
+p401
+sVDjango (2012 re-release)
+p402
+VN/A
+p403
+sVSnow White and the Huntsman
+p404
+V$170 million
+p405
+sVLife of Crime
+p406
+VN/A
+p407
+sVDrive Angry
+p408
+VN/A
+p409
+sVAnna
+p410
+VN/A
+p411
+sVDelhi Belly
+p412
+VN/A
+p413
+sVJack Ryan: Shadow Recruit
+p414
+V$60 million
+p415
+sVThe King's Speech (PG-13)
+p416
+VN/A
+p417
+sVTo Save a Life
+p418
+V$500,000
+p419
+sVTakers
+p420
+V$32 million
+p421
+sVSnitch
+p422
+VN/A
+p423
+sVImmigration Tango
+p424
+VN/A
+p425
+sVWhen in Rome
+p426
+VN/A
+p427
+sVLinsanity
+p428
+VN/A
+p429
+sVArt of Submission
+p430
+V$4.5 million
+p431
+sVDigging Up the Marrow
+p432
+VN/A
+p433
+sVChasing Mavericks
+p434
+V$20 million
+p435
+sVWild Target
+p436
+V$8 million
+p437
+sVQuartet
+p438
+VN/A
+p439
+sVThe Sitter
+p440
+V$25 million
+p441
+sVRemnants
+p442
+VN/A
+p443
+sVRio
+p444
+V$90 million
+p445
+sVThe Word
+p446
+VN/A
+p447
+sVShrek Forever After
+p448
+V$165 million
+p449
+sVBelle
+p450
+VN/A
+p451
+sVMas Negro Que La Noche
+p452
+VN/A
+p453
+sVThe Immortalists
+p454
+VN/A
+p455
+sVGrown Ups
+p456
+V$80 million
+p457
+sVGeneral Education
+p458
+VN/A
+p459
+sVGhanchakkar
+p460
+VN/A
+p461
+sVMade in Cleveland
+p462
+VN/A
+p463
+sVI Am Number Four
+p464
+V$60 million
+p465
+sVThe Devil's Hand
+p466
+VN/A
+p467
+sVThe Hangover Part III
+p468
+V$103 million
+p469
+sVWoman Thou Art Loosed!: On the 7th Day
+p470
+VN/A
+p471
+sVPremium Rush
+p472
+V$35 million
+p473
+sVSound of My Voice
+p474
+VN/A
+p475
+sVOblivion
+p476
+V$120 million
+p477
+sVShe's Out of My League
+p478
+V$20 million
+p479
+sVOut of the Furnace
+p480
+V$22 million
+p481
+sVHiroshima Mon Amour (2014 re-release)
+p482
+VN/A
+p483
+sVTalaash
+p484
+VN/A
+p485
+sVFinal: The Rapture
+p486
+VN/A
+p487
+sVWreck-It Ralph
+p488
+V$165 million
+p489
+sVCome Back to Me
+p490
+VN/A
+p491
+sVOn the Bowery (re-release)
+p492
+VN/A
+p493
+sVThe Tempest
+p494
+V$20 million
+p495
+sVKick-Ass
+p496
+V$30 million
+p497
+sVTurtle: The Incredible Journey
+p498
+VN/A
+p499
+sVThe Dry Land
+p500
+VN/A
+p501
+sVMagic Mike XXL
+p502
+VN/A
+p503
+sVTales of the Night
+p504
+VN/A
+p505
+sVSkyfall
+p506
+V$200 million
+p507
+sVSafe (2012)
+p508
+VN/A
+p509
+sVBeasts of the Southern Wild
+p510
+VN/A
+p511
+sVHouse at the End of The Street
+p512
+V$10 million
+p513
+sVForrest Gump (IMAX)
+p514
+VN/A
+p515
+sVSarah's Key
+p516
+VN/A
+p517
+sVJustin Bieber: Never Say Never
+p518
+V$13 million
+p519
+sVSalmon Fishing in the Yemen
+p520
+VN/A
+p521
+sVThe Mechanic
+p522
+V$40 million
+p523
+sVSilent Hill: Revelation 3D
+p524
+V$20 million
+p525
+sVAs Above/So Below
+p526
+VN/A
+p527
+sVLola Versus
+p528
+VN/A
+p529
+sVJourney 2: The Mysterious Island
+p530
+V$79 million
+p531
+sVSpy Kids: All the Time in the World
+p532
+V$27 million
+p533
+sVRedemption Road
+p534
+V$2.3 million
+p535
+sVTomorrowland
+p536
+V$190 million
+p537
+sVTop Gun 3D
+p538
+VN/A
+p539
+sVOn the Other Side of the Tracks
+p540
+VN/A
+p541
+sVHoodwinked Too! Hood vs. Evil
+p542
+V$30 million
+p543
+sVLong Shot: The Kevin Laue Story (2013)
+p544
+VN/A
+p545
+sVGirl in Progress
+p546
+VN/A
+p547
+sVUnfriended
+p548
+V$1,000,000
+p549
+sVGreen Lantern
+p550
+V$200 million
+p551
+sVSong One
+p552
+VN/A
+p553
+sVThe Concert
+p554
+VN/A
+p555
+sVDeli Man
+p556
+VN/A
+p557
+sVEk Main Aur Ekk Tu
+p558
+VN/A
+p559
+sVThe Adjustment Bureau
+p560
+V$50.2 million
+p561
+sVZombeavers
+p562
+VN/A
+p563
+sVBlue Jasmine
+p564
+VN/A
+p565
+sVSkateland
+p566
+VN/A
+p567
+sVThe Perks of Being a Wallflower
+p568
+VN/A
+p569
+sVYouth in Revolt
+p570
+V$18 million
+p571
+sVThe Big Picture (2012)
+p572
+VN/A
+p573
+sVGrudge Match
+p574
+V$40 million
+p575
+sVAfflicted (2014)
+p576
+VN/A
+p577
+sVWhen Marnie Was There
+p578
+VN/A
+p579
+sVSkyline
+p580
+V$10 million
+p581
+sVCook County
+p582
+VN/A
+p583
+sVDelivery Man
+p584
+V$26 million
+p585
+sVTwilight/New Moon Combo (one-night-only)
+p586
+VN/A
+p587
+sVThe Raven
+p588
+V$26 million
+p589
+sVKai Po Che
+p590
+VN/A
+p591
+sVPercy Jackson: Sea of Monsters
+p592
+V$90 million
+p593
+sVVidal Sassoon: The Movie
+p594
+VN/A
+p595
+sVThe One I Love
+p596
+VN/A
+p597
+sVDolphin Tale 2
+p598
+V$36 million
+p599
+sVNext Goal Wins
+p600
+VN/A
+p601
+sVDouble Dhamaal
+p602
+VN/A
+p603
+sVBeautiful Darling
+p604
+VN/A
+p605
+sVThe Hundred-Foot Journey
+p606
+V$22 million
+p607
+sVKnight & Day
+p608
+V$117 million
+p609
+sVFruitvale Station
+p610
+VN/A
+p611
+sVBeetle Queen Conquers Tokyo
+p612
+VN/A
+p613
+sVMorning
+p614
+VN/A
+p615
+sVWhite God
+p616
+VN/A
+p617
+sVThe Lincoln Lawyer
+p618
+V$40 million
+p619
+sVParanormal Activity 4
+p620
+V$5 million
+p621
+sVStarbuck (U.S. only)
+p622
+VN/A
+p623
+sVParanormal Activity 2
+p624
+V$3 million
+p625
+sVThe Girl with the Dragon Tattoo (2011)
+p626
+V$90 million
+p627
+sVEscape Fire
+p628
+VN/A
+p629
+sVCharlie St. Cloud
+p630
+V$44 million
+p631
+sVFright Night (2011)
+p632
+V$30 million
+p633
+sVBlue Ruin
+p634
+VN/A
+p635
+sVDredd
+p636
+V$50 million
+p637
+sVMe and Earl and the Dying Girl
+p638
+VN/A
+p639
+sVJake Squared
+p640
+VN/A
+p641
+sVCatfish
+p642
+VN/A
+p643
+sVSucker Punch
+p644
+V$82 million
+p645
+sVDetention of the Dead
+p646
+VN/A
+p647
+sVLove and Other Drugs
+p648
+V$30 million
+p649
+sVPompeii
+p650
+V$100 million
+p651
+sVAnnabelle
+p652
+V$6.5 million
+p653
+sVPulling Strings
+p654
+VN/A
+p655
+sVMacGruber
+p656
+V$10 million
+p657
+sVBless Me Ultima
+p658
+VN/A
+p659
+sVThe Hunger Games: Catching Fire
+p660
+V$130 million
+p661
+sVABCD (Any Body Can Dance)
+p662
+VN/A
+p663
+sVGoing the Distance
+p664
+V$32 million
+p665
+sVFreetown
+p666
+VN/A
+p667
+sVRangrezz
+p668
+VN/A
+p669
+sVWaiting for Forever
+p670
+V$5 million
+p671
+sVTaken 2
+p672
+V$45 million
+p673
+sVTaken 3
+p674
+V$48 million
+p675
+sVEmperor
+p676
+VN/A
+p677
+sVThe Artist
+p678
+V$15 million
+p679
+sVThe Fighter
+p680
+V$25 million
+p681
+sVCuban Fury
+p682
+VN/A
+p683
+sVTwo Night Stand
+p684
+VN/A
+p685
+sVAbout Time
+p686
+VN/A
+p687
+sVThe Longest Ride
+p688
+V$34 million
+p689
+sVThe Counselor
+p690
+V$25 million
+p691
+sVLotus Eaters
+p692
+VN/A
+p693
+sVEdge of Tomorrow
+p694
+V$178 million
+p695
+sVTerminator: Genisys
+p696
+VN/A
+p697
+sVCloud Atlas
+p698
+VN/A
+p699
+sVA Very Harold & Kumar 3D Christmas
+p700
+V$19 million
+p701
+sVHyde Park on Hudson
+p702
+VN/A
+p703
+sVThe Immigrant
+p704
+VN/A
+p705
+sVSafe House
+p706
+V$85 million
+p707
+sVBridesmaids
+p708
+V$32.5 million
+p709
+sVDeath at a Funeral (2010)
+p710
+V$21 million
+p711
+sVHercules (2014)
+p712
+V$100 million
+p713
+sVSex Tape
+p714
+V$40 million
+p715
+sVHasee Toh Phasee
+p716
+VN/A
+p717
+sVThe Purge
+p718
+V$3 million
+p719
+sVForbidden Games (1952)
+p720
+VN/A
+p721
+sVSinister
+p722
+V$3 million
+p723
+sVHall Pass
+p724
+V$36 million
+p725
+sVKumiko, The Treasure Hunter
+p726
+VN/A
+p727
+sVCrazy, Stupid, Love.
+p728
+V$50 million
+p729
+sVW.E.
+p730
+VN/A
+p731
+sVEscape Plan
+p732
+VN/A
+p733
+sVRoboCop (2014)
+p734
+V$100 million
+p735
+sVThe Topp Twins: Untouchable Girls
+p736
+VN/A
+p737
+sVInherent Vice
+p738
+VN/A
+p739
+sVSparkle (2012)
+p740
+V$14 million
+p741
+sVMirror Mirror
+p742
+V$85 million
+p743
+sVLes Miserables (2012)
+p744
+V$61 million
+p745
+sV47 Ronin
+p746
+V$175 million
+p747
+sVThe Way
+p748
+VN/A
+p749
+sVThe Double
+p750
+VN/A
+p751
+sVEdge of Darkness
+p752
+V$80 million
+p753
+sVTotal Recall (2012)
+p754
+V$125 million
+p755
+sVThe Grand Budapest Hotel
+p756
+VN/A
+p757
+sVTyler Perry's The Single Moms Club
+p758
+VN/A
+p759
+sVKevin Hart: Laugh at My Pain
+p760
+VN/A
+p761
+sVDark Shadows
+p762
+V$150 million
+p763
+sVGrand Depart
+p764
+VN/A
+p765
+sVI Want Your Money
+p766
+VN/A
+p767
+sVCinderella (2015)
+p768
+V$95 million
+p769
+sVLiving in Emergency
+p770
+VN/A
+p771
+sVMuch Ado About Nothing (2013)
+p772
+VN/A
+p773
+sVThe People I've Slept With
+p774
+VN/A
+p775
+sVTimbuktu
+p776
+VN/A
+p777
+sVWarm Bodies
+p778
+V$35 million
+p779
+sVJayne Mansfield's Car
+p780
+VN/A
+p781
+sV3 Days to Kill
+p782
+V$28 million
+p783
+sVThe Water Diviner
+p784
+V$22.5 million
+p785
+sVCirque Du Soleil: Worlds Away
+p786
+VN/A
+p787
+sVThe Painting (2013)
+p788
+VN/A
+p789
+sVThe Man Who Fell to Earth (35th anniversary re-issue)
+p790
+VN/A
+p791
+sVGangster's Paradise: Jerusalema
+p792
+V$2 million
+p793
+sVThe Devil's Double
+p794
+V$19.1 million
+p795
+sVThe Cold Light of Day
+p796
+VN/A
+p797
+sVThe Servant (2013 re-release)
+p798
+VN/A
+p799
+sVAdult Beginners
+p800
+VN/A
+p801
+sV7 Khoon Maaf
+p802
+VN/A
+p803
+sVJ. Edgar
+p804
+V$35 million
+p805
+sVSaw 10th Anniversary
+p806
+VN/A
+p807
+sVAtlas Shrugged Part III: Who Is John Galt?
+p808
+VN/A
+p809
+sVThank You (2011)
+p810
+VN/A
+p811
+sVBelieve
+p812
+V$5 million
+p813
+sVMere Brother Ki Dulhan
+p814
+VN/A
+p815
+sVEndless Love (2014)
+p816
+V$20 million
+p817
+sVJoker
+p818
+VN/A
+p819
+sVOogieloves In The BIG Balloon Adventure
+p820
+V$20 million
+p821
+sVInsidious Chapter 3
+p822
+VN/A
+p823
+sVInsidious Chapter 2
+p824
+V$5 million
+p825
+sVHer (2013)
+p826
+V$23 million
+p827
+sVThe Last Exorcism
+p828
+V$1.8 million
+p829
+sVParker
+p830
+V$35 million
+p831
+sVBattleship
+p832
+V$209 million
+p833
+sVThe Croods
+p834
+V$135 million
+p835
+sVStep Up All In
+p836
+VN/A
+p837
+sVTosca's Kiss (2014 re-release)
+p838
+VN/A
+p839
+sVMonte Carlo
+p840
+V$20 million
+p841
+sVPrincess Kaiulani
+p842
+V$9 million
+p843
+sVGravity
+p844
+V$100 million
+p845
+sVThe Disappearance of Alice Creed
+p846
+VN/A
+p847
+sVRed
+p848
+V$58 million
+p849
+sVApproved for Adoption
+p850
+VN/A
+p851
+sVRide Along
+p852
+V$25 million
+p853
+sVIsland of Lemurs: Madagascar (IMAX)
+p854
+VN/A
+p855
+sVThe Woman in the Fifth
+p856
+VN/A
+p857
+sVMagician: The Astonishing Life and Work of Orson Welles
+p858
+VN/A
+p859
+sVMandela: Long Walk to Freedom
+p860
+VN/A
+p861
+sVI Spit on Your Grave 2
+p862
+VN/A
+p863
+sVJames Cameron's Deepsea Challenge 3D
+p864
+VN/A
+p865
+sVMarvel's The Avengers
+p866
+V$220 million
+p867
+sVThis Means War
+p868
+V$65 million
+p869
+sVInsidious
+p870
+V$1.5 million
+p871
+sVAnd So It Goes
+p872
+VN/A
+p873
+sVThe Hornet's Nest
+p874
+VN/A
+p875
+sVApollo 18
+p876
+V$5 million
+p877
+sVHigh School
+p878
+VN/A
+p879
+sVSnowpiercer
+p880
+VN/A
+p881
+sVAustenland
+p882
+VN/A
+p883
+sVThe Rum Diary
+p884
+V$45 million
+p885
+sVMr. Popper's Penguins
+p886
+V$55 million
+p887
+sVBad Teacher
+p888
+V$20 million
+p889
+sVAdmission
+p890
+V$13 million
+p891
+sVCasa De Mi Padre
+p892
+VN/A
+p893
+sVThe Conjuring
+p894
+V$20 million
+p895
+sVContraband
+p896
+V$25 million
+p897
+sVKirk Cameron's Saving Christmas
+p898
+VN/A
+p899
+sVCase 39
+p900
+V$26 million
+p901
+sVThe Book of Life (2014)
+p902
+V$50 million
+p903
+sVTammy
+p904
+V$20 million
+p905
+sVThe Guest (2014)
+p906
+VN/A
+p907
+sVFrom Paris with Love
+p908
+V$52 million
+p909
+sVDon't Be Afraid of the Dark
+p910
+V$25 million
+p911
+sVThink Like a Man
+p912
+V$12 million
+p913
+sVBattle of the Year
+p914
+V$20 million
+p915
+sVDirty Girl
+p916
+VN/A
+p917
+sVTop Five
+p918
+VN/A
+p919
+sVLast Ounce of Courage
+p920
+VN/A
+p921
+sVMargin Call
+p922
+V$3.5 million
+p923
+sVDown for Life
+p924
+VN/A
+p925
+sVPhilomena
+p926
+V$12 million
+p927
+sVThe King and the Mockingbird
+p928
+VN/A
+p929
+sVHappy Feet Two
+p930
+VN/A
+p931
+sVThe Runaways
+p932
+V$10 million
+p933
+sVCasablanca (2012 re-release)
+p934
+VN/A
+p935
+sVAfter Earth
+p936
+V$130 million
+p937
+sVA Cat in Paris
+p938
+VN/A
+p939
+sVGetaway (2013)
+p940
+V$18 million
+p941
+sVScorn
+p942
+VN/A
+p943
+sVCoriolanus
+p944
+VN/A
+p945
+sVNoble
+p946
+VN/A
+p947
+sVThe Grandmaster
+p948
+VN/A
+p949
+sVPenton: The John Penton Story
+p950
+VN/A
+p951
+sVPrometheus
+p952
+V$130 million
+p953
+sVOne Day
+p954
+V$15 million
+p955
+sVWent The Day Well? (2011 re-release)
+p956
+VN/A
+p957
+sVThe Incredible Burt Wonderstone
+p958
+V$30 million
+p959
+sVChocolate City
+p960
+VN/A
+p961
+sVLetters to Juliet
+p962
+V$30 million
+p963
+sVThe Mighty Macs
+p964
+V$7 million
+p965
+sVThe Inevitable Defeat of Mister and Pete
+p966
+VN/A
+p967
+sVThe Hunger Games: Mockingjay - Part 1
+p968
+V$125 million
+p969
+sVRock of Ages
+p970
+V$75 million
+p971
+sVThe Tales of Hoffmann (2015 re-issue)
+p972
+VN/A
+p973
+sVBirdman
+p974
+V$18 million
+p975
+sVBig Mommas: Like Father, Like Son
+p976
+V$32 million
+p977
+sVCake
+p978
+VN/A
+p979
+sVAlmost in Love
+p980
+VN/A
+p981
+sVBoyhood
+p982
+V$4 million
+p983
+sVAarakshan (Reservation)
+p984
+VN/A
+p985
+sVBlended
+p986
+V$40 million
+p987
+sVCaptain America: The Winter Soldier
+p988
+V$170 million
+p989
+sVGori Tere Pyaar Mein
+p990
+VN/A
+p991
+sVSnowmen
+p992
+VN/A
+p993
+sVPride (2014)
+p994
+VN/A
+p995
+sVOn Any Sunday: The Next Chapter
+p996
+VN/A
+p997
+sVDragon Ball Z: Battle of Gods
+p998
+VN/A
+p999
+sVThe Possession
+p1000
+V$14 million
+p1001
+sVLost and Found in Armenia
+p1002
+VN/A
+p1003
+sVTiger Eyes
+p1004
+VN/A
+p1005
+sVWish You Were Here (2013)
+p1006
+VN/A
+p1007
+sVTrouble with the Curve
+p1008
+VN/A
+p1009
+sVHansel and Gretel: Witch Hunters
+p1010
+V$50 million
+p1011
+sVMonkey Kingdom
+p1012
+VN/A
+p1013
+sVWorld War Z
+p1014
+V$190 million
+p1015
+sVDemi-Soeur
+p1016
+VN/A
+p1017
+sVHusbands in Goa
+p1018
+VN/A
+p1019
+sVBlackbird
+p1020
+VN/A
+p1021
+sVA Walk Among the Tombstones
+p1022
+V$28 million
+p1023
+sVWaking Sleeping Beauty
+p1024
+VN/A
+p1025
+sVThe Spy Next Door
+p1026
+V$28 million
+p1027
+sVAbout Last Night (2014)
+p1028
+V$12.5 million
+p1029
+sVPassion Play
+p1030
+VN/A
+p1031
+sVFree Birds
+p1032
+V$55 million
+p1033
+sVPaul Blart: Mall Cop 2
+p1034
+V$30 million
+p1035
+sVThe D Train
+p1036
+VN/A
+p1037
+sVThe Sorcerer's Apprentice
+p1038
+V$150 million
+p1039
+sVThis Must Be the Place
+p1040
+VN/A
+p1041
+sVSaw 3D
+p1042
+V$20 million
+p1043
+sVRowdy Rathore
+p1044
+VN/A
+p1045
+sVRed Tails
+p1046
+V$58 million
+p1047
+sVStone
+p1048
+V$22 million
+p1049
+sVThe Maze Runner
+p1050
+V$34 million
+p1051
+sVBorn to Fly: Elizabeth Streb vs. Gravity
+p1052
+VN/A
+p1053
+sVThe Social Network
+p1054
+V$40 million
+p1055
+sVThe Road (2012)
+p1056
+VN/A
+p1057
+sVProject Almanac
+p1058
+V$12 million
+p1059
+sVGame of Thrones (IMAX)
+p1060
+VN/A
+p1061
+sVSherlock Holmes: A Game of Shadows
+p1062
+VN/A
+p1063
+sVUndertow (2010)
+p1064
+VN/A
+p1065
+sVThe Dilemma
+p1066
+V$70 million
+p1067
+sVPuss in Boots
+p1068
+V$130 million
+p1069
+sVHome Run Showdown
+p1070
+VN/A
+p1071
+sVBefore You Know It
+p1072
+VN/A
+p1073
+sVGo For It
+p1074
+VN/A
+p1075
+sVRun All Night
+p1076
+V$50 million
+p1077
+sVAbduction
+p1078
+V$35 million
+p1079
+sVAnother Earth
+p1080
+VN/A
+p1081
+sVA La Mala
+p1082
+VN/A
+p1083
+sVRevelation Road 2
+p1084
+VN/A
+p1085
+sVEk Tha Tiger
+p1086
+VN/A
+p1087
+sVAloha
+p1088
+VN/A
+p1089
+sVThe Change-Up
+p1090
+V$52 million
+p1091
+sVNowhere Boy
+p1092
+VN/A
+p1093
+sVKnights of Badassdom
+p1094
+VN/A
+p1095
+sVNostalgia for the Light
+p1096
+VN/A
+p1097
+sVHesher
+p1098
+V$7 million
+p1099
+sVThe Last Airbender
+p1100
+V$150 million
+p1101
+sVOz The Great and Powerful
+p1102
+V$215 million
+p1103
+sVBully (PG-13)
+p1104
+VN/A
+p1105
+sVCode Black
+p1106
+VN/A
+p1107
+sVIron Sky
+p1108
+VN/A
+p1109
+sVStand Up Guys
+p1110
+VN/A
+p1111
+sVReturn to The Hiding Place
+p1112
+VN/A
+p1113
+sVSt. Vincent
+p1114
+VN/A
+p1115
+sVDevil's Due
+p1116
+V$7 million
+p1117
+sVBlack Swan
+p1118
+V$13 million
+p1119
+sVTorn
+p1120
+VN/A
+p1121
+sVInSpectres
+p1122
+VN/A
+p1123
+sVThe Five-Year Engagement
+p1124
+V$30 million
+p1125
+sV2 Guns
+p1126
+V$61 million
+p1127
+sVHotel Transylvania
+p1128
+V$85 million
+p1129
+sVWatermark
+p1130
+VN/A
+p1131
+sVPromised Land (2012)
+p1132
+VN/A
+p1133
+sVOceans
+p1134
+V$80 million
+p1135
+sVWhat to Expect When You're Expecting
+p1136
+V$40 million
+p1137
+sVAfternoon Delight
+p1138
+VN/A
+p1139
+sVForks Over Knives
+p1140
+VN/A
+p1141
+sVColombiana
+p1142
+V$40 million
+p1143
+sVCountry Strong
+p1144
+V$15 million
+p1145
+sVThe Disappearance of Eleanor Rigby
+p1146
+VN/A
+p1147
+sVChef
+p1148
+VN/A
+p1149
+sVThe Beaver
+p1150
+V$21 million
+p1151
+sVMetallica Through the Never
+p1152
+V$18 million
+p1153
+sVThe Lost Medallion
+p1154
+VN/A
+p1155
+sVGet Hard
+p1156
+V$40 million
+p1157
+sVWater & Power
+p1158
+V$600,000
+p1159
+sVMuppets Most Wanted
+p1160
+V$50 million
+p1161
+sVThe Fluffy Movie
+p1162
+VN/A
+p1163
+sVThree Night Stand
+p1164
+VN/A
+p1165
+sVJack Goes Boating
+p1166
+VN/A
+p1167
+sVPlanes: Fire & Rescue
+p1168
+V$50 million
+p1169
+sVThe Smurfs 2
+p1170
+V$105 million
+p1171
+sV5 Flights Up
+p1172
+VN/A
+p1173
+sVAnything For Alice
+p1174
+VN/A
+p1175
+sVBran Nue Dae
+p1176
+VN/A
+p1177
+sVDrive (2011)
+p1178
+V$15 million
+p1179
+sVKevin Hart: Let Me Explain
+p1180
+VN/A
+p1181
+sVThe Miners' Hymns
+p1182
+VN/A
+p1183
+sVUnder the Electric Sky
+p1184
+VN/A
+p1185
+sVClosed Circuit
+p1186
+VN/A
+p1187
+sVSettai
+p1188
+VN/A
+p1189
+sVAnswers to Nothing
+p1190
+VN/A
+p1191
+sVThe Vow
+p1192
+V$30 million
+p1193
+sVNothing Left to Fear
+p1194
+VN/A
+p1195
+sVShahid
+p1196
+VN/A
+p1197
+sVA Late Quartet
+p1198
+VN/A
+p1199
+sVDear John
+p1200
+V$25 million
+p1201
+sVA Little Help
+p1202
+VN/A
+p1203
+sVInto The Storm
+p1204
+V$50 million
+p1205
+sVGreen Zone
+p1206
+V$100 million
+p1207
+sVSupermensch: The Legend of Shep Gordon
+p1208
+VN/A
+p1209
+sVThe Wolverine
+p1210
+V$120 million
+p1211
+sVShut Up and Play the Hits
+p1212
+VN/A
+p1213
+sVDiary of a Wimpy Kid: Dog Days
+p1214
+V$22 million
+p1215
+sVThe Twilight Saga: Breaking Dawn Part 2
+p1216
+V$120 million
+p1217
+sVPacific Rim
+p1218
+V$190 million
+p1219
+sVThe Twilight Saga: Breaking Dawn Part 1
+p1220
+V$110 million
+p1221
+sVHappy Tears
+p1222
+VN/A
+p1223
+sVThe Smurfs
+p1224
+V$110 million
+p1225
+sVGet On Up
+p1226
+VN/A
+p1227
+sVDjango Unchained
+p1228
+V$100 million
+p1229
+sVTurbo
+p1230
+V$135 million
+p1231
+sVTo Rome with Love
+p1232
+VN/A
+p1233
+sVSoldiers of Fortune
+p1234
+VN/A
+p1235
+sVKilling Them Softly
+p1236
+V$15 million
+p1237
+sVPercy Jackson & The Olympians: The Lightning Thief
+p1238
+V$95 million
+p1239
+sVAntoine and Antoinette (2013 re-issue)
+p1240
+VN/A
+p1241
+sVKeep On Keepin' On
+p1242
+VN/A
+p1243
+sVFrankie & Alice
+p1244
+VN/A
+p1245
+sVThe Day
+p1246
+VN/A
+p1247
+sVCa$h
+p1248
+VN/A
+p1249
+sVMy Uncle Rafael
+p1250
+VN/A
+p1251
+sVMaggie
+p1252
+VN/A
+p1253
+sVTouchback
+p1254
+VN/A
+p1255
+sVShe's Beautiful When She's Angry
+p1256
+VN/A
+p1257
+sVThe Music Never Stopped
+p1258
+VN/A
+p1259
+sVRed 2
+p1260
+V$84 million
+p1261
+sVLegends of Oz: Dorothy's Return
+p1262
+V$70 million
+p1263
+sVGun Hill Road
+p1264
+VN/A
+p1265
+sVRaja Natwarlal
+p1266
+VN/A
+p1267
+sVOldboy (2013)
+p1268
+V$30 million
+p1269
+sVThe East
+p1270
+VN/A
+p1271
+sVResident Evil: Retribution
+p1272
+V$65 million
+p1273
+sVPitch Perfect 2
+p1274
+VN/A
+p1275
+sVHecho En Mexico
+p1276
+VN/A
+p1277
+sVYogi Bear
+p1278
+V$80 million
+p1279
+sVInterstellar
+p1280
+V$165 million
+p1281
+sVStoker
+p1282
+V$12 million
+p1283
+sVThe Girl Who Played with Fire
+p1284
+VN/A
+p1285
+sV21 and Over
+p1286
+V$13 million
+p1287
+sVBig Eyes
+p1288
+VN/A
+p1289
+sVWalking with Dinosaurs
+p1290
+V$80 million
+p1291
+sVThe Devil Inside
+p1292
+V$1,000,000
+p1293
+sVChimpanzee
+p1294
+VN/A
+p1295
+sVNeed for Speed
+p1296
+V$66 million
+p1297
+sVMachete
+p1298
+V$10.5 million
+p1299
+sVThaandavam
+p1300
+VN/A
+p1301
+sVThe Chronicles of Narnia: The Voyage of the Dawn Treader
+p1302
+V$155 million
+p1303
+sVWhat Women Want (Wo Zhi Nu Run Xin) 
+p1304
+VN/A
+p1305
+sVThe Last Mountain
+p1306
+VN/A
+p1307
+sVSilent House
+p1308
+VN/A
+p1309
+sVHow to Train Your Dragon
+p1310
+V$165 million
+p1311
+sVTed 2
+p1312
+VN/A
+p1313
+sVGodzilla (2014)
+p1314
+V$160 million
+p1315
+sVThe Dictator
+p1316
+V$65 million
+p1317
+sVC.O.G.
+p1318
+VN/A
+p1319
+sVThe Roommate
+p1320
+V$16 million
+p1321
+sVThink Like a Man Too
+p1322
+V$24 million
+p1323
+sVJobs
+p1324
+V$12 million
+p1325
+sVLone Survivor
+p1326
+V$40 million
+p1327
+sVYour Highness
+p1328
+V$49.9 million
+p1329
+sVScatter My Ashes at Bergdorf's
+p1330
+VN/A
+p1331
+sVMargaret
+p1332
+V$14 million
+p1333
+sVAnonymous
+p1334
+V$30 million
+p1335
+sVIn the Land of Blood and Honey
+p1336
+VN/A
+p1337
+sVMan on a Ledge
+p1338
+V$42 million
+p1339
+sVThe Watch
+p1340
+V$68 million
+p1341
+sVHitchcock
+p1342
+VN/A
+p1343
+sVA Long Way Off
+p1344
+V$500,000
+p1345
+sVHeropanti
+p1346
+VN/A
+p1347
+sVDark Star: H.R. Giger's World
+p1348
+VN/A
+p1349
+sVVettai
+p1350
+VN/A
+p1351
+sVPredators
+p1352
+V$40 million
+p1353
+sVThe Other Dream Team
+p1354
+VN/A
+p1355
+sVBrave
+p1356
+V$185 million
+p1357
+sVGrown Ups 2
+p1358
+V$80 million
+p1359
+sVKingsman: The Secret Service
+p1360
+V$81 million
+p1361
+sVFun Size
+p1362
+V$14 million
+p1363
+sVGirl Rising
+p1364
+VN/A
+p1365
+sVAssaulted: Civil Rights Under Fire
+p1366
+VN/A
+p1367
+sVPrince of Persia: The Sands of Time
+p1368
+V$200 million
+p1369
+sVWe Bought a Zoo
+p1370
+VN/A
+p1371
+sVChico & Rita
+p1372
+VN/A
+p1373
+sVThis Ain't No Mouse Music!
+p1374
+VN/A
+p1375
+sVEl Milagro De Marcelino Pan
+p1376
+V$3 million
+p1377
+sVThe Town
+p1378
+V$37 million
+p1379
+sVJohn Wick
+p1380
+V$20 million
+p1381
+sVDiary of a Wimpy Kid: Rodrick Rules
+p1382
+V$21 million
+p1383
+sVSeeking a Friend for the End of the World
+p1384
+V$10 million
+p1385
+sVThe Man with the Iron Fists
+p1386
+V$15 million
+p1387
+sVSinbad: The Fifth Voyage
+p1388
+VN/A
+p1389
+sVNow You See Me
+p1390
+V$75 million
+p1391
+sVDysfunctional Friends
+p1392
+V$5 million
+p1393
+sVFilly Brown
+p1394
+V$2 million
+p1395
+sVAll is Bright
+p1396
+VN/A
+p1397
+sVLuv Shuv Tey Chicken Khurana
+p1398
+VN/A
+p1399
+sVI Spit on Your Grave
+p1400
+V$2 million
+p1401
+sVMonsters University
+p1402
+VN/A
+p1403
+sVMidnight in Paris
+p1404
+V$17 million
+p1405
+sVYoung Adult
+p1406
+V$12 million
+p1407
+sVCassadaga
+p1408
+VN/A
+p1409
+sVYou Again
+p1410
+V$20 million
+p1411
+sVMortdecai
+p1412
+V$60 million
+p1413
+sVOur Family Wedding
+p1414
+VN/A
+p1415
+sVThe Expendables 2
+p1416
+V$100 million
+p1417
+sVNo Strings Attached
+p1418
+V$25 million
+p1419
+sVThe Lord of the Rings: The Two Towers (2011 re-release)
+p1420
+VN/A
+p1421
+sV50 to 1
+p1422
+VN/A
+p1423
+sVTanu Weds Manu Returns
+p1424
+S'NA'
+p1425
+sVSplice
+p1426
+V$30 million
+p1427
+sVThe Lords of Salem
+p1428
+V$1.5 million
+p1429
+sVDr. Seuss' The Lorax
+p1430
+V$70 million
+p1431
+sVRadio Free Albemuth
+p1432
+VN/A
+p1433
+sVGladiators of Rome
+p1434
+VN/A
+p1435
+sVIndigo Children
+p1436
+VN/A
+p1437
+sVBig Miracle
+p1438
+V$40 million
+p1439
+sVSaheb Biwi Aur Gangster
+p1440
+VN/A
+p1441
+sVBatman Begins (2012 re-release)
+p1442
+VN/A
+p1443
+sVSafe Haven
+p1444
+V$28 million
+p1445
+sV71 Into the Fire
+p1446
+VN/A
+p1447
+sVThe City Dark
+p1448
+VN/A
+p1449
+sVThe Expendables
+p1450
+V$80 million
+p1451
+sVThe Ides of March
+p1452
+VN/A
+p1453
+sVLife as We Know It
+p1454
+V$38 million
+p1455
+sVAmerica (2014)
+p1456
+VN/A
+p1457
+sVThe Remaining
+p1458
+VN/A
+p1459
+sVHow Do You Know
+p1460
+V$120 million
+p1461
+sVBitch Slap
+p1462
+VN/A
+p1463
+sVUn Flic (2013 re-release)
+p1464
+VN/A
+p1465
+sVHop
+p1466
+V$63 million
+p1467
+sVStanding Ovation
+p1468
+VN/A
+p1469
+sVDawn of the Planet of the Apes
+p1470
+V$170 million
+p1471
+sVStep Up Revolution
+p1472
+V$33 million
+p1473
+sVLove & Mercy
+p1474
+VN/A
+p1475
+sVThe Call
+p1476
+V$13 million
+p1477
+sVUnstoppable
+p1478
+V$100 million
+p1479
+sVThe Bling Ring
+p1480
+VN/A
+p1481
+sVBeauty and the Beast (3D)
+p1482
+VN/A
+p1483
+sVWe Are What We Are
+p1484
+VN/A
+p1485
+sVThe Great Invisible
+p1486
+VN/A
+p1487
+sVProject X
+p1488
+VN/A
+p1489
+sVAfternoon of a Faun
+p1490
+VN/A
+p1491
+sVDracula Untold
+p1492
+V$70 million
+p1493
+sVFor a Good Time, Call... 
+p1494
+VN/A
+p1495
+sVAnchorman 2: The Legend Continues
+p1496
+V$50 million
+p1497
+sVSpinning Plates
+p1498
+VN/A
+p1499
+sVThe Perfect Game
+p1500
+VN/A
+p1501
+sVShutter Island
+p1502
+V$80 million
+p1503
+sVWanderlust
+p1504
+VN/A
+p1505
+sVNanny McPhee Returns
+p1506
+V$35 million
+p1507
+sVUnknown
+p1508
+V$30 million
+p1509
+sVHighway (2014)
+p1510
+VN/A
+p1511
+sVResident Evil: Afterlife
+p1512
+V$60 million
+p1513
+sVCitizenfour
+p1514
+VN/A
+p1515
+sVHome (2015)
+p1516
+V$135 million
+p1517
+sVJust Wright
+p1518
+VN/A
+p1519
+sVMarmaduke
+p1520
+V$50 million
+p1521
+sVDiary of a Wimpy Kid
+p1522
+V$15 million
+p1523
+sVGulliver's Travels
+p1524
+V$112 million
+p1525
+sVX-Men: First Class
+p1526
+V$160 million
+p1527
+sVKalakalappu@Masala Cafe
+p1528
+VN/A
+p1529
+sVAmerican Hustle
+p1530
+V$40 million
+p1531
+sVCartas a Elena
+p1532
+VN/A
+p1533
+sVThe Hangover Part II
+p1534
+V$80 million
+p1535
+sVNo Eres Tu, Soy Yo
+p1536
+VN/A
+p1537
+sVStep Up 3-D
+p1538
+V$30 million
+p1539
+sVThe Hobbit: The Battle of the Five Armies
+p1540
+VN/A
+p1541
+sVSalt
+p1542
+V$110 million
+p1543
+sVHot Tub Time Machine
+p1544
+V$36 million
+p1545
+sVThe Best Exotic Marigold Hotel
+p1546
+V$10 million
+p1547
+sVNoah
+p1548
+V$125 million
+p1549
+sVAfter The Ball
+p1550
+VN/A
+p1551
+sVNight at the Museum: Secret of the Tomb
+p1552
+V$127 million
+p1553
+sVHemingway's Garden of Eden
+p1554
+VN/A
+p1555
+sVThe Grey
+p1556
+V$25 million
+p1557
+sVSan Andreas
+p1558
+VN/A
+p1559
+sVTo the Arctic (IMAX)
+p1560
+VN/A
+p1561
+sVDesert Dancer
+p1562
+VN/A
+p1563
+sVAll Is Lost
+p1564
+VN/A
+p1565
+sVThe Wrecking Crew
+p1566
+VN/A
+p1567
+sVWinter's Tale
+p1568
+V$60 million
+p1569
+sVA Letter to Momo
+p1570
+VN/A
+p1571
+sVBlack Sea
+p1572
+VN/A
+p1573
+sVAlone Yet Not Alone
+p1574
+V$7 million
+p1575
+sVCalvary
+p1576
+VN/A
+p1577
+sVThe Bodyguard (2012 re-release)
+p1578
+VN/A
+p1579
+sVSomething From Nothing: The Art of Rap
+p1580
+VN/A
+p1581
+sVKaty Perry: Part of Me
+p1582
+V$12 million
+p1583
+sVFrankie & Alice (2014)
+p1584
+VN/A
+p1585
+sVKill the Irishman
+p1586
+VN/A
+p1587
+sVHubble 3D
+p1588
+VN/A
+p1589
+sVWho Took Johnny
+p1590
+VN/A
+p1591
+sVThe Family (2013)
+p1592
+V$30 million
+p1593
+sVKiller Elite
+p1594
+V$70 million
+p1595
+sVThe Odd Life of Timothy Green
+p1596
+VN/A
+p1597
+sVDevil
+p1598
+VN/A
+p1599
+sVPlanes
+p1600
+V$50 million
+p1601
+sVParaNorman
+p1602
+V$60 million
+p1603
+sVMen, Women & Children
+p1604
+VN/A
+p1605
+sVThe Secret of Kells
+p1606
+V$8 million
+p1607
+sVExtremely Loud & Incredibly Close
+p1608
+VN/A
+p1609
+sVKochadaiiyaan
+p1610
+VN/A
+p1611
+sVCircumstance
+p1612
+V$1,000,000
+p1613
+sVDespicable Me 2
+p1614
+V$76 million
+p1615
+sVPeople Like Us
+p1616
+V$16 million
+p1617
+sVMinions
+p1618
+VN/A
+p1619
+sVDeitrick Haddon's A Beautiful Soul
+p1620
+VN/A
+p1621
+sVThe Adventures of Tintin
+p1622
+VN/A
+p1623
+sVDark Skies
+p1624
+V$3.5 million
+p1625
+sVTower Heist
+p1626
+V$75 million
+p1627
+sVWar Horse
+p1628
+V$66 million
+p1629
+sVABCD (Any Body Can Dance) 2
+p1630
+VN/A
+p1631
+sVOfficer Down
+p1632
+VN/A
+p1633
+sVChennai Express
+p1634
+VN/A
+p1635
+sVThe Pretty One
+p1636
+VN/A
+p1637
+sVWords and Pictures
+p1638
+VN/A
+p1639
+sVThe Playroom
+p1640
+VN/A
+p1641
+sVRaajneeti
+p1642
+VN/A
+p1643
+sVAtlas Shrugged: Part I
+p1644
+V$20 million
+p1645
+sVIris (2015)
+p1646
+VN/A
+p1647
+sVKung Fu Panda 2
+p1648
+V$150 million
+p1649
+sVSnow Flower and the Secret Fan
+p1650
+V$6 million
+p1651
+sVWin Win
+p1652
+VN/A
+p1653
+sVA Good Day to Die Hard
+p1654
+V$92 million
+p1655
+sVDaylight (2011)
+p1656
+VN/A
+p1657
+sVN'Secure
+p1658
+V$1.6 million
+p1659
+sVFootloose (2011)
+p1660
+V$24 million
+p1661
+sVHeroine
+p1662
+VN/A
+p1663
+sVThe Expendables 3
+p1664
+VN/A
+p1665
+sVGirl Most Likely
+p1666
+VN/A
+p1667
+sVHeaven is for Real
+p1668
+V$12 million
+p1669
+sVNebraska
+p1670
+V$12 million
+p1671
+sVElysium
+p1672
+V$115 million
+p1673
+sVSatyagraha
+p1674
+VN/A
+p1675
+sVThe Apparition
+p1676
+V$17 million
+p1677
+sVMaleficent
+p1678
+V$180 million
+p1679
+sVThat's My Boy
+p1680
+V$70 million
+p1681
+sVRed State
+p1682
+VN/A
+p1683
+sVPlaying for Keeps
+p1684
+VN/A
+p1685
+sVGhost Rider: Spirit of Vengeance
+p1686
+V$57 million
+p1687
+sVRepo Men
+p1688
+V$32 million
+p1689
+sVImmortals
+p1690
+V$75 million
+p1691
+sVStar Trek Into Darkness
+p1692
+V$190 million
+p1693
+sVThe Darkest Hour
+p1694
+V$30 million
+p1695
+sVBig Hero 6
+p1696
+V$165 million
+p1697
+sVOur Idiot Brother
+p1698
+V$5 million
+p1699
+sVAt Middleton
+p1700
+VN/A
+p1701
+sVThe Three Musketeers (2011)
+p1702
+V$75 million
+p1703
+sVThe Ultimate Life
+p1704
+VN/A
+p1705
+sVThe Grand Seduction
+p1706
+VN/A
+p1707
+sVDom Hemingway
+p1708
+VN/A
+p1709
+sVBlue Like Jazz
+p1710
+VN/A
+p1711
+sVProject Nim
+p1712
+VN/A
+p1713
+sVVeronica Mars
+p1714
+V$6 million
+p1715
+sVChappie
+p1716
+V$49 million
+p1717
+sVFifty Shades of Grey
+p1718
+V$40 million
+p1719
+sVBroken City
+p1720
+V$35 million
+p1721
+sVThe Bay
+p1722
+VN/A
+p1723
+sVThe Heart Specialist
+p1724
+VN/A
+p1725
+sVThe Wolf of Wall Street
+p1726
+V$100 million
+p1727
+sVMeet the Mormons
+p1728
+VN/A
+p1729
+sVRace 2
+p1730
+VN/A
+p1731
+sVBlack Souls (Anime Nere)
+p1732
+VN/A
+p1733
+sVEat Pray Love
+p1734
+V$60 million
+p1735
+sVThanks for Sharing
+p1736
+VN/A
+p1737
+sVGrassroots
+p1738
+VN/A
+p1739
+sVSavannah
+p1740
+VN/A
+p1741
+sVThe Good Guy
+p1742
+V$10 million
+p1743
+sVAfrican Cats
+p1744
+VN/A
+p1745
+sVArt of the Steal
+p1746
+VN/A
+p1747
+sVSabotage (2014)
+p1748
+VN/A
+p1749
+sVChance Pe Dance
+p1750
+VN/A
+p1751
+sVHorrible Bosses 2
+p1752
+V$42 million
+p1753
+sV10 Years
+p1754
+VN/A
+p1755
+sVNo One Killed Jessica
+p1756
+VN/A
+p1757
+sVMud
+p1758
+VN/A
+p1759
+sV13 Sins
+p1760
+VN/A
+p1761
+sVStill Alice
+p1762
+V$5 million
+p1763
+sVIf I Stay
+p1764
+V$11 million
+p1765
+sVMillion Dollar Arm
+p1766
+V$25 million
+p1767
+sVThe Great Gatsby (2013)
+p1768
+V$105 million
+p1769
+sVContagion
+p1770
+V$60 million
+p1771
+sVTinker, Tailor, Soldier, Spy
+p1772
+VN/A
+p1773
+sVFlipped
+p1774
+V$14 million
+p1775
+sVIt's Kind of a Funny Story
+p1776
+V$8 million
+p1777
+sVMax et les Ferrailleurs (Max and the Junkmen) (2012 re-release)
+p1778
+VN/A
+p1779
+sVDespicable Me
+p1780
+V$69 million
+p1781
+sVJurassic World
+p1782
+VN/A
+p1783
+sVCrazy on the Outside
+p1784
+VN/A
+p1785
+sVKhoobsurat
+p1786
+VN/A
+p1787
+sV35 and Ticking
+p1788
+VN/A
+p1789
+sVBlack or White
+p1790
+V$9 million
+p1791
+sVThe Last 5 Years
+p1792
+VN/A
+p1793
+sVPastorela
+p1794
+VN/A
+p1795
+sVA Nightmare on Elm Street (2010)
+p1796
+V$35 million
+p1797
+sVFrankenweenie
+p1798
+V$39 million
+p1799
+sVBuen Dia, Ramon
+p1800
+VN/A
+p1801
+sVLUV
+p1802
+VN/A
+p1803
+sVHugo
+p1804
+VN/A
+p1805
+sV2 States
+p1806
+VN/A
+p1807
+sVResurrect Dead: The Mystery of the Toynbee Tiles
+p1808
+VN/A
+p1809
+sVTake Me Home Tonight
+p1810
+VN/A
+p1811
+sVSelma
+p1812
+V$20 million
+p1813
+sVBlackhat
+p1814
+V$70 million
+p1815
+sVTees Maar Khan
+p1816
+VN/A
+p1817
+sVArthur Christmas
+p1818
+VN/A
+p1819
+sVWaiting for "Superman"
+p1820
+VN/A
+p1821
+sVThe Loft
+p1822
+VN/A
+p1823
+sVBefore Midnight
+p1824
+VN/A
+p1825
+sVSanctum
+p1826
+V$30 million
+p1827
+sVThe Tree of Life
+p1828
+V$32 million
+p1829
+sVThe Hobbit: An Unexpected Journey
+p1830
+VN/A
+p1831
+sVRio 2
+p1832
+V$103 million
+p1833
+sVThe Black Waters of Echo's Pond
+p1834
+VN/A
+p1835
+sVMeet Monica Velour
+p1836
+VN/A
+p1837
+sVX-Men: Days of Future Past
+p1838
+V$200 million
+p1839
+sVThe Kids Are All Right
+p1840
+V$4 million
+p1841
+sVZokkomon
+p1842
+VN/A
+p1843
+sVMr. X
+p1844
+VN/A
+p1845
+sVParental Guidance
+p1846
+V$25 million
+p1847
+sVThey Come to America
+p1848
+VN/A
+p1849
+sVTyler Perry's Good Deeds
+p1850
+VN/A
+p1851
+sVLovely Molly
+p1852
+VN/A
+p1853
+sVAlpha and Omega
+p1854
+VN/A
+p1855
+sVExtraordinary Measures
+p1856
+V$31 million
+p1857
+sVInchAllah (U.S. only)
+p1858
+VN/A
+p1859
+sVEnd of Watch
+p1860
+V$7 million
+p1861
+sVThe Company Men
+p1862
+V$15 million
+p1863
+sVThe Big Wedding
+p1864
+V$35 million
+p1865
+sVRaiders of the Lost Ark (IMAX)
+p1866
+VN/A
+p1867
+sVThe Wind Rises
+p1868
+VN/A
+p1869
+sVVirginia
+p1870
+VN/A
+p1871
+sVLe Amiche (re-issue)
+p1872
+VN/A
+p1873
+sVAgneepath
+p1874
+VN/A
+p1875
+sVCloudy with a Chance of Meatballs 2
+p1876
+V$78 million
+p1877
+sVJumping the Broom
+p1878
+V$6.6 million
+p1879
+sVHoliday (2014)
+p1880
+VN/A
+p1881
+sVEx Machina
+p1882
+VN/A
+p1883
+sVNot Today
+p1884
+VN/A
+p1885
+sVWar of the Buttons (2012)
+p1886
+VN/A
+p1887
+sVBarfi!
+p1888
+VN/A
+p1889
+sVThe Lazarus Effect
+p1890
+V$3.3 million
+p1891
+sVFar from the Madding Crowd
+p1892
+VN/A
+p1893
+sVEscobar: Paradise Lost
+p1894
+VN/A
+p1895
+sVGone Girl
+p1896
+V$61 million
+p1897
+sVCamp (2013)
+p1898
+VN/A
+p1899
+sVAugust: Osage County
+p1900
+VN/A
+p1901
+sVBabies
+p1902
+VN/A
+p1903
+sVThe Quiet Ones
+p1904
+VN/A
+p1905
+sVTooth Fairy
+p1906
+V$48 million
+p1907
+sVMy Way (2012)
+p1908
+VN/A
+p1909
+sVThe Three Stooges
+p1910
+V$30 million
+p1911
+sVAmerican Sniper
+p1912
+V$58.8 million
+p1913
+sVBlack Nativity
+p1914
+V$17.5 million
+p1915
+sVThe Package (2013)
+p1916
+VN/A
+p1917
+sVIn a World
+p1918
+VN/A
+p1919
+sVAccident
+p1920
+VN/A
+p1921
+sVMiral
+p1922
+VN/A
+p1923
+sVThe Interview (2014)
+p1924
+VN/A
+p1925
+sVThis is Where I Leave You
+p1926
+V$19.8 million
+p1927
+sVThe Hobbit: The Desolation of Smaug
+p1928
+VN/A
+p1929
+sVSomething Borrowed
+p1930
+V$35 million
+p1931
+sVBeyond the Lights
+p1932
+V$7 million
+p1933
+sVThe Drop
+p1934
+V$12.6 million
+p1935
+sVThe Cabin in the Woods
+p1936
+VN/A
+p1937
+sVA Better Life
+p1938
+V$10 million
+p1939
+sV44 Inch Chest
+p1940
+VN/A
+p1941
+sVJane Eyre
+p1942
+VN/A
+p1943
+sVLittle Boy
+p1944
+VN/A
+p1945
+sVPearl Jam Twenty
+p1946
+VN/A
+p1947
+sVSweethearts of the Prison Rodeo
+p1948
+VN/A
+p1949
+sVJersey Boys
+p1950
+V$40 million
+p1951
+sVMama
+p1952
+V$15 million
+p1953
+sVThe Polar Express (2011 re-issue)
+p1954
+VN/A
+p1955
+sVPredestination
+p1956
+VN/A
+p1957
+sVMadame Bovary
+p1958
+VN/A
+p1959
+sVDiary of a Country Priest (2011 re-release)
+p1960
+VN/A
+p1961
+sVThe Iron Lady
+p1962
+VN/A
+p1963
+sVPopulaire
+p1964
+VN/A
+p1965
+sVAnna Karenina
+p1966
+VN/A
+p1967
+sVHotel Normandy
+p1968
+VN/A
+p1969
+sVAnchorman 2 (R-Rated Extended Cut)
+p1970
+VN/A
+p1971
+sVFrank Miller's Sin City: A Dame to Kill For
+p1972
+VN/A
+p1973
+sVA Pig Across Paris (2013 re-issue)
+p1974
+VN/A
+p1975
+sV3 Hearts
+p1976
+VN/A
+p1977
+sVWater for Elephants
+p1978
+V$38 million
+p1979
+sVHaider
+p1980
+VN/A
+p1981
+sVLet's Be Cops
+p1982
+V$17 million
+p1983
+sVRedemption (2013)
+p1984
+VN/A
+p1985
+sVThe Full Picture
+p1986
+VN/A
+p1987
+sVKites
+p1988
+VN/A
+p1989
+sVHigh Tech, Low Life
+p1990
+VN/A
+p1991
+sVP.K.
+p1992
+VN/A
+p1993
+sVThe Spectacular Now
+p1994
+VN/A
+p1995
+sVBereavement
+p1996
+VN/A
+p1997
+sVMorning Glory
+p1998
+V$40 million
+p1999
+sVBreath Made Visible
+p2000
+VN/A
+p2001
+sVFed Up
+p2002
+VN/A
+p2003
+sVThe Hunting Ground
+p2004
+VN/A
+p2005
+sVThe Best Man Holiday
+p2006
+V$17 million
+p2007
+sVLast Flight of the Champion
+p2008
+VN/A
+p2009
+sVTrace Amounts
+p2010
+VN/A
+p2011
+sVClash of the Titans (2010)
+p2012
+V$125 million
+p2013
+sVAs It Is In Heaven
+p2014
+VN/A
+p2015
+sVJust Go With It
+p2016
+V$80 million
+p2017
+sVThe Second Best Exotic Marigold Hotel
+p2018
+V$10 million
+p2019
+sVWa-shoku: Beyond Sushi
+p2020
+VN/A
+p2021
+sVMars Needs Moms
+p2022
+V$150 million
+p2023
+sVEasy Money (2012)
+p2024
+VN/A
+p2025
+sVTyler Perry Presents Peeples
+p2026
+V$15 million
+p2027
+sVGirls Against Boys
+p2028
+VN/A
+p2029
+sVJust Before I Go
+p2030
+VN/A
+p2031
+sVKites: The Remix
+p2032
+VN/A
+p2033
+sVHope Springs
+p2034
+VN/A
+p2035
+sVThe Book Thief
+p2036
+VN/A
+p2037
+sVThunder Soul
+p2038
+VN/A
+p2039
+sVThe Bourne Legacy
+p2040
+V$125 million
+p2041
+sVErnest & Celestine
+p2042
+VN/A
+p2043
+sVSarah Palin - You Betcha!
+p2044
+VN/A
+p2045
+sVLucky (2011)
+p2046
+VN/A
+p2047
+sVMegamind
+p2048
+V$130 million
+p2049
+sVThe Help
+p2050
+V$25 million
+p2051
+sVThe Square
+p2052
+VN/A
+p2053
+sVCourageous
+p2054
+V$2 million
+p2055
+sVThe Next Three Days
+p2056
+V$30 million
+p2057
+sVPublic Speaking
+p2058
+VN/A
+p2059
+sVChernobyl Diaries
+p2060
+VN/A
+p2061
+sVThe Joneses
+p2062
+V$10 million
+p2063
+sVThe Internship
+p2064
+V$58 million
+p2065
+sVFalcon Rising
+p2066
+VN/A
+p2067
+sVPeepli Live
+p2068
+VN/A
+p2069
+sVRaavan
+p2070
+VN/A
+p2071
+sVTanner Hall
+p2072
+VN/A
+p2073
+sVA Little Chaos
+p2074
+VN/A
+p2075
+sVThe A-Team
+p2076
+V$110 million
+p2077
+sVThe Purge: Anarchy
+p2078
+V$9 million
+p2079
+sVUnderworld Awakening
+p2080
+V$70 million
+p2081
+sVThor: The Dark World
+p2082
+V$170 million
+p2083
+sV50/50
+p2084
+V$8 million
+p2085
+sVBattle: Los Angeles
+p2086
+V$70 million
+p2087
+sVThe Warrior's Way
+p2088
+V$42 million
+p2089
+sVMia and the Migoo
+p2090
+VN/A
+p2091
+sVInfliction
+p2092
+VN/A
+p2093
+sVThe Lone Ranger
+p2094
+V$215 million
+p2095
+sVRosewater
+p2096
+VN/A
+p2097
+sVFinal Destination 5
+p2098
+V$40 million
+p2099
+sVJackass 3-D
+p2100
+V$20 million
+p2101
+sVIn the Name of my Daughter
+p2102
+VN/A
+p2103
+sVJudy Moody and the NOT Bummer Summer
+p2104
+V$20 million
+p2105
+sVOuija
+p2106
+V$5 million
+p2107
+sVCars 2
+p2108
+V$200 million
+p2109
+sVFaster
+p2110
+V$24 million
+p2111
+sVSong of the Sea
+p2112
+VN/A
+p2113
+sVThor
+p2114
+V$150 million
+p2115
+sVThe Dark Knight Rises
+p2116
+V$250 million
+p2117
+sVEscape From Planet Earth
+p2118
+V$40 million
+p2119
+sVI Hate Luv Storys
+p2120
+VN/A
+p2121
+sVExodus: Gods and Kings
+p2122
+V$140 million
+p2123
+sVThe Sweeney
+p2124
+VN/A
+p2125
+sVThe Hunger Games
+p2126
+V$78 million
+p2127
+sVInside Llewyn Davis
+p2128
+VN/A
+p2129
+sVBeing Flynn
+p2130
+VN/A
+p2131
+sVOut in the Dark
+p2132
+VN/A
+p2133
+sVUdaan
+p2134
+VN/A
+p2135
+sVThe Collection
+p2136
+VN/A
+p2137
+sVKung Fu Killer
+p2138
+VN/A
+p2139
+sVThe Investigator
+p2140
+VN/A
+p2141
+sVShark Night 3D
+p2142
+V$25 million
+p2143
+sVThe Thing (2011)
+p2144
+V$38 million
+p2145
+sVArjun: The Warrior Prince
+p2146
+VN/A
+p2147
+sVMIB 3
+p2148
+V$225 million
+p2149
+sVThe Legend of Hercules
+p2150
+V$70 million
+p2151
+sVEvil Intent
+p2152
+VN/A
+p2153
+sVSeason of the Witch
+p2154
+V$40 million
+p2155
+sVRepentance
+p2156
+VN/A
+p2157
+sVThe Amazing Spider-Man 2
+p2158
+VN/A
+p2159
+sVJack and Jill
+p2160
+V$79 million
+p2161
+sVTales from Earthsea
+p2162
+VN/A
+p2163
+sVFrom Up on Poppy Hill
+p2164
+VN/A
+p2165
+sVLucy
+p2166
+V$40 million
+p2167
+sVThe Other Woman (2014)
+p2168
+V$40 million
+p2169
+sVLittle White Lies
+p2170
+VN/A
+p2171
+sVThe Lord of the Rings: The Return of the King (2011 re-release)
+p2172
+VN/A
+p2173
+sVThe Polar Express (2012 re-issue)
+p2174
+VN/A
+p2175
+sVGodzilla: The Japanese Original
+p2176
+VN/A
+p2177
+sVRabbit Hole
+p2178
+V$5 million
+p2179
+sVDon 2
+p2180
+VN/A
+p2181
+sVThe Giver
+p2182
+V$25 million
+p2183
+sVThe Strange Little Cat
+p2184
+VN/A
+p2185
+sVParanormal Activity 3
+p2186
+V$5 million
+p2187
+sVBears
+p2188
+VN/A
+p2189
+sVHomefront
+p2190
+V$22 million
+p2191
+sVAlex Cross
+p2192
+V$35 million
+p2193
+sVThe Woman in Black
+p2194
+VN/A
+p2195
+sVCosmopolis
+p2196
+VN/A
+p2197
+sVMugamoodi
+p2198
+VN/A
+p2199
+sVAll's Faire in Love
+p2200
+VN/A
+p2201
+sVLottery Ticket
+p2202
+V$17 million
+p2203
+sVSeeking Justice
+p2204
+VN/A
+p2205
+sVThe Gambler
+p2206
+V$25 million
+p2207
+sVTexas Chainsaw 3D
+p2208
+VN/A
+p2209
+sVOlympus Has Fallen
+p2210
+V$70 million
+p2211
+sVDeliver Us From Evil
+p2212
+V$30 million
+p2213
+sVNew Year's Eve
+p2214
+V$56 million
+p2215
+sVWhat If (2014)
+p2216
+VN/A
+p2217
+sVThe Equalizer
+p2218
+V$55 million
+p2219
+sVArthur (2011)
+p2220
+V$40 million
+p2221
+sVThe Skeleton Twins
+p2222
+VN/A
+p2223
+sVMommy
+p2224
+VN/A
+p2225
+sVThe Tale of The Princess Kaguya
+p2226
+VN/A
+p2227
+sVThe Way, Way Back
+p2228
+VN/A
+p2229
+sVFrom Prada to Nada
+p2230
+VN/A
+p2231
+sVTrue Grit
+p2232
+V$38 million
+p2233
+sVFast & Furious 6
+p2234
+V$160 million
+p2235
+sVI'm In Love With a Church Girl
+p2236
+VN/A
+p2237
+sVRemember Me
+p2238
+V$16 million
+p2239
+sVScott Pilgrim vs. the World
+p2240
+V$60 million
+p2241
+sVLeft Behind (2014)
+p2242
+V$16 million
+p2243
+sVEva
+p2244
+VN/A
+p2245
+sVPitch Perfect
+p2246
+V$17 million
+p2247
+sVThe Son of No One
+p2248
+VN/A
+p2249
+sVDead Man Down
+p2250
+VN/A
+p2251
+sVSpecial Forces
+p2252
+VN/A
+p2253
+sVThe Wolfman
+p2254
+V$150 million
+p2255
+sVCave of Forgotten Dreams
+p2256
+VN/A
+p2257
+sVJimi: All Is By My Side
+p2258
+VN/A
+p2259
+sVBucky Larson: Born to Be a Star
+p2260
+V$10 million
+p2261
+sVEl Sicario, Room 164
+p2262
+VN/A
+p2263
+sVLe Rayon Vert (Summer)
+p2264
+VN/A
+p2265
+sVBuried
+p2266
+VN/A
+p2267
+sVThe Karate Kid
+p2268
+V$40 million
+p2269
+sVGhostbusters (30th Anniversary re-release)
+p2270
+VN/A
+p2271
+sVThe 100-Year Old Man Who Climbed Out the Window and Disappeared
+p2272
+VN/A
+p2273
+sVParanormal Activity: The Marked Ones
+p2274
+V$5 million
+p2275
+sVWild (2014)
+p2276
+VN/A
+p2277
+sVWhat's Your Number?
+p2278
+V$20 million
+p2279
+sVThe Monuments Men
+p2280
+V$70 million
+p2281
+sVThis Is 40
+p2282
+V$35 million
+p2283
+sVBeautiful Creatures (2013)
+p2284
+V$60 million
+p2285
+sVHumpty Sharma Ki Dulhania
+p2286
+VN/A
+p2287
+sVPoltergeist (2015)
+p2288
+VN/A
+p2289
+sVI Don't Know How She Does It
+p2290
+V$24 million
+p2291
+sVA Haunted House 2
+p2292
+V$4 million
+p2293
+sVMachine Gun Preacher
+p2294
+V$30 million
+p2295
+sVArgo
+p2296
+V$44.5 million
+p2297
+sVPersecuted
+p2298
+VN/A
+p2299
+sVDhoom 3
+p2300
+VN/A
+p2301
+sVHereafter
+p2302
+V$50 million
+p2303
+sVThe Lucky One
+p2304
+VN/A
+p2305
+sVConan the Barbarian (2011)
+p2306
+V$90 million
+p2307
+sVThe Boy Next Door
+p2308
+V$4 million
+p2309
+sVSpy
+p2310
+VN/A
+p2311
+sV12 Years a Slave
+p2312
+V$20 million
+p2313
+sVTron Legacy
+p2314
+V$170 million
+p2315
+sVSoul Surfer
+p2316
+V$18 million
+p2317
+sVZookeeper
+p2318
+V$80 million
+p2319
+sVMuran
+p2320
+VN/A
+p2321
+sVThe Fault in our Stars
+p2322
+V$12 million
+p2323
+sVWall Street: Money Never Sleeps
+p2324
+V$70 million
+p2325
+sVKick-Ass 2
+p2326
+V$28 million
+p2327
+sVAvatar: Special Edition
+p2328
+VN/A
+p2329
+sVDhobi Ghat (Mumbai Diaries)
+p2330
+VN/A
+p2331
+sVFilmistaan
+p2332
+VN/A
+p2333
+sVAct of Valor
+p2334
+V$12 million
+p2335
+sVTyler Perry's Madea's Big Happy Family
+p2336
+VN/A
+p2337
+sV2016 Obama's America
+p2338
+VN/A
+p2339
+sVSpare Parts
+p2340
+VN/A
+p2341
+sVThe Age of Adaline
+p2342
+VN/A
+p2343
+sVLove At First Fight
+p2344
+VN/A
+p2345
+sVThe Theory of Everything
+p2346
+V$15 million
+p2347
+sVRunner Runner
+p2348
+V$30 million
+p2349
+sVHere Comes the Boom
+p2350
+VN/A
+p2351
+sVBlue Valentine
+p2352
+V$1,000,000
+p2353
+sVPaan Singh Tomar
+p2354
+VN/A
+p2355
+sVGrand Illusion (2012 re-release)
+p2356
+VN/A
+p2357
+sVFriends with Kids
+p2358
+VN/A
+p2359
+sVPiranha 3D
+p2360
+V$24 million
+p2361
+sVVampire Academy
+p2362
+VN/A
+p2363
+sVTangled
+p2364
+V$260 million
+p2365
+sVBang Bang
+p2366
+VN/A
+p2367
+sVBarefoot
+p2368
+VN/A
+p2369
+sVHappyThankYouMorePlease
+p2370
+VN/A
+p2371
+sVWhite Wedding
+p2372
+VN/A
+p2373
+sVOur Man in Tehran
+p2374
+VN/A
+p2375
+sVR.I.P.D.
+p2376
+V$130 million
+p2377
+sVAtlas Shrugged: Part II
+p2378
+VN/A
+p2379
+sVGnomeo and Juliet
+p2380
+VN/A
+p2381
+sVI Am Ali
+p2382
+VN/A
+p2383
+sVManuscripts Don't Burn
+p2384
+VN/A
+p2385
+sVThe Divergent Series: Insurgent
+p2386
+V$110 million
+p2387
+sVCaptain Phillips
+p2388
+V$55 million
+p2389
+sVJe T'aime, Je T'aime (2014 re-issue)
+p2390
+VN/A
+p2391
+sVNever Let Me Go
+p2392
+V$15 million
+p2393
+sVWinter's Bone
+p2394
+V$2 million
+p2395
+sVCool It
+p2396
+VN/A
+p2397
+sVThe Last Day of August
+p2398
+VN/A
+p2399
+sVSaving Mr. Banks
+p2400
+V$35 million
+p2401
+sVBiutiful
+p2402
+VN/A
+p2403
+sVThe Gallows
+p2404
+VN/A
+p2405
+sVStrangerland
+p2406
+VN/A
+p2407
+sVCesar Chavez
+p2408
+VN/A
+p2409
+sVInto the Woods
+p2410
+V$50 million
+p2411
+sVTyler Perry's A Madea Christmas
+p2412
+VN/A
+p2413
+sVThe World's End
+p2414
+V$20 million
+p2415
+sVSeventh Son
+p2416
+V$95 million
+p2417
+sVThe Obama Effect
+p2418
+VN/A
+p2419
+sVAlvin and the Chipmunks: Chipwrecked
+p2420
+V$75 million
+p2421
+sVThe Secret World of Arrietty
+p2422
+VN/A
+p2423
+sVThe Players
+p2424
+VN/A
+p2425
+sVThe Afterlight
+p2426
+VN/A
+p2427
+sVWoman in Gold
+p2428
+V$11 million
+p2429
+sVTyler Perry's Why Did I Get Married Too?
+p2430
+V$20 million
+p2431
+sVJohnny English Reborn
+p2432
+V$45 million
+p2433
+sVThe Worst Movie EVER!
+p2434
+VN/A
+p2435
+sVMadagascar 3: Europe's Most Wanted
+p2436
+V$145 million
+p2437
+sVMy Week with Marilyn
+p2438
+VN/A
+p2439
+sVThe Bounty Hunter
+p2440
+V$40 million
+p2441
+sVBorn to Be Wild (IMAX)
+p2442
+VN/A
+p2443
+sVFury (2014)
+p2444
+V$68 million
+p2445
+sVFrozen (2010)
+p2446
+VN/A
+p2447
+sVRobin Hood
+p2448
+V$200 million
+p2449
+sVHimmatwala
+p2450
+VN/A
+p2451
+sVDinner for Schmucks
+p2452
+V$69 million
+p2453
+sVRiddick
+p2454
+V$38 million
+p2455
+sVNitro Circus the Movie 3D
+p2456
+VN/A
+p2457
+sVPort of Shadows (2012 re-issue)
+p2458
+VN/A
+p2459
+sVLe Petit Soldat (2013 re-release)
+p2460
+VN/A
+p2461
+sVHorrible Bosses
+p2462
+V$35 million
+p2463
+sVSpring Breakers
+p2464
+V$5 million
+p2465
+sVHector And The Search For Happiness
+p2466
+VN/A
+p2467
+sVThe Eagle
+p2468
+V$25 million
+p2469
+sVGrease (Sing-a-Long re-issue)
+p2470
+VN/A
+p2471
+sVLevel Five
+p2472
+VN/A
+p2473
+sVThe To-Do List
+p2474
+V$1.5 million
+p2475
+sVThe SpongeBob Movie: Sponge Out of Water
+p2476
+V$74 million
+p2477
+sVStories We Tell
+p2478
+VN/A
+p2479
+sVUndefeated (2012)
+p2480
+VN/A
+p2481
+sVCedar Rapids
+p2482
+VN/A
+p2483
+sVHorns
+p2484
+VN/A
+p2485
+sVThe Green Hornet
+p2486
+V$120 million
+p2487
+sVNightcrawler
+p2488
+V$8.5 million
+p2489
+sVStrangers Online
+p2490
+VN/A
+p2491
+sVJonah Hex
+p2492
+V$47 million
+p2493
+sVMoonrise Kingdom
+p2494
+V$16 million
+p2495
+sVLost in Thailand
+p2496
+VN/A
+p2497
+sVReturn to Nuke 'Em High Volume 1
+p2498
+VN/A
+p2499
+sVThe Wedding Ringer
+p2500
+V$23 million
+p2501
+sVKill the Messenger
+p2502
+VN/A
+p2503
+sVSecretariat
+p2504
+V$35 million
+p2505
+sVDum Maaro Dum
+p2506
+VN/A
+p2507
+sVBully (2012)
+p2508
+VN/A
+p2509
+sVBeginners
+p2510
+V$3.2 million
+p2511
+sVSomewhere
+p2512
+V$7 million
+p2513
+sVBol Bachchan
+p2514
+VN/A
+p2515
+sVI Love You, Phillip Morris
+p2516
+V$13 million
+p2517
+sVOne Small Hitch
+p2518
+VN/A
+p2519
+sVDue Date
+p2520
+V$65 million
+p2521
+sVLabor Day
+p2522
+V$18 million
+p2523
+sV5 Days of War
+p2524
+V$12 million
+p2525
+sVThe Last Stand
+p2526
+V$45 million
+p2527
+sVHot Tub Time Machine 2
+p2528
+V$14 million
+p2529
+sVKiller Joe
+p2530
+VN/A
+p2531
+sVIn Secret
+p2532
+VN/A
+p2533
+sVEntourage
+p2534
+VN/A
+p2535
+sVFinding Nemo (3D)
+p2536
+VN/A
+p2537
+sVPariah
+p2538
+VN/A
+p2539
+sVOne Day Pina Asked...
+p2540
+VN/A
+p2541
+sVOld Fashioned
+p2542
+VN/A
+p2543
+sVThe Judge
+p2544
+V$50 million
+p2545
+sVStations of the Elevated
+p2546
+VN/A
+p2547
+sVWon't Back Down
+p2548
+VN/A
+p2549
+sVChillar Party
+p2550
+VN/A
+p2551
+sVInstructions Not Included
+p2552
+VN/A
+p2553
+sVToys in the Attic
+p2554
+VN/A
+p2555
+sVSource Code
+p2556
+V$32 million
+p2557
+sVI'm Not Jesus Mommy
+p2558
+VN/A
+p2559
+sVFriends with Benefits
+p2560
+V$35 million
+p2561
+sVMad Max: Fury Road
+p2562
+V$150 million
+p2563
+sVNot Fade Away
+p2564
+V$20 million
+p2565
+sVReaching for the Moon
+p2566
+VN/A
+p2567
+sVGone
+p2568
+VN/A
+p2569
+sVDaybreakers
+p2570
+V$20 million
+p2571
+sVThe Suicide Theory
+p2572
+VN/A
+p2573
+sVUnfinished Business
+p2574
+V$35 million
+p2575
+sVTyler Perry's Temptation: Confessions of a Marriage Counselor
+p2576
+VN/A
+p2577
+sVA Zombie Invasion
+p2578
+VN/A
+p2579
+sVPenguins of Madagascar
+p2580
+V$132 million
+p2581
+sVFocus (2015)
+p2582
+V$50.1 million
+p2583
+sVLove is in the Air
+p2584
+VN/A
+p2585
+sVThe American
+p2586
+V$20 million
+p2587
+sVBrotherly Love
+p2588
+VN/A
+p2589
+sVStrange Magic
+p2590
+VN/A
+p2591
+sVGangster Squad
+p2592
+V$60 million
+p2593
+sVSpeed-Dating
+p2594
+VN/A
+p2595
+sVThe Seven Five
+p2596
+VN/A
+p2597
+sVSubmarine
+p2598
+VN/A
+p2599
+sVProm
+p2600
+V$8 million
+p2601
+sVMovie 43
+p2602
+V$6 million
+p2603
+sVAfter.Life
+p2604
+VN/A
+p2605
+sVWe Are Family
+p2606
+VN/A
+p2607
+sVYves Saint Laurent
+p2608
+VN/A
+p2609
+sVThe Art of Getting By
+p2610
+VN/A
+p2611
+sVThe November Man
+p2612
+VN/A
+p2613
+sV'71
+p2614
+VN/A
+p2615
+sVDon't Think I've Forgotten: Cambodia's Lost Rock and Roll
+p2616
+VN/A
+p2617
+sVMachete Kills
+p2618
+VN/A
+p2619
+sV30 Beats
+p2620
+VN/A
+p2621
+sV127 Hours
+p2622
+V$18 million
+p2623
+sVLincoln
+p2624
+V$65 million
+p2625
+sVMoms' Night Out
+p2626
+V$5 million
+p2627
+sVThe Future
+p2628
+V$1,000,000
+p2629
+sVThe Descendants
+p2630
+VN/A
+p2631
+sVDumb and Dumber To
+p2632
+V$40 million
+p2633
+sVJeff, Who Lives at Home
+p2634
+VN/A
+p2635
+sVFurry Vengeance
+p2636
+V$35 million
+p2637
+sVThe Quitter
+p2638
+VN/A
+p2639
+sVRomeo and Juliet (2013)
+p2640
+VN/A
+p2641
+sVFor Colored Girls
+p2642
+V$21 million
+p2643
+sVThe Impossible
+p2644
+VN/A
+p2645
+sVFurious 7
+p2646
+V$190 million
+p2647
+sVFast Five
+p2648
+V$125 million
+p2649
+sVPirates of the Caribbean: On Stranger Tides
+p2650
+V$250 million
+p2651
+sVLe Jour Se Leve (2014 re-release)
+p2652
+VN/A
+p2653
+sVThe Intouchables (U.S.-only)
+p2654
+VN/A
+p2655
+sVA Thousand Words
+p2656
+V$40 million
+p2657
+sVOne Chance
+p2658
+VN/A
+p2659
+sVLove, Rosie
+p2660
+VN/A
+p2661
+sVEnder's Game
+p2662
+V$110 million
+p2663
+sVGet Him to the Greek
+p2664
+V$40 million
+p2665
+sVBig Sur
+p2666
+VN/A
+p2667
+sVJurassic Park 3D
+p2668
+V$10 million
+p2669
+sVCarrie (2013)
+p2670
+V$30 million
+p2671
+sVPriest
+p2672
+V$60 million
+p2673
+sVBhaag Milkha Bhaag
+p2674
+VN/A
+p2675
+sVDon Jon
+p2676
+V$3 million
+p2677
+sVSon of God
+p2678
+VN/A
+p2679
+sVWe Steal Secrets: The Story of Wikileaks
+p2680
+VN/A
+p2681
+sVPawn
+p2682
+VN/A
+p2683
+sVPrisoners
+p2684
+V$46 million
+p2685
+sVThe Imposter
+p2686
+VN/A
+p2687
+sVBaahubali: The Beginning
+p2688
+VN/A
+p2689
+sVHayride 2
+p2690
+VN/A
+p2691
+sVA Resurrection
+p2692
+VN/A
+p2693
+sVIce Age: Continental Drift
+p2694
+V$95 million
+p2695
+sVSilent Night
+p2696
+VN/A
+p2697
+sVCyrus
+p2698
+V$7 million
+p2699
+sVBranded
+p2700
+VN/A
+p2701
+sVDivergent
+p2702
+V$85 million
+p2703
+sVThe Rabbi's Cat
+p2704
+VN/A
+p2705
+sVCats & Dogs: The Revenge of Kitty Galore
+p2706
+V$85 million
+p2707
+sV300: Rise of An Empire
+p2708
+V$110 million
+p2709
+sVRan (2010 re-issue)
+p2710
+VN/A
+p2711
+sVRed Dawn (2012)
+p2712
+V$65 million
+p2713
+sVJack the Giant Slayer
+p2714
+V$195 million
+p2715
+sVSavages (2012)
+p2716
+V$45 million
+p2717
+sVThe Stroller Strategy
+p2718
+VN/A
+p2719
+sVMagic Mike
+p2720
+V$7 million
+p2721
+sVSympathy for Delicious
+p2722
+VN/A
+p2723
+sVDate Night
+p2724
+V$55 million
+p2725
+sVSeven Psychopaths
+p2726
+V$15 million
+p2727
+sVThe King's Speech
+p2728
+V$15 million
+p2729
+sVThe Debt
+p2730
+V$20 million
+p2731
+sVScary Movie 5
+p2732
+V$20 million
+p2733
+sVRoar!
+p2734
+VN/A
+p2735
+sVOctober Baby (2012)
+p2736
+VN/A
+p2737
+sVPassion
+p2738
+VN/A
+p2739
+sV30 Minutes or Less
+p2740
+V$28 million
+p2741
+sVPain and Gain
+p2742
+V$26 million
+p2743
+sVAftermath (2014)
+p2744
+VN/A
+p2745
+sVGoon
+p2746
+VN/A
+p2747
+sVThe Nutcracker in 3D
+p2748
+V$90 million
+p2749
+sVLawless
+p2750
+VN/A
+p2751
+sVInAPPropriate Comedy
+p2752
+VN/A
+p2753
+sVBeautiful Boy
+p2754
+VN/A
+p2755
+sVSound City
+p2756
+VN/A
+p2757
+sVThe Nut Job
+p2758
+V$42 million
+p2759
+sVEvil Dead (2013)
+p2760
+V$17 million
+p2761
+sVFree Angela and All Political Prisoners
+p2762
+VN/A
+p2763
+sVFaith of Our Fathers
+p2764
+VN/A
+p2765
+sVL.A. Slasher
+p2766
+VN/A
+p2767
+sVFair Game (2010)
+p2768
+V$22 million
+p2769
+sVAlice in Wonderland (2010)
+p2770
+V$200 million
+p2771
+sVBreak Ke Baad
+p2772
+VN/A
+p2773
+sVThe Tillman Story
+p2774
+VN/A
+p2775
+sVThe Conspirator
+p2776
+V$25 million
+p2777
+sVThe Other Guys
+p2778
+V$100 million
+p2779
+sVThe Sapphires
+p2780
+VN/A
+p2781
+sVTrue Story
+p2782
+VN/A
+p2783
+sVUnfinished Song
+p2784
+VN/A
+p2785
+sVSummer Wars
+p2786
+VN/A
+p2787
+sVTyler Perry's Madea's Witness Protection
+p2788
+V$20 million
+p2789
+sVBrotherhood (2011)
+p2790
+VN/A
+p2791
+sVAnnie (2014)
+p2792
+V$65 million
+p2793
+sVWish I Was Here
+p2794
+VN/A
+p2795
+sVWalk of Shame
+p2796
+VN/A
+p2797
+sVThe Big Year
+p2798
+V$41 million
+p2799
+sVCowboys & Aliens
+p2800
+V$163 million
+p2801
+sVGringo Trails
+p2802
+VN/A
+p2803
+sVTeenage Mutant Ninja Turtles (2014)
+p2804
+V$125 million
+p2805
+sVHarry Potter and the Deathly Hallows Part 2
+p2806
+VN/A
+p2807
+sVAlphaville (2013 re-release)
+p2808
+VN/A
+p2809
+sVThe Switch
+p2810
+V$19 million
+p2811
+sVMonsters, Inc. (3D)
+p2812
+VN/A
+p2813
+sVThe Pirates! Band of Misfits
+p2814
+V$55 million
+p2815
+sVGabrielle (2014)
+p2816
+VN/A
+p2817
+sVJoyful Noise
+p2818
+VN/A
+p2819
+sVMosquita y Mari
+p2820
+VN/A
+p2821
+sVThe Kings of Summer
+p2822
+VN/A
+p2823
+sVThe Grace Card
+p2824
+VN/A
+p2825
+sVThe Dark Knight (2012 re-release)
+p2826
+VN/A
+p2827
+sVRed Riding Hood
+p2828
+V$42 million
+p2829
+sVSingham
+p2830
+VN/A
+p2831
+sVThe Connection
+p2832
+VN/A
+p2833
+sVConviction
+p2834
+V$12.5 million
+p2835
+sVDope
+p2836
+VN/A
+p2837
+sVThe Railway Man
+p2838
+VN/A
+p2839
+sVDear White People
+p2840
+VN/A
+p2841
+sVAbraham Lincoln: Vampire Hunter
+p2842
+V$69 million
+p2843
+sVInside Out
+p2844
+VN/A
+p2845
+sVBaggage Claim
+p2846
+VN/A
+p2847
+sVContempt (2013 re-release)
+p2848
+VN/A
+p2849
+sVLong Shot: The Kevin Laue Story
+p2850
+VN/A
+p2851
+sVNeighbors
+p2852
+V$18 million
+p2853
+sVDylan Dog: Dead of Night
+p2854
+VN/A
+p2855
+sVAlbert Nobbs
+p2856
+VN/A
+p2857
+sVCrooked Arrows
+p2858
+VN/A
+p2859
+sVTere Naal Love Ho Gaya
+p2860
+VN/A
+p2861
+sVThe Way Back
+p2862
+V$30 million
+p2863
+sVThe Secret Life of Walter Mitty
+p2864
+V$90 million
+p2865
+sVMy Soul to Take
+p2866
+V$25 million
+p2867
+sVChild 44
+p2868
+VN/A
+p2869
+sVLabios Rojos
+p2870
+VN/A
+p2871
+sVWhen the Game Stands Tall
+p2872
+V$15 million
+p2873
+sVDolphin Tale
+p2874
+V$37 million
+p2875
+sVJesus Henry Christ
+p2876
+VN/A
+p2877
+sVThe Best of Me
+p2878
+V$26 million
+p2879
+sVTracks (2014)
+p2880
+VN/A
+p2881
+sVThe Place Beyond the Pines
+p2882
+V$15 million
+p2883
+sVHeaven Knows What
+p2884
+VN/A
+p2885
+sVRacing Dreams
+p2886
+VN/A
+p2887
+sVTransformers: Age of Extinction
+p2888
+V$210 million
+p2889
+sVThe Sisterhood of Night
+p2890
+VN/A
+p2891
+sVLike Crazy
+p2892
+VN/A
+p2893
+sVPaddington
+p2894
+V$55 million
+p2895
+sVInception
+p2896
+V$160 million
+p2897
+sVLe Joli Mai
+p2898
+VN/A
+p2899
+sVHello Herman
+p2900
+VN/A
+p2901
+sVSeven Days in Utopia
+p2902
+VN/A
+p2903
+sVThe Ghost Writer
+p2904
+V$45 million
+p2905
+sVThe Film Critic
+p2906
+VN/A
+p2907
+sVVito Bonafacci
+p2908
+VN/A
+p2909
+sVArbitrage
+p2910
+VN/A
+p2911
+sVCantinflas
+p2912
+VN/A
+p2913
+sVBeyond the Reach
+p2914
+VN/A
+p2915
+sVThe Unknown Known
+p2916
+VN/A
+p2917
+sVHaywire
+p2918
+V$23 million
+p2919
+sVPiranha 3DD
+p2920
+VN/A
+p2921
+sVAmericons
+p2922
+VN/A
+p2923
+sVThe Lion King (in 3D)
+p2924
+VN/A
+p2925
+sVThe Last Song
+p2926
+V$20 million
+p2927
+sVMoneyball
+p2928
+V$50 million
+p2929
+sVTotal Recall (2012 re-release)
+p2930
+VN/A
+p2931
+sVWarrior
+p2932
+V$25 million
+p2933
+sVThe Losers
+p2934
+V$25 million
+p2935
+sVLimitless
+p2936
+V$27 million
+p2937
+sVTexas Killing Fields
+p2938
+VN/A
+p2939
+sVThe Guilt Trip
+p2940
+V$40 million
+p2941
+sVBig Game
+p2942
+VN/A
+p2943
+sVSol LeWitt
+p2944
+VN/A
+p2945
+sVI'll See You In My Dreams
+p2946
+VN/A
+p2947
+sVRango
+p2948
+V$135 million
+p2949
+sVGayby
+p2950
+VN/A
+p2951
+sVThe Sessions
+p2952
+VN/A
+p2953
+sVThe Decent One
+p2954
+VN/A
+p2955
+sVEverything Must Go
+p2956
+V$5 million
+p2957
+sVHere and There
+p2958
+VN/A
+p2959
+sVLeap Year
+p2960
+V$19 million
+p2961
+sVSalinger
+p2962
+VN/A
+p2963
+sVThe Fifth Estate
+p2964
+V$28 million
+p2965
+sVMy Name is Khan
+p2966
+VN/A
+p2967
+sVTrance
+p2968
+V$20 million
+p2969
+sVWinnie the Pooh
+p2970
+V$30 million
+p2971
+sVValentine's Day
+p2972
+V$52 million
+p2973
+sVI (2015)
+p2974
+VN/A
+p2975
+sVBeastly
+p2976
+V$17 million
+p2977
+sVThe Apu Trilogy
+p2978
+VN/A
+p2979
+sVLegend of the Guardians: The Owls of Ga'Hoole
+p2980
+V$80 million
+p2981
+sVThe Book of Eli
+p2982
+V$80 million
+p2983
+sVPawn Shop Chronicles
+p2984
+VN/A
+p2985
+sVThe Boxtrolls
+p2986
+V$60 million
+p2987
+sVDiana
+p2988
+VN/A
+p2989
+sVTed
+p2990
+V$50 million
+p2991
+sVNon-Stop
+p2992
+V$50 million
+p2993
+sVLooper
+p2994
+V$30 million
+p2995
+sVThe Devil's Violinist
+p2996
+VN/A
+p2997
+sVZero Dark Thirty
+p2998
+V$40 million
+p2999
+sVBeyond the Mask
+p3000
+VN/A
+p3001
+sVEasy A
+p3002
+V$8 million
+p3003
+sVDon McKay
+p3004
+VN/A
+p3005
+sVJackass Presents: Bad Grandpa
+p3006
+V$15 million
+p3007
+sVOde to My Father
+p3008
+VN/A
+p3009
+sVThe Host (2013)
+p3010
+V$40 million
+p3011
+sVKick
+p3012
+VN/A
+p3013
+sVAvengers: Age of Ultron
+p3014
+V$250 million
+p3015
+sV42
+p3016
+V$40 million
+p3017
+sVBrief Reunion
+p3018
+VN/A
+p3019
+sVThe Endless Summer (2014 re-release)
+p3020
+VN/A
+p3021
+sVHanna
+p3022
+V$30 million
+p3023
+sVLarry Crowne
+p3024
+V$30 million
+p3025
+sVThe Homesman
+p3026
+VN/A
+p3027
+sVLast Vegas
+p3028
+V$28 million
+p3029
+sVThe Rite
+p3030
+V$37 million
+p3031
+sVThe Pyramid
+p3032
+VN/A
+p3033
+sVLet Me In
+p3034
+V$20 million
+p3035
+sVGuardians of the Galaxy
+p3036
+V$170 million
+p3037
+sVThe Man in the White Suit (2012 re-release)
+p3038
+VN/A
+p3039
+sVMr. Peabody & Sherman
+p3040
+V$145 million
+p3041
+sVDallas Buyers Club
+p3042
+V$5 million
+p3043
+s.

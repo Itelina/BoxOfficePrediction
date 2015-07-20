@@ -1,0 +1,191 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'2002'
+p4
+(lp5
+S'Daniel Day-Lewis'
+p6
+aS'Jack Nicholson'
+p7
+aS'Adrien Brody'
+p8
+aS'Nicholas Cage'
+p9
+aS'Michael Caine'
+p10
+asS'2003'
+p11
+(lp12
+S'Johnny Depp'
+p13
+aS'Jude Law'
+p14
+aS'Sean Penn'
+p15
+aS'Bill Murray'
+p16
+aS'Ben Kingsley'
+p17
+asS'2001'
+p18
+(lp19
+S'Russell Crowe'
+p20
+aS'Denzel Washington'
+p21
+aS'Will Smith'
+p22
+aS'Sean Penn'
+p23
+aS'Tom Wilkinson'
+p24
+asS'2006'
+p25
+(lp26
+S'Will Smith'
+p27
+aS'Leonardo DiCaprio'
+p28
+aS'Forest Whitaker'
+p29
+aS"Peter O'Toole"
+p30
+aS'Ryan Gosling'
+p31
+asS'2007'
+p32
+(lp33
+S'Johnny Depp'
+p34
+aS'George Clooney'
+p35
+aS'Daniel Day-Lewis'
+p36
+aS'Viggo Mortensen'
+p37
+aS'Tommy Lee Jones'
+p38
+asS'2004'
+p39
+(lp40
+S'Leonardo DiCaprio'
+p41
+aS'Clint Eastwood'
+p42
+aS'Jamie Foxx'
+p43
+aS'Johnny Depp'
+p44
+aS'Don Cheadle'
+p45
+asS'2005'
+p46
+(lp47
+S'Joaquin Phoenix'
+p48
+aS'Heath Ledger'
+p49
+aS'David Strathairn'
+p50
+aS'Philip Seymour Hoffman'
+p51
+aS'Terrence Howard'
+p52
+asS'2014'
+p53
+(lp54
+S'Bradley Cooper'
+p55
+aS'Benedict Cumberbatch'
+p56
+aS'Michael Keaton'
+p57
+aS'Eddie Redmayne'
+p58
+aS'Steve Carell'
+p59
+asS'2008'
+p60
+(lp61
+S'Brad Pitt'
+p62
+aS'Sean Penn'
+p63
+aS'Mickey Rourke'
+p64
+aS'Frank Langella'
+p65
+aS'Richard Jenkins'
+p66
+asS'2009'
+p67
+(lp68
+S'George Clooney'
+p69
+aS'Jeff Bridges'
+p70
+aS'Morgan Freeman'
+p71
+aS'Jeremy Renner'
+p72
+aS'Colin Firth'
+p73
+asS'2011'
+p74
+(lp75
+S'George Clooney'
+p76
+aS'Brad Pitt'
+p77
+aS'Jean Dujardin'
+p78
+aS'Gary Oldman'
+p79
+aS'Demian Bichir'
+p80
+asS'2010'
+p81
+(lp82
+S'Jeff Bridges'
+p83
+aS'Colin Firth'
+p84
+aS'Jesse Eisenberg'
+p85
+aS'James Franco'
+p86
+aS'Javier Bardem'
+p87
+asS'2013'
+p88
+(lp89
+S'Christian Bale'
+p90
+aS'Leonardo DiCaprio'
+p91
+aS'Chiwetel Ejiofor'
+p92
+aS'Matthew McConaughey'
+p93
+aS'Bruce Dern'
+p94
+asS'2012'
+p95
+(lp96
+S'Daniel Day-Lewis'
+p97
+aS'Hugh Jackman'
+p98
+aS'Bradley Cooper'
+p99
+aS'Denzel Washington'
+p100
+aS'Joaquin Phoenix'
+p101
+as.

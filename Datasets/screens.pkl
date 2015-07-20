@@ -1,0 +1,6080 @@
+(dp0
+VVampires Suck
+p1
+S'3,233 theaters'
+p2
+sVThe Great Flood
+p3
+S'1 theaters'
+p4
+sVLife of Pi
+p5
+S'2,946 theaters'
+p6
+sVThe Crazies
+p7
+S'2,479 theaters'
+p8
+sVCinco De Mayo: La Batalla
+p9
+S'43 theaters'
+p10
+sVUnderdogs
+p11
+S'4 theaters'
+p12
+sVGrace Unplugged
+p13
+S'511 theaters'
+p14
+sVBegin Again
+p15
+S'1,302 theaters'
+p16
+sVBatkid Begins
+p17
+S'11 theaters'
+p18
+sVNo Good Deed (2014)
+p19
+S'2,175 theaters'
+p20
+sVAn Honest Liar
+p21
+S'15 theaters'
+p22
+sVLockout
+p23
+S'2,335 theaters'
+p24
+sVTitanic 3D
+p25
+S'3,674 theaters'
+p26
+sVSingin' In the Rain (2012 re-release)
+p27
+S'561 theaters'
+p28
+sVHarry Potter and the Deathly Hallows Part 1
+p29
+S'4,125 theaters'
+p30
+sVThe Muppets
+p31
+S'3,440 theaters'
+p32
+sVTonight You're Mine
+p33
+S'3 theaters'
+p34
+sVWhile We're Young
+p35
+S'762 theaters'
+p36
+sVThe Graduate: 45th Anniversary Reunion
+p37
+S'2 theaters'
+p38
+sVMake Your Move
+p39
+S'142 theaters'
+p40
+sVPaul
+p41
+S'2,806 theaters'
+p42
+sVLee Daniels' The Butler
+p43
+S'3,330 theaters'
+p44
+sVMunger Road
+p45
+S'32 theaters'
+p46
+sVJack Reacher
+p47
+S'3,352 theaters'
+p48
+sVThe Virginity Hit
+p49
+S'700 theaters'
+p50
+sVMr. Pip
+p51
+S'10 theaters'
+p52
+sVDown the Shore
+p53
+S'2 theaters'
+p54
+sVJinn
+p55
+S'201 theaters'
+p56
+sVKon-Tiki
+p57
+S'75 theaters'
+p58
+sVMiddle Men
+p59
+S'252 theaters'
+p60
+sVThe Tourist
+p61
+S'2,756 theaters'
+p62
+sVLetters to God
+p63
+S'897 theaters'
+p64
+sVThe Amazing Spider-Man
+p65
+S'4,318 theaters'
+p66
+sVBrooklyn's Finest
+p67
+S'1,939 theaters'
+p68
+sVHamari Adhuri Kahani
+p69
+S'67 theaters'
+p70
+sVElsa & Fred (2014)
+p71
+S'34 theaters'
+p72
+sVAttack the Block
+p73
+S'66 theaters'
+p74
+sVDanny Collins
+p75
+S'739 theaters'
+p76
+sVMan of Steel
+p77
+S'4,207 theaters'
+p78
+sVLegion (2010)
+p79
+S'2,476 theaters'
+p80
+sVReal Steel
+p81
+S'3,440 theaters'
+p82
+sVAddicted
+p83
+S'1,037 theaters'
+p84
+sVThe Signal (2014)
+p85
+S'204 theaters'
+p86
+sVLittle Fockers
+p87
+S'3,675 theaters'
+p88
+sVCaptain America: The First Avenger
+p89
+S'3,715 theaters'
+p90
+sVGimme Shelter
+p91
+S'385 theaters'
+p92
+sVAlexander and the Terrible, Horrible, No Good, Very Bad Day
+p93
+S'3,117 theaters'
+p94
+sVThe Wizard of Oz (3D/IMAX)
+p95
+S'318 theaters'
+p96
+sVSunshine Superman
+p97
+S'21 theaters'
+p98
+sVYou're Next
+p99
+S'2,437 theaters'
+p100
+sVThe Imitation Game
+p101
+S'2,402 theaters'
+p102
+sVYou're Not You
+p103
+S'5 theaters'
+p104
+sVThis is the End
+p105
+S'3,055 theaters'
+p106
+sVEpic
+p107
+S'3,894 theaters'
+p108
+sVGlee The 3D Concert Movie
+p109
+S'2,040 theaters'
+p110
+sVWhere Hope Grows
+p111
+S'276 theaters'
+p112
+sVOne Direction: This is Us
+p113
+S'2,735 theaters'
+p114
+sVKillers
+p115
+S'2,859 theaters'
+p116
+sVSimon and the Oaks
+p117
+S'17 theaters'
+p118
+sVSelf/Less
+p119
+S'2,353 theaters'
+p120
+sVGreenberg
+p121
+S'186 theaters'
+p122
+sVMy Old Lady
+p123
+S'273 theaters'
+p124
+sVOculus
+p125
+S'2,648 theaters'
+p126
+sVThat Awkward Moment
+p127
+S'2,809 theaters'
+p128
+sVA.C.O.D.
+p129
+S'42 theaters'
+p130
+sVThe Last Godfather
+p131
+S'58 theaters'
+p132
+sVBlood Ties (2014)
+p133
+S'28 theaters'
+p134
+sVThe Heat
+p135
+S'3,184 theaters'
+p136
+sVThe Campaign
+p137
+S'3,302 theaters'
+p138
+sVTwice Born
+p139
+S'10 theaters'
+p140
+sVHow to Train Your Dragon 2
+p141
+S'4,268 theaters'
+p142
+sVIron Man 2
+p143
+S'4,390 theaters'
+p144
+sVIron Man 3
+p145
+S'4,253 theaters'
+p146
+sVToy Story 3
+p147
+S'4,028 theaters'
+p148
+sVHaute Cuisine
+p149
+S'60 theaters'
+p150
+sVLa Soga
+p151
+S'20 theaters'
+p152
+sVSuper 8
+p153
+S'3,424 theaters'
+p154
+sVRamona and Beezus
+p155
+S'2,719 theaters'
+p156
+sVThe LEGO Movie
+p157
+S'3,890 theaters'
+p158
+sVThe Adventurer: The Curse of the Midas Box
+p159
+S'82 theaters'
+p160
+sVEarth to Echo
+p161
+S'3,230 theaters'
+p162
+sVGod's Not Dead
+p163
+S'1,860 theaters'
+p164
+sVI, Frankenstein
+p165
+S'2,753 theaters'
+p166
+sVSex and the City 2
+p167
+S'3,445 theaters'
+p168
+sVThe Twilight Saga: Eclipse
+p169
+S'4,468 theaters'
+p170
+sVWe're the Millers
+p171
+S'3,445 theaters'
+p172
+sVTangerines
+p173
+S'12 theaters'
+p174
+sVJupiter Ascending
+p175
+S'3,181 theaters'
+p176
+sVEnough Said
+p177
+S'835 theaters'
+p178
+sVWinnie Mandela
+p179
+S'32 theaters'
+p180
+sVThe Romantics
+p181
+S'14 theaters'
+p182
+sVRise of the Planet of the Apes
+p183
+S'3,691 theaters'
+p184
+sVBad Words
+p185
+S'1,074 theaters'
+p186
+sVGuzaarish
+p187
+S'108 theaters'
+p188
+sVRush (2013)
+p189
+S'2,308 theaters'
+p190
+sVBreathless (2010 re-issue)
+p191
+S'12 theaters'
+p192
+sVThe Good Lie
+p193
+S'461 theaters'
+p194
+sVScream 4
+p195
+S'3,314 theaters'
+p196
+sVTomorrow When the War Began
+p197
+S'10 theaters'
+p198
+sVAnimals (2015)
+p199
+S'11 theaters'
+p200
+sVSafety Not Guaranteed
+p201
+S'182 theaters'
+p202
+sVStraw Dogs (2011)
+p203
+S'2,408 theaters'
+p204
+sVChronicle (2012)
+p205
+S'2,908 theaters'
+p206
+sVThe Words
+p207
+S'2,801 theaters'
+p208
+sVTo Die is Hard
+p209
+S'1 theaters'
+p210
+sVMaps to the Stars
+p211
+S'66 theaters'
+p212
+sVGerontophilia
+p213
+S'1 theaters'
+p214
+sVMartha Marcy May Marlene
+p215
+S'183 theaters'
+p216
+sVLost River
+p217
+S'3 theaters'
+p218
+sVHit and Run
+p219
+S'2,870 theaters'
+p220
+sVI Origins
+p221
+S'122 theaters'
+p222
+sVA Haunted House
+p223
+S'2,160 theaters'
+p224
+sVSaint Misbehavin': The Wavy Gravy Movie
+p225
+S'3 theaters'
+p226
+sVShame
+p227
+S'95 theaters'
+p228
+sVHome Run
+p229
+S'381 theaters'
+p230
+sVWelcome to Me
+p231
+S'119 theaters'
+p232
+sVThe Polar Express (IMAX re-issue 2010)
+p233
+S'17 theaters'
+p234
+sVThe Wicker Man - Final Cut
+p235
+S'14 theaters'
+p236
+sVAatsinki: The Story of Arctic Cowboys
+p237
+S'2 theaters'
+p238
+sVParanoia
+p239
+S'2,459 theaters'
+p240
+sVThe DUFF
+p241
+S'2,622 theaters'
+p242
+sVStar Wars: Episode I - The Phantom Menace (in 3D)
+p243
+S'2,655 theaters'
+p244
+sVStalingrad (2014)
+p245
+S'308 theaters'
+p246
+sVJab Tak Hai Jaan
+p247
+S'164 theaters'
+p248
+sVBesharam
+p249
+S'217 theaters'
+p250
+sVThe Back-Up Plan
+p251
+S'3,280 theaters'
+p252
+sVGrandmaster
+p253
+S'9 theaters'
+p254
+sVMcFarland, USA
+p255
+S'2,792 theaters'
+p256
+sVBefore I Go To Sleep
+p257
+S'1,902 theaters'
+p258
+sVG.I. Joe: Retaliation
+p259
+S'3,734 theaters'
+p260
+sVThe Lord of the Rings: The Fellowship of the Ring (2011 re-release)
+p261
+S'522 theaters'
+p262
+sVThe Last Exorcism Part II
+p263
+S'2,700 theaters'
+p264
+sVHot Pursuit
+p265
+S'3,037 theaters'
+p266
+sVEvery Day
+p267
+S'4 theaters'
+p268
+sVThe Master
+p269
+S'864 theaters'
+p270
+sV22 Jump Street
+p271
+S'3,426 theaters'
+p272
+sVIdentity Thief
+p273
+S'3,230 theaters'
+p274
+sVParticle Fever
+p275
+S'27 theaters'
+p276
+sVUnder the Boardwalk: The Monopoly Story
+p277
+S'1 theaters'
+p278
+sVCity Island
+p279
+S'269 theaters'
+p280
+sVRise of the Guardians
+p281
+S'3,672 theaters'
+p282
+sVDraft Day
+p283
+S'2,781 theaters'
+p284
+sVThe Mortal Instruments: City of Bones
+p285
+S'3,118 theaters'
+p286
+sVGhost Team One
+p287
+S'15 theaters'
+p288
+sVVamps
+p289
+S'1 theaters'
+p290
+sVDetective Byomkesh Bakshy
+p291
+S'82 theaters'
+p292
+sVSilver Linings Playbook
+p293
+S'2,809 theaters'
+p294
+sVRuby Sparks
+p295
+S'261 theaters'
+p296
+sVA Most Wanted Man
+p297
+S'801 theaters'
+p298
+sVSide Effects (2013)
+p299
+S'2,605 theaters'
+p300
+sVNo One Lives
+p301
+S'53 theaters'
+p302
+sVWhere Are You Taking Me?
+p303
+S'1 theaters'
+p304
+sVJohn Carter
+p305
+S'3,749 theaters'
+p306
+sVThe Passionate Thief (2014 re-release)
+p307
+S'2 theaters'
+p308
+sVMission: Impossible - Ghost Protocol
+p309
+S'3,555 theaters'
+p310
+sVBurlesque
+p311
+S'3,037 theaters'
+p312
+sVExpedition to the End of the World
+p313
+S'4 theaters'
+p314
+sVAmerican Reunion
+p315
+S'3,203 theaters'
+p316
+sVBrick Mansions
+p317
+S'2,647 theaters'
+p318
+sVJoe (2014)
+p319
+S'48 theaters'
+p320
+sVOne For the Money
+p321
+S'2,737 theaters'
+p322
+sVBodyguard
+p323
+S'88 theaters'
+p324
+sVGloria (2014)
+p325
+S'110 theaters'
+p326
+sVNow, Forager
+p327
+S'4 theaters'
+p328
+sVDo You Believe?
+p329
+S'1,356 theaters'
+p330
+sVJustice Is Mind
+p331
+S'1 theaters'
+p332
+sVPiku
+p333
+S'124 theaters'
+p334
+sVIt Follows
+p335
+S'1,655 theaters'
+p336
+sVFor Greater Glory
+p337
+S'757 theaters'
+p338
+sVFinding Fanny
+p339
+S'121 theaters'
+p340
+sVThe Institute
+p341
+S'4 theaters'
+p342
+sVSaving Private Perez
+p343
+S'165 theaters'
+p344
+sVWrath of the Titans
+p345
+S'3,545 theaters'
+p346
+sVWhite House Down
+p347
+S'3,222 theaters'
+p348
+sVCopperhead
+p349
+S'59 theaters'
+p350
+sVSolitary Man
+p351
+S'177 theaters'
+p352
+sVUnbroken
+p353
+S'3,301 theaters'
+p354
+sV21 Jump Street
+p355
+S'3,148 theaters'
+p356
+sVFlight
+p357
+S'2,638 theaters'
+p358
+sVViolet Tendencies
+p359
+S'1 theaters'
+p360
+sVThe Love Punch
+p361
+S'121 theaters'
+p362
+sVCop Out
+p363
+S'3,150 theaters'
+p364
+sVDream House
+p365
+S'2,664 theaters'
+p366
+sVThe Identical
+p367
+S'1,956 theaters'
+p368
+sVMissionary
+p369
+S'10 theaters'
+p370
+sVThe Liberator
+p371
+S'77 theaters'
+p372
+sVTransformers: Dark of the Moon
+p373
+S'4,088 theaters'
+p374
+sVFrozen
+p375
+S'3,742 theaters'
+p376
+sVThe Woman in Black 2: Angel of Death
+p377
+S'2,602 theaters'
+p378
+sVGett: The Trial of Viviane Amsalem
+p379
+S'74 theaters'
+p380
+sVThe Gunman
+p381
+S'2,816 theaters'
+p382
+sVA Million Ways to Die in the West
+p383
+S'3,160 theaters'
+p384
+sVBernie
+p385
+S'332 theaters'
+p386
+sVTwelve
+p387
+S'231 theaters'
+p388
+sVMax (2015)
+p389
+S'2,870 theaters'
+p390
+sVBullet to the Head
+p391
+S'2,404 theaters'
+p392
+sVTranscendence
+p393
+S'3,455 theaters'
+p394
+sVIn Time
+p395
+S'3,127 theaters'
+p396
+sVDecoding Annie Parker
+p397
+S'13 theaters'
+p398
+sVDjango (2012 re-release)
+p399
+S'10 theaters'
+p400
+sVSnow White and the Huntsman
+p401
+S'3,777 theaters'
+p402
+sVLife of Crime
+p403
+S'37 theaters'
+p404
+sVDrive Angry
+p405
+S'2,290 theaters'
+p406
+sVAnna
+p407
+S'15 theaters'
+p408
+sVDelhi Belly
+p409
+S'90 theaters'
+p410
+sVJack Ryan: Shadow Recruit
+p411
+S'3,387 theaters'
+p412
+sVThe King's Speech (PG-13)
+p413
+S'1,011 theaters'
+p414
+sVTo Save a Life
+p415
+S'441 theaters'
+p416
+sVTakers
+p417
+S'2,206 theaters'
+p418
+sVSnitch
+p419
+S'2,511 theaters'
+p420
+sVImmigration Tango
+p421
+S'30 theaters'
+p422
+sVWhen in Rome
+p423
+S'2,456 theaters'
+p424
+sVLinsanity
+p425
+S'16 theaters'
+p426
+sVArt of Submission
+p427
+S'1 theaters'
+p428
+sVDigging Up the Marrow
+p429
+S'1 theaters'
+p430
+sVChasing Mavericks
+p431
+S'2,030 theaters'
+p432
+sVWild Target
+p433
+S'13 theaters'
+p434
+sVQuartet
+p435
+S'725 theaters'
+p436
+sVThe Sitter
+p437
+S'2,752 theaters'
+p438
+sVRemnants
+p439
+S'1 theaters'
+p440
+sVRio
+p441
+S'3,842 theaters'
+p442
+sVThe Word
+p443
+S'1 theaters'
+p444
+sVShrek Forever After
+p445
+S'4,386 theaters'
+p446
+sVBelle
+p447
+S'525 theaters'
+p448
+sVMas Negro Que La Noche
+p449
+S'178 theaters'
+p450
+sVThe Immortalists
+p451
+S'3 theaters'
+p452
+sVGrown Ups
+p453
+S'3,534 theaters'
+p454
+sVGeneral Education
+p455
+S'4 theaters'
+p456
+sVGhanchakkar
+p457
+S'89 theaters'
+p458
+sVMade in Cleveland
+p459
+S'5 theaters'
+p460
+sVI Am Number Four
+p461
+S'3,156 theaters'
+p462
+sVThe Devil's Hand
+p463
+S'17 theaters'
+p464
+sVThe Hangover Part III
+p465
+S'3,565 theaters'
+p466
+sVWoman Thou Art Loosed!: On the 7th Day
+p467
+S'106 theaters'
+p468
+sVPremium Rush
+p469
+S'2,255 theaters'
+p470
+sVSound of My Voice
+p471
+S'48 theaters'
+p472
+sVOblivion
+p473
+S'3,792 theaters'
+p474
+sVShe's Out of My League
+p475
+S'2,958 theaters'
+p476
+sVOut of the Furnace
+p477
+S'2,101 theaters'
+p478
+sVHiroshima Mon Amour (2014 re-release)
+p479
+S'7 theaters'
+p480
+sVTalaash
+p481
+S'172 theaters'
+p482
+sVFinal: The Rapture
+p483
+S'4 theaters'
+p484
+sVWreck-It Ralph
+p485
+S'3,752 theaters'
+p486
+sVCome Back to Me
+p487
+S'10 theaters'
+p488
+sVOn the Bowery (re-release)
+p489
+S'1 theaters'
+p490
+sVThe Tempest
+p491
+S'21 theaters'
+p492
+sVKick-Ass
+p493
+S'3,065 theaters'
+p494
+sVTurtle: The Incredible Journey
+p495
+S'24 theaters'
+p496
+sVThe Dry Land
+p497
+S'5 theaters'
+p498
+sVMagic Mike XXL
+p499
+S'3,376 theaters'
+p500
+sVTales of the Night
+p501
+S'1 theaters'
+p502
+sVSkyfall
+p503
+S'3,526 theaters'
+p504
+sVSafe (2012)
+p505
+S'2,271 theaters'
+p506
+sVBeasts of the Southern Wild
+p507
+S'318 theaters'
+p508
+sVHouse at the End of The Street
+p509
+S'3,083 theaters'
+p510
+sVForrest Gump (IMAX)
+p511
+S'337 theaters'
+p512
+sVSarah's Key
+p513
+S'319 theaters'
+p514
+sVJustin Bieber: Never Say Never
+p515
+S'3,118 theaters'
+p516
+sVSalmon Fishing in the Yemen
+p517
+S'524 theaters'
+p518
+sVThe Mechanic
+p519
+S'2,704 theaters'
+p520
+sVSilent Hill: Revelation 3D
+p521
+S'2,933 theaters'
+p522
+sVAs Above/So Below
+p523
+S'2,650 theaters'
+p524
+sVLola Versus
+p525
+S'52 theaters'
+p526
+sVJourney 2: The Mysterious Island
+p527
+S'3,500 theaters'
+p528
+sVSpy Kids: All the Time in the World
+p529
+S'3,305 theaters'
+p530
+sVRedemption Road
+p531
+S'26 theaters'
+p532
+sVTomorrowland
+p533
+S'3,972 theaters'
+p534
+sVTop Gun 3D
+p535
+S'300 theaters'
+p536
+sVOn the Other Side of the Tracks
+p537
+S'50 theaters'
+p538
+sVHoodwinked Too! Hood vs. Evil
+p539
+S'2,505 theaters'
+p540
+sVLong Shot: The Kevin Laue Story (2013)
+p541
+S'3 theaters'
+p542
+sVGirl in Progress
+p543
+S'322 theaters'
+p544
+sVUnfriended
+p545
+S'2,775 theaters'
+p546
+sVGreen Lantern
+p547
+S'3,816 theaters'
+p548
+sVSong One
+p549
+S'27 theaters'
+p550
+sVThe Concert
+p551
+S'21 theaters'
+p552
+sVDeli Man
+p553
+S'38 theaters'
+p554
+sVEk Main Aur Ekk Tu
+p555
+S'111 theaters'
+p556
+sVThe Adjustment Bureau
+p557
+S'2,847 theaters'
+p558
+sVZombeavers
+p559
+S'11 theaters'
+p560
+sVBlue Jasmine
+p561
+S'1,283 theaters'
+p562
+sVSkateland
+p563
+S'11 theaters'
+p564
+sVThe Perks of Being a Wallflower
+p565
+S'745 theaters'
+p566
+sVYouth in Revolt
+p567
+S'1,873 theaters'
+p568
+sVThe Big Picture (2012)
+p569
+S'8 theaters'
+p570
+sVGrudge Match
+p571
+S'2,856 theaters'
+p572
+sVAfflicted (2014)
+p573
+S'44 theaters'
+p574
+sVWhen Marnie Was There
+p575
+S'57 theaters'
+p576
+sVSkyline
+p577
+S'2,883 theaters'
+p578
+sVCook County
+p579
+S'5 theaters'
+p580
+sVDelivery Man
+p581
+S'3,036 theaters'
+p582
+sVTwilight/New Moon Combo (one-night-only)
+p583
+S'2,037 theaters'
+p584
+sVThe Raven
+p585
+S'2,209 theaters'
+p586
+sVKai Po Che
+p587
+S'110 theaters'
+p588
+sVPercy Jackson: Sea of Monsters
+p589
+S'3,080 theaters'
+p590
+sVVidal Sassoon: The Movie
+p591
+S'5 theaters'
+p592
+sVThe One I Love
+p593
+S'82 theaters'
+p594
+sVDolphin Tale 2
+p595
+S'3,656 theaters'
+p596
+sVNext Goal Wins
+p597
+S'10 theaters'
+p598
+sVDouble Dhamaal
+p599
+S'54 theaters'
+p600
+sVBeautiful Darling
+p601
+S'3 theaters'
+p602
+sVThe Hundred-Foot Journey
+p603
+S'2,167 theaters'
+p604
+sVKnight & Day
+p605
+S'3,104 theaters'
+p606
+sVFruitvale Station
+p607
+S'1,086 theaters'
+p608
+sVBeetle Queen Conquers Tokyo
+p609
+S'3 theaters'
+p610
+sVMorning
+p611
+S'4 theaters'
+p612
+sVWhite God
+p613
+S'29 theaters'
+p614
+sVThe Lincoln Lawyer
+p615
+S'2,707 theaters'
+p616
+sVParanormal Activity 4
+p617
+S'3,412 theaters'
+p618
+sVStarbuck (U.S. only)
+p619
+S'32 theaters'
+p620
+sVParanormal Activity 2
+p621
+S'3,239 theaters'
+p622
+sVThe Girl with the Dragon Tattoo (2011)
+p623
+S'2,950 theaters'
+p624
+sVEscape Fire
+p625
+S'12 theaters'
+p626
+sVCharlie St. Cloud
+p627
+S'2,725 theaters'
+p628
+sVFright Night (2011)
+p629
+S'3,114 theaters'
+p630
+sVBlue Ruin
+p631
+S'61 theaters'
+p632
+sVDredd
+p633
+S'2,557 theaters'
+p634
+sVMe and Earl and the Dying Girl
+p635
+S'870 theaters'
+p636
+sVJake Squared
+p637
+S'1 theaters'
+p638
+sVCatfish
+p639
+S'143 theaters'
+p640
+sVSucker Punch
+p641
+S'3,033 theaters'
+p642
+sVDetention of the Dead
+p643
+S'2 theaters'
+p644
+sVLove and Other Drugs
+p645
+S'2,458 theaters'
+p646
+sVPompeii
+p647
+S'2,658 theaters'
+p648
+sVAnnabelle
+p649
+S'3,215 theaters'
+p650
+sVPulling Strings
+p651
+S'438 theaters'
+p652
+sVMacGruber
+p653
+S'2,551 theaters'
+p654
+sVBless Me Ultima
+p655
+S'263 theaters'
+p656
+sVThe Hunger Games: Catching Fire
+p657
+S'4,163 theaters'
+p658
+sVABCD (Any Body Can Dance)
+p659
+S'25 theaters'
+p660
+sVGoing the Distance
+p661
+S'3,030 theaters'
+p662
+sVFreetown
+p663
+S'124 theaters'
+p664
+sVRangrezz
+p665
+S'11 theaters'
+p666
+sVWaiting for Forever
+p667
+S'14 theaters'
+p668
+sVTaken 2
+p669
+S'3,706 theaters'
+p670
+sVTaken 3
+p671
+S'3,594 theaters'
+p672
+sVEmperor
+p673
+S'311 theaters'
+p674
+sVThe Artist
+p675
+S'1,756 theaters'
+p676
+sVThe Fighter
+p677
+S'2,534 theaters'
+p678
+sVCuban Fury
+p679
+S'79 theaters'
+p680
+sVTwo Night Stand
+p681
+S'5 theaters'
+p682
+sVAbout Time
+p683
+S'1,280 theaters'
+p684
+sVThe Longest Ride
+p685
+S'3,371 theaters'
+p686
+sVThe Counselor
+p687
+S'3,044 theaters'
+p688
+sVLotus Eaters
+p689
+S'1 theaters'
+p690
+sVEdge of Tomorrow
+p691
+S'3,505 theaters'
+p692
+sVTerminator: Genisys
+p693
+S'3,783 theaters'
+p694
+sVCloud Atlas
+p695
+S'2,023 theaters'
+p696
+sVA Very Harold & Kumar 3D Christmas
+p697
+S'2,875 theaters'
+p698
+sVHyde Park on Hudson
+p699
+S'246 theaters'
+p700
+sVThe Immigrant
+p701
+S'150 theaters'
+p702
+sVSafe House
+p703
+S'3,121 theaters'
+p704
+sVBridesmaids
+p705
+S'2,958 theaters'
+p706
+sVDeath at a Funeral (2010)
+p707
+S'2,459 theaters'
+p708
+sVHercules (2014)
+p709
+S'3,595 theaters'
+p710
+sVSex Tape
+p711
+S'3,062 theaters'
+p712
+sVHasee Toh Phasee
+p713
+S'88 theaters'
+p714
+sVThe Purge
+p715
+S'2,591 theaters'
+p716
+sVForbidden Games (1952)
+p717
+S'1 theaters'
+p718
+sVSinister
+p719
+S'2,542 theaters'
+p720
+sVHall Pass
+p721
+S'2,950 theaters'
+p722
+sVKumiko, The Treasure Hunter
+p723
+S'71 theaters'
+p724
+sVCrazy, Stupid, Love.
+p725
+S'3,020 theaters'
+p726
+sVW.E.
+p727
+S'24 theaters'
+p728
+sVEscape Plan
+p729
+S'2,883 theaters'
+p730
+sVRoboCop (2014)
+p731
+S'3,372 theaters'
+p732
+sVThe Topp Twins: Untouchable Girls
+p733
+S'5 theaters'
+p734
+sVInherent Vice
+p735
+S'653 theaters'
+p736
+sVSparkle (2012)
+p737
+S'2,244 theaters'
+p738
+sVMirror Mirror
+p739
+S'3,618 theaters'
+p740
+sVLes Miserables (2012)
+p741
+S'2,927 theaters'
+p742
+sV47 Ronin
+p743
+S'2,690 theaters'
+p744
+sVThe Way
+p745
+S'283 theaters'
+p746
+sVThe Double
+p747
+S'45 theaters'
+p748
+sVEdge of Darkness
+p749
+S'3,066 theaters'
+p750
+sVTotal Recall (2012)
+p751
+S'3,601 theaters'
+p752
+sVThe Grand Budapest Hotel
+p753
+S'1,467 theaters'
+p754
+sVTyler Perry's The Single Moms Club
+p755
+S'1,896 theaters'
+p756
+sVKevin Hart: Laugh at My Pain
+p757
+S'287 theaters'
+p758
+sVDark Shadows
+p759
+S'3,755 theaters'
+p760
+sVGrand Depart
+p761
+S'1 theaters'
+p762
+sVI Want Your Money
+p763
+S'537 theaters'
+p764
+sVCinderella (2015)
+p765
+S'3,848 theaters'
+p766
+sVLiving in Emergency
+p767
+S'7 theaters'
+p768
+sVMuch Ado About Nothing (2013)
+p769
+S'222 theaters'
+p770
+sVThe People I've Slept With
+p771
+S'2 theaters'
+p772
+sVTimbuktu
+p773
+S'56 theaters'
+p774
+sVWarm Bodies
+p775
+S'3,009 theaters'
+p776
+sVJayne Mansfield's Car
+p777
+S'11 theaters'
+p778
+sV3 Days to Kill
+p779
+S'2,872 theaters'
+p780
+sVThe Water Diviner
+p781
+S'385 theaters'
+p782
+sVCirque Du Soleil: Worlds Away
+p783
+S'840 theaters'
+p784
+sVThe Painting (2013)
+p785
+S'6 theaters'
+p786
+sVThe Man Who Fell to Earth (35th anniversary re-issue)
+p787
+S'6 theaters'
+p788
+sVGangster's Paradise: Jerusalema
+p789
+S'4 theaters'
+p790
+sVThe Devil's Double
+p791
+S'89 theaters'
+p792
+sVThe Cold Light of Day
+p793
+S'1,511 theaters'
+p794
+sVThe Servant (2013 re-release)
+p795
+S'2 theaters'
+p796
+sVAdult Beginners
+p797
+S'54 theaters'
+p798
+sV7 Khoon Maaf
+p799
+S'68 theaters'
+p800
+sVJ. Edgar
+p801
+S'1,985 theaters'
+p802
+sVSaw 10th Anniversary
+p803
+S'2,063 theaters'
+p804
+sVAtlas Shrugged Part III: Who Is John Galt?
+p805
+S'242 theaters'
+p806
+sVThank You (2011)
+p807
+S'92 theaters'
+p808
+sVBelieve
+p809
+S'1,037 theaters'
+p810
+sVMere Brother Ki Dulhan
+p811
+S'74 theaters'
+p812
+sVEndless Love (2014)
+p813
+S'2,896 theaters'
+p814
+sVJoker
+p815
+S'74 theaters'
+p816
+sVOogieloves In The BIG Balloon Adventure
+p817
+S'2,160 theaters'
+p818
+sVInsidious Chapter 3
+p819
+S'3,014 theaters'
+p820
+sVInsidious Chapter 2
+p821
+S'3,155 theaters'
+p822
+sVHer (2013)
+p823
+S'1,729 theaters'
+p824
+sVThe Last Exorcism
+p825
+S'2,874 theaters'
+p826
+sVParker
+p827
+S'2,238 theaters'
+p828
+sVBattleship
+p829
+S'3,702 theaters'
+p830
+sVThe Croods
+p831
+S'4,065 theaters'
+p832
+sVStep Up All In
+p833
+S'2,072 theaters'
+p834
+sVTosca's Kiss (2014 re-release)
+p835
+S'2 theaters'
+p836
+sVMonte Carlo
+p837
+S'2,473 theaters'
+p838
+sVPrincess Kaiulani
+p839
+S'47 theaters'
+p840
+sVGravity
+p841
+S'3,820 theaters'
+p842
+sVThe Disappearance of Alice Creed
+p843
+S'12 theaters'
+p844
+sVRed
+p845
+S'3,349 theaters'
+p846
+sVApproved for Adoption
+p847
+S'1 theaters'
+p848
+sVRide Along
+p849
+S'2,867 theaters'
+p850
+sVIsland of Lemurs: Madagascar (IMAX)
+p851
+S'302 theaters'
+p852
+sVThe Woman in the Fifth
+p853
+S'14 theaters'
+p854
+sVMagician: The Astonishing Life and Work of Orson Welles
+p855
+S'2 theaters'
+p856
+sVMandela: Long Walk to Freedom
+p857
+S'1,010 theaters'
+p858
+sVI Spit on Your Grave 2
+p859
+S'1 theaters'
+p860
+sVJames Cameron's Deepsea Challenge 3D
+p861
+S'304 theaters'
+p862
+sVMarvel's The Avengers
+p863
+S'4,349 theaters'
+p864
+sVThis Means War
+p865
+S'3,189 theaters'
+p866
+sVInsidious
+p867
+S'2,419 theaters'
+p868
+sVAnd So It Goes
+p869
+S'1,816 theaters'
+p870
+sVThe Hornet's Nest
+p871
+S'57 theaters'
+p872
+sVApollo 18
+p873
+S'3,330 theaters'
+p874
+sVHigh School
+p875
+S'200 theaters'
+p876
+sVSnowpiercer
+p877
+S'356 theaters'
+p878
+sVAustenland
+p879
+S'274 theaters'
+p880
+sVThe Rum Diary
+p881
+S'2,292 theaters'
+p882
+sVMr. Popper's Penguins
+p883
+S'3,342 theaters'
+p884
+sVBad Teacher
+p885
+S'3,049 theaters'
+p886
+sVAdmission
+p887
+S'2,161 theaters'
+p888
+sVCasa De Mi Padre
+p889
+S'475 theaters'
+p890
+sVThe Conjuring
+p891
+S'3,115 theaters'
+p892
+sVContraband
+p893
+S'2,870 theaters'
+p894
+sVKirk Cameron's Saving Christmas
+p895
+S'410 theaters'
+p896
+sVCase 39
+p897
+S'2,212 theaters'
+p898
+sVThe Book of Life (2014)
+p899
+S'3,113 theaters'
+p900
+sVTammy
+p901
+S'3,465 theaters'
+p902
+sVThe Guest (2014)
+p903
+S'53 theaters'
+p904
+sVFrom Paris with Love
+p905
+S'2,722 theaters'
+p906
+sVDon't Be Afraid of the Dark
+p907
+S'2,780 theaters'
+p908
+sVThink Like a Man
+p909
+S'2,052 theaters'
+p910
+sVBattle of the Year
+p911
+S'2,008 theaters'
+p912
+sVDirty Girl
+p913
+S'10 theaters'
+p914
+sVTop Five
+p915
+S'1,426 theaters'
+p916
+sVLast Ounce of Courage
+p917
+S'1,407 theaters'
+p918
+sVMargin Call
+p919
+S'199 theaters'
+p920
+sVDown for Life
+p921
+S'5 theaters'
+p922
+sVPhilomena
+p923
+S'1,225 theaters'
+p924
+sVThe King and the Mockingbird
+p925
+S'8 theaters'
+p926
+sVHappy Feet Two
+p927
+S'3,611 theaters'
+p928
+sVThe Runaways
+p929
+S'244 theaters'
+p930
+sVCasablanca (2012 re-release)
+p931
+S'507 theaters'
+p932
+sVAfter Earth
+p933
+S'3,401 theaters'
+p934
+sVA Cat in Paris
+p935
+S'18 theaters'
+p936
+sVGetaway (2013)
+p937
+S'2,135 theaters'
+p938
+sVScorn
+p939
+S'1 theaters'
+p940
+sVCoriolanus
+p941
+S'21 theaters'
+p942
+sVNoble
+p943
+S'175 theaters'
+p944
+sVThe Grandmaster
+p945
+S'804 theaters'
+p946
+sVPenton: The John Penton Story
+p947
+S'14 theaters'
+p948
+sVPrometheus
+p949
+S'3,442 theaters'
+p950
+sVOne Day
+p951
+S'1,725 theaters'
+p952
+sVWent The Day Well? (2011 re-release)
+p953
+S'1 theaters'
+p954
+sVThe Incredible Burt Wonderstone
+p955
+S'3,160 theaters'
+p956
+sVChocolate City
+p957
+S'24 theaters'
+p958
+sVLetters to Juliet
+p959
+S'2,975 theaters'
+p960
+sVThe Mighty Macs
+p961
+S'975 theaters'
+p962
+sVThe Inevitable Defeat of Mister and Pete
+p963
+S'147 theaters'
+p964
+sVThe Hunger Games: Mockingjay - Part 1
+p965
+S'4,151 theaters'
+p966
+sVRock of Ages
+p967
+S'3,470 theaters'
+p968
+sVThe Tales of Hoffmann (2015 re-issue)
+p969
+S'9 theaters'
+p970
+sVBirdman
+p971
+S'1,213 theaters'
+p972
+sVBig Mommas: Like Father, Like Son
+p973
+S'2,821 theaters'
+p974
+sVCake
+p975
+S'482 theaters'
+p976
+sVAlmost in Love
+p977
+S'1 theaters'
+p978
+sVBoyhood
+p979
+S'775 theaters'
+p980
+sVAarakshan (Reservation)
+p981
+S'91 theaters'
+p982
+sVBlended
+p983
+S'3,555 theaters'
+p984
+sVCaptain America: The Winter Soldier
+p985
+S'3,938 theaters'
+p986
+sVGori Tere Pyaar Mein
+p987
+S'112 theaters'
+p988
+sVSnowmen
+p989
+S'16 theaters'
+p990
+sVPride (2014)
+p991
+S'124 theaters'
+p992
+sVOn Any Sunday: The Next Chapter
+p993
+S'231 theaters'
+p994
+sVDragon Ball Z: Battle of Gods
+p995
+S'692 theaters'
+p996
+sVThe Possession
+p997
+S'2,860 theaters'
+p998
+sVLost and Found in Armenia
+p999
+S'9 theaters'
+p1000
+sVTiger Eyes
+p1001
+S'17 theaters'
+p1002
+sVWish You Were Here (2013)
+p1003
+S'11 theaters'
+p1004
+sVTrouble with the Curve
+p1005
+S'3,212 theaters'
+p1006
+sVHansel and Gretel: Witch Hunters
+p1007
+S'3,375 theaters'
+p1008
+sVMonkey Kingdom
+p1009
+S'2,012 theaters'
+p1010
+sVWorld War Z
+p1011
+S'3,607 theaters'
+p1012
+sVDemi-Soeur
+p1013
+S'1 theaters'
+p1014
+sVHusbands in Goa
+p1015
+S'7 theaters'
+p1016
+sVBlackbird
+p1017
+S'13 theaters'
+p1018
+sVA Walk Among the Tombstones
+p1019
+S'2,714 theaters'
+p1020
+sVWaking Sleeping Beauty
+p1021
+S'5 theaters'
+p1022
+sVThe Spy Next Door
+p1023
+S'2,924 theaters'
+p1024
+sVAbout Last Night (2014)
+p1025
+S'2,253 theaters'
+p1026
+sVPassion Play
+p1027
+S'2 theaters'
+p1028
+sVFree Birds
+p1029
+S'3,736 theaters'
+p1030
+sVPaul Blart: Mall Cop 2
+p1031
+S'3,633 theaters'
+p1032
+sVThe D Train
+p1033
+S'1,009 theaters'
+p1034
+sVThe Sorcerer's Apprentice
+p1035
+S'3,504 theaters'
+p1036
+sVThis Must Be the Place
+p1037
+S'15 theaters'
+p1038
+sVSaw 3D
+p1039
+S'2,808 theaters'
+p1040
+sVRowdy Rathore
+p1041
+S'120 theaters'
+p1042
+sVRed Tails
+p1043
+S'2,573 theaters'
+p1044
+sVStone
+p1045
+S'125 theaters'
+p1046
+sVThe Maze Runner
+p1047
+S'3,638 theaters'
+p1048
+sVBorn to Fly: Elizabeth Streb vs. Gravity
+p1049
+S'3 theaters'
+p1050
+sVThe Social Network
+p1051
+S'2,921 theaters'
+p1052
+sVThe Road (2012)
+p1053
+S'50 theaters'
+p1054
+sVProject Almanac
+p1055
+S'2,900 theaters'
+p1056
+sVGame of Thrones (IMAX)
+p1057
+S'205 theaters'
+p1058
+sVSherlock Holmes: A Game of Shadows
+p1059
+S'3,703 theaters'
+p1060
+sVUndertow (2010)
+p1061
+S'3 theaters'
+p1062
+sVThe Dilemma
+p1063
+S'2,943 theaters'
+p1064
+sVPuss in Boots
+p1065
+S'3,963 theaters'
+p1066
+sVHome Run Showdown
+p1067
+S'1 theaters'
+p1068
+sVBefore You Know It
+p1069
+S'3 theaters'
+p1070
+sVGo For It
+p1071
+S'218 theaters'
+p1072
+sVRun All Night
+p1073
+S'3,171 theaters'
+p1074
+sVAbduction
+p1075
+S'3,118 theaters'
+p1076
+sVAnother Earth
+p1077
+S'94 theaters'
+p1078
+sVA La Mala
+p1079
+S'384 theaters'
+p1080
+sVRevelation Road 2
+p1081
+S'5 theaters'
+p1082
+sVEk Tha Tiger
+p1083
+S'120 theaters'
+p1084
+sVAloha
+p1085
+S'2,815 theaters'
+p1086
+sVThe Change-Up
+p1087
+S'2,913 theaters'
+p1088
+sVNowhere Boy
+p1089
+S'215 theaters'
+p1090
+sVKnights of Badassdom
+p1091
+S'13 theaters'
+p1092
+sVNostalgia for the Light
+p1093
+S'6 theaters'
+p1094
+sVHesher
+p1095
+S'42 theaters'
+p1096
+sVThe Last Airbender
+p1097
+S'3,203 theaters'
+p1098
+sVOz The Great and Powerful
+p1099
+S'3,912 theaters'
+p1100
+sVBully (PG-13)
+p1101
+S'263 theaters'
+p1102
+sVCode Black
+p1103
+S'10 theaters'
+p1104
+sVIron Sky
+p1105
+S'8 theaters'
+p1106
+sVStand Up Guys
+p1107
+S'670 theaters'
+p1108
+sVReturn to The Hiding Place
+p1109
+S'5 theaters'
+p1110
+sVSt. Vincent
+p1111
+S'2,552 theaters'
+p1112
+sVDevil's Due
+p1113
+S'2,544 theaters'
+p1114
+sVBlack Swan
+p1115
+S'2,407 theaters'
+p1116
+sVTorn
+p1117
+S'5 theaters'
+p1118
+sVInSpectres
+p1119
+S'1 theaters'
+p1120
+sVThe Five-Year Engagement
+p1121
+S'2,941 theaters'
+p1122
+sV2 Guns
+p1123
+S'3,028 theaters'
+p1124
+sVHotel Transylvania
+p1125
+S'3,375 theaters'
+p1126
+sVWatermark
+p1127
+S'16 theaters'
+p1128
+sVPromised Land (2012)
+p1129
+S'1,676 theaters'
+p1130
+sVOceans
+p1131
+S'1,232 theaters'
+p1132
+sVWhat to Expect When You're Expecting
+p1133
+S'3,021 theaters'
+p1134
+sVAfternoon Delight
+p1135
+S'39 theaters'
+p1136
+sVForks Over Knives
+p1137
+S'39 theaters'
+p1138
+sVColombiana
+p1139
+S'2,614 theaters'
+p1140
+sVCountry Strong
+p1141
+S'1,441 theaters'
+p1142
+sVThe Disappearance of Eleanor Rigby
+p1143
+S'139 theaters'
+p1144
+sVChef
+p1145
+S'1,298 theaters'
+p1146
+sVThe Beaver
+p1147
+S'168 theaters'
+p1148
+sVMetallica Through the Never
+p1149
+S'589 theaters'
+p1150
+sVThe Lost Medallion
+p1151
+S'68 theaters'
+p1152
+sVGet Hard
+p1153
+S'3,212 theaters'
+p1154
+sVWater & Power
+p1155
+S'16 theaters'
+p1156
+sVMuppets Most Wanted
+p1157
+S'3,194 theaters'
+p1158
+sVThe Fluffy Movie
+p1159
+S'432 theaters'
+p1160
+sVThree Night Stand
+p1161
+S'10 theaters'
+p1162
+sVJack Goes Boating
+p1163
+S'90 theaters'
+p1164
+sVPlanes: Fire & Rescue
+p1165
+S'3,839 theaters'
+p1166
+sVThe Smurfs 2
+p1167
+S'3,867 theaters'
+p1168
+sV5 Flights Up
+p1169
+S'94 theaters'
+p1170
+sVAnything For Alice
+p1171
+S'1 theaters'
+p1172
+sVBran Nue Dae
+p1173
+S'55 theaters'
+p1174
+sVDrive (2011)
+p1175
+S'2,904 theaters'
+p1176
+sVKevin Hart: Let Me Explain
+p1177
+S'892 theaters'
+p1178
+sVThe Miners' Hymns
+p1179
+S'1 theaters'
+p1180
+sVUnder the Electric Sky
+p1181
+S'25 theaters'
+p1182
+sVClosed Circuit
+p1183
+S'870 theaters'
+p1184
+sVSettai
+p1185
+S'33 theaters'
+p1186
+sVAnswers to Nothing
+p1187
+S'21 theaters'
+p1188
+sVThe Vow
+p1189
+S'3,038 theaters'
+p1190
+sVNothing Left to Fear
+p1191
+S'5 theaters'
+p1192
+sVShahid
+p1193
+S'16 theaters'
+p1194
+sVA Late Quartet
+p1195
+S'100 theaters'
+p1196
+sVDear John
+p1197
+S'3,062 theaters'
+p1198
+sVA Little Help
+p1199
+S'24 theaters'
+p1200
+sVInto The Storm
+p1201
+S'3,434 theaters'
+p1202
+sVGreen Zone
+p1203
+S'3,004 theaters'
+p1204
+sVSupermensch: The Legend of Shep Gordon
+p1205
+S'46 theaters'
+p1206
+sVThe Wolverine
+p1207
+S'3,924 theaters'
+p1208
+sVShut Up and Play the Hits
+p1209
+S'161 theaters'
+p1210
+sVDiary of a Wimpy Kid: Dog Days
+p1211
+S'3,401 theaters'
+p1212
+sVThe Twilight Saga: Breaking Dawn Part 2
+p1213
+S'4,070 theaters'
+p1214
+sVPacific Rim
+p1215
+S'3,285 theaters'
+p1216
+sVThe Twilight Saga: Breaking Dawn Part 1
+p1217
+S'4,066 theaters'
+p1218
+sVHappy Tears
+p1219
+S'15 theaters'
+p1220
+sVThe Smurfs
+p1221
+S'3,427 theaters'
+p1222
+sVGet On Up
+p1223
+S'2,469 theaters'
+p1224
+sVDjango Unchained
+p1225
+S'3,012 theaters'
+p1226
+sVTurbo
+p1227
+S'3,809 theaters'
+p1228
+sVTo Rome with Love
+p1229
+S'806 theaters'
+p1230
+sVSoldiers of Fortune
+p1231
+S'50 theaters'
+p1232
+sVKilling Them Softly
+p1233
+S'2,424 theaters'
+p1234
+sVPercy Jackson & The Olympians: The Lightning Thief
+p1235
+S'3,396 theaters'
+p1236
+sVAntoine and Antoinette (2013 re-issue)
+p1237
+S'1 theaters'
+p1238
+sVKeep On Keepin' On
+p1239
+S'9 theaters'
+p1240
+sVFrankie & Alice
+p1241
+S'1 theaters'
+p1242
+sVThe Day
+p1243
+S'12 theaters'
+p1244
+sVCa$h
+p1245
+S'43 theaters'
+p1246
+sVMy Uncle Rafael
+p1247
+S'14 theaters'
+p1248
+sVMaggie
+p1249
+S'79 theaters'
+p1250
+sVTouchback
+p1251
+S'69 theaters'
+p1252
+sVShe's Beautiful When She's Angry
+p1253
+S'19 theaters'
+p1254
+sVThe Music Never Stopped
+p1255
+S'33 theaters'
+p1256
+sVRed 2
+p1257
+S'3,016 theaters'
+p1258
+sVLegends of Oz: Dorothy's Return
+p1259
+S'2,658 theaters'
+p1260
+sVGun Hill Road
+p1261
+S'10 theaters'
+p1262
+sVRaja Natwarlal
+p1263
+S'73 theaters'
+p1264
+sVOldboy (2013)
+p1265
+S'583 theaters'
+p1266
+sVThe East
+p1267
+S'195 theaters'
+p1268
+sVResident Evil: Retribution
+p1269
+S'3,016 theaters'
+p1270
+sVPitch Perfect 2
+p1271
+S'3,660 theaters'
+p1272
+sVHecho En Mexico
+p1273
+S'26 theaters'
+p1274
+sVYogi Bear
+p1275
+S'3,515 theaters'
+p1276
+sVInterstellar
+p1277
+S'3,561 theaters'
+p1278
+sVStoker
+p1279
+S'275 theaters'
+p1280
+sVThe Girl Who Played with Fire
+p1281
+S'185 theaters'
+p1282
+sV21 and Over
+p1283
+S'2,771 theaters'
+p1284
+sVBig Eyes
+p1285
+S'1,408 theaters'
+p1286
+sVWalking with Dinosaurs
+p1287
+S'3,243 theaters'
+p1288
+sVThe Devil Inside
+p1289
+S'2,551 theaters'
+p1290
+sVChimpanzee
+p1291
+S'1,567 theaters'
+p1292
+sVNeed for Speed
+p1293
+S'3,115 theaters'
+p1294
+sVMachete
+p1295
+S'2,678 theaters'
+p1296
+sVThaandavam
+p1297
+S'45 theaters'
+p1298
+sVThe Chronicles of Narnia: The Voyage of the Dawn Treader
+p1299
+S'3,555 theaters'
+p1300
+sVWhat Women Want (Wo Zhi Nu Run Xin) 
+p1301
+S'26 theaters'
+p1302
+sVThe Last Mountain
+p1303
+S'7 theaters'
+p1304
+sVSilent House
+p1305
+S'2,124 theaters'
+p1306
+sVHow to Train Your Dragon
+p1307
+S'4,060 theaters'
+p1308
+sVTed 2
+p1309
+S'3,448 theaters'
+p1310
+sVGodzilla (2014)
+p1311
+S'3,952 theaters'
+p1312
+sVThe Dictator
+p1313
+S'3,014 theaters'
+p1314
+sVC.O.G.
+p1315
+S'20 theaters'
+p1316
+sVThe Roommate
+p1317
+S'2,534 theaters'
+p1318
+sVThink Like a Man Too
+p1319
+S'2,225 theaters'
+p1320
+sVJobs
+p1321
+S'2,381 theaters'
+p1322
+sVLone Survivor
+p1323
+S'3,285 theaters'
+p1324
+sVYour Highness
+p1325
+S'2,772 theaters'
+p1326
+sVScatter My Ashes at Bergdorf's
+p1327
+S'38 theaters'
+p1328
+sVMargaret
+p1329
+S'14 theaters'
+p1330
+sVAnonymous
+p1331
+S'513 theaters'
+p1332
+sVIn the Land of Blood and Honey
+p1333
+S'18 theaters'
+p1334
+sVMan on a Ledge
+p1335
+S'2,998 theaters'
+p1336
+sVThe Watch
+p1337
+S'3,168 theaters'
+p1338
+sVHitchcock
+p1339
+S'561 theaters'
+p1340
+sVA Long Way Off
+p1341
+S'15 theaters'
+p1342
+sVHeropanti
+p1343
+S'16 theaters'
+p1344
+sVDark Star: H.R. Giger's World
+p1345
+S'10 theaters'
+p1346
+sVVettai
+p1347
+S'34 theaters'
+p1348
+sVPredators
+p1349
+S'2,669 theaters'
+p1350
+sVThe Other Dream Team
+p1351
+S'14 theaters'
+p1352
+sVBrave
+p1353
+S'4,164 theaters'
+p1354
+sVGrown Ups 2
+p1355
+S'3,491 theaters'
+p1356
+sVKingsman: The Secret Service
+p1357
+S'3,282 theaters'
+p1358
+sVFun Size
+p1359
+S'3,016 theaters'
+p1360
+sVGirl Rising
+p1361
+S'170 theaters'
+p1362
+sVAssaulted: Civil Rights Under Fire
+p1363
+S'17 theaters'
+p1364
+sVPrince of Persia: The Sands of Time
+p1365
+S'3,646 theaters'
+p1366
+sVWe Bought a Zoo
+p1367
+S'3,170 theaters'
+p1368
+sVChico & Rita
+p1369
+S'23 theaters'
+p1370
+sVThis Ain't No Mouse Music!
+p1371
+S'6 theaters'
+p1372
+sVEl Milagro De Marcelino Pan
+p1373
+S'1 theaters'
+p1374
+sVThe Town
+p1375
+S'2,935 theaters'
+p1376
+sVJohn Wick
+p1377
+S'2,589 theaters'
+p1378
+sVDiary of a Wimpy Kid: Rodrick Rules
+p1379
+S'3,169 theaters'
+p1380
+sVSeeking a Friend for the End of the World
+p1381
+S'1,625 theaters'
+p1382
+sVThe Man with the Iron Fists
+p1383
+S'1,872 theaters'
+p1384
+sVSinbad: The Fifth Voyage
+p1385
+S'27 theaters'
+p1386
+sVNow You See Me
+p1387
+S'3,082 theaters'
+p1388
+sVDysfunctional Friends
+p1389
+S'2 theaters'
+p1390
+sVFilly Brown
+p1391
+S'259 theaters'
+p1392
+sVAll is Bright
+p1393
+S'10 theaters'
+p1394
+sVLuv Shuv Tey Chicken Khurana
+p1395
+S'60 theaters'
+p1396
+sVI Spit on Your Grave
+p1397
+S'12 theaters'
+p1398
+sVMonsters University
+p1399
+S'4,004 theaters'
+p1400
+sVMidnight in Paris
+p1401
+S'1,038 theaters'
+p1402
+sVYoung Adult
+p1403
+S'987 theaters'
+p1404
+sVCassadaga
+p1405
+S'3 theaters'
+p1406
+sVYou Again
+p1407
+S'2,548 theaters'
+p1408
+sVMortdecai
+p1409
+S'2,648 theaters'
+p1410
+sVOur Family Wedding
+p1411
+S'1,609 theaters'
+p1412
+sVThe Expendables 2
+p1413
+S'3,355 theaters'
+p1414
+sVNo Strings Attached
+p1415
+S'3,050 theaters'
+p1416
+sVThe Lord of the Rings: The Two Towers (2011 re-release)
+p1417
+S'522 theaters'
+p1418
+sV50 to 1
+p1419
+S'133 theaters'
+p1420
+sVTanu Weds Manu Returns
+p1421
+S'NA'
+p1422
+sVSplice
+p1423
+S'2,450 theaters'
+p1424
+sVThe Lords of Salem
+p1425
+S'354 theaters'
+p1426
+sVDr. Seuss' The Lorax
+p1427
+S'3,769 theaters'
+p1428
+sVRadio Free Albemuth
+p1429
+S'10 theaters'
+p1430
+sVGladiators of Rome
+p1431
+S'11 theaters'
+p1432
+sVIndigo Children
+p1433
+S'1 theaters'
+p1434
+sVBig Miracle
+p1435
+S'2,133 theaters'
+p1436
+sVSaheb Biwi Aur Gangster
+p1437
+S'9 theaters'
+p1438
+sVBatman Begins (2012 re-release)
+p1439
+g1422
+sVSafe Haven
+p1440
+S'3,223 theaters'
+p1441
+sV71 Into the Fire
+p1442
+S'20 theaters'
+p1443
+sVThe City Dark
+p1444
+S'2 theaters'
+p1445
+sVThe Expendables
+p1446
+S'3,398 theaters'
+p1447
+sVThe Ides of March
+p1448
+S'2,199 theaters'
+p1449
+sVLife as We Know It
+p1450
+S'3,150 theaters'
+p1451
+sVAmerica (2014)
+p1452
+S'1,105 theaters'
+p1453
+sVThe Remaining
+p1454
+S'85 theaters'
+p1455
+sVHow Do You Know
+p1456
+S'2,483 theaters'
+p1457
+sVBitch Slap
+p1458
+S'3 theaters'
+p1459
+sVUn Flic (2013 re-release)
+p1460
+S'1 theaters'
+p1461
+sVHop
+p1462
+S'3,616 theaters'
+p1463
+sVStanding Ovation
+p1464
+S'625 theaters'
+p1465
+sVDawn of the Planet of the Apes
+p1466
+S'3,969 theaters'
+p1467
+sVStep Up Revolution
+p1468
+S'2,606 theaters'
+p1469
+sVLove & Mercy
+p1470
+S'791 theaters'
+p1471
+sVThe Call
+p1472
+S'2,507 theaters'
+p1473
+sVUnstoppable
+p1474
+S'3,261 theaters'
+p1475
+sVThe Bling Ring
+p1476
+S'650 theaters'
+p1477
+sVBeauty and the Beast (3D)
+p1478
+S'2,625 theaters'
+p1479
+sVWe Are What We Are
+p1480
+S'17 theaters'
+p1481
+sVThe Great Invisible
+p1482
+S'5 theaters'
+p1483
+sVProject X
+p1484
+S'3,055 theaters'
+p1485
+sVAfternoon of a Faun
+p1486
+S'11 theaters'
+p1487
+sVDracula Untold
+p1488
+S'2,900 theaters'
+p1489
+sVFor a Good Time, Call... 
+p1490
+S'107 theaters'
+p1491
+sVAnchorman 2: The Legend Continues
+p1492
+S'3,507 theaters'
+p1493
+sVSpinning Plates
+p1494
+S'6 theaters'
+p1495
+sVThe Perfect Game
+p1496
+S'417 theaters'
+p1497
+sVShutter Island
+p1498
+S'3,356 theaters'
+p1499
+sVWanderlust
+p1500
+S'2,002 theaters'
+p1501
+sVNanny McPhee Returns
+p1502
+S'2,798 theaters'
+p1503
+sVUnknown
+p1504
+S'3,043 theaters'
+p1505
+sVHighway (2014)
+p1506
+S'97 theaters'
+p1507
+sVResident Evil: Afterlife
+p1508
+S'3,209 theaters'
+p1509
+sVCitizenfour
+p1510
+S'105 theaters'
+p1511
+sVHome (2015)
+p1512
+S'3,801 theaters'
+p1513
+sVJust Wright
+p1514
+S'1,831 theaters'
+p1515
+sVMarmaduke
+p1516
+S'3,213 theaters'
+p1517
+sVDiary of a Wimpy Kid
+p1518
+S'3,083 theaters'
+p1519
+sVGulliver's Travels
+p1520
+S'3,089 theaters'
+p1521
+sVX-Men: First Class
+p1522
+S'3,692 theaters'
+p1523
+sVKalakalappu@Masala Cafe
+p1524
+S'10 theaters'
+p1525
+sVAmerican Hustle
+p1526
+S'2,629 theaters'
+p1527
+sVCartas a Elena
+p1528
+S'12 theaters'
+p1529
+sVThe Hangover Part II
+p1530
+S'3,675 theaters'
+p1531
+sVNo Eres Tu, Soy Yo
+p1532
+S'226 theaters'
+p1533
+sVStep Up 3-D
+p1534
+S'2,439 theaters'
+p1535
+sVThe Hobbit: The Battle of the Five Armies
+p1536
+S'3,875 theaters'
+p1537
+sVSalt
+p1538
+S'3,612 theaters'
+p1539
+sVHot Tub Time Machine
+p1540
+S'2,771 theaters'
+p1541
+sVThe Best Exotic Marigold Hotel
+p1542
+S'1,298 theaters'
+p1543
+sVNoah
+p1544
+S'3,571 theaters'
+p1545
+sVAfter The Ball
+p1546
+S'43 theaters'
+p1547
+sVNight at the Museum: Secret of the Tomb
+p1548
+S'3,914 theaters'
+p1549
+sVHemingway's Garden of Eden
+p1550
+S'14 theaters'
+p1551
+sVThe Grey
+p1552
+S'3,208 theaters'
+p1553
+sVSan Andreas
+p1554
+S'3,812 theaters'
+p1555
+sVTo the Arctic (IMAX)
+p1556
+S'52 theaters'
+p1557
+sVDesert Dancer
+p1558
+S'36 theaters'
+p1559
+sVAll Is Lost
+p1560
+S'483 theaters'
+p1561
+sVThe Wrecking Crew
+p1562
+S'65 theaters'
+p1563
+sVWinter's Tale
+p1564
+S'2,965 theaters'
+p1565
+sVA Letter to Momo
+p1566
+S'7 theaters'
+p1567
+sVBlack Sea
+p1568
+S'353 theaters'
+p1569
+sVAlone Yet Not Alone
+p1570
+S'103 theaters'
+p1571
+sVCalvary
+p1572
+S'322 theaters'
+p1573
+sVThe Bodyguard (2012 re-release)
+p1574
+S'484 theaters'
+p1575
+sVSomething From Nothing: The Art of Rap
+p1576
+S'157 theaters'
+p1577
+sVKaty Perry: Part of Me
+p1578
+S'2,732 theaters'
+p1579
+sVFrankie & Alice (2014)
+p1580
+S'171 theaters'
+p1581
+sVKill the Irishman
+p1582
+S'56 theaters'
+p1583
+sVHubble 3D
+p1584
+S'151 theaters'
+p1585
+sVWho Took Johnny
+p1586
+S'2 theaters'
+p1587
+sVThe Family (2013)
+p1588
+S'3,091 theaters'
+p1589
+sVKiller Elite
+p1590
+S'2,986 theaters'
+p1591
+sVThe Odd Life of Timothy Green
+p1592
+S'2,717 theaters'
+p1593
+sVDevil
+p1594
+S'2,811 theaters'
+p1595
+sVPlanes
+p1596
+S'3,716 theaters'
+p1597
+sVParaNorman
+p1598
+S'3,455 theaters'
+p1599
+sVMen, Women & Children
+p1600
+S'608 theaters'
+p1601
+sVThe Secret of Kells
+p1602
+S'37 theaters'
+p1603
+sVExtremely Loud & Incredibly Close
+p1604
+S'2,630 theaters'
+p1605
+sVKochadaiiyaan
+p1606
+S'161 theaters'
+p1607
+sVCircumstance
+p1608
+S'31 theaters'
+p1609
+sVDespicable Me 2
+p1610
+S'4,003 theaters'
+p1611
+sVPeople Like Us
+p1612
+S'2,055 theaters'
+p1613
+sVMinions
+p1614
+S'4,301 theaters'
+p1615
+sVDeitrick Haddon's A Beautiful Soul
+p1616
+S'20 theaters'
+p1617
+sVThe Adventures of Tintin
+p1618
+S'3,087 theaters'
+p1619
+sVDark Skies
+p1620
+S'2,313 theaters'
+p1621
+sVTower Heist
+p1622
+S'3,870 theaters'
+p1623
+sVWar Horse
+p1624
+S'2,856 theaters'
+p1625
+sVABCD (Any Body Can Dance) 2
+p1626
+S'146 theaters'
+p1627
+sVOfficer Down
+p1628
+S'1 theaters'
+p1629
+sVChennai Express
+p1630
+S'196 theaters'
+p1631
+sVThe Pretty One
+p1632
+S'5 theaters'
+p1633
+sVWords and Pictures
+p1634
+S'216 theaters'
+p1635
+sVThe Playroom
+p1636
+S'12 theaters'
+p1637
+sVRaajneeti
+p1638
+S'124 theaters'
+p1639
+sVAtlas Shrugged: Part I
+p1640
+S'465 theaters'
+p1641
+sVIris (2015)
+p1642
+S'92 theaters'
+p1643
+sVKung Fu Panda 2
+p1644
+S'3,952 theaters'
+p1645
+sVSnow Flower and the Secret Fan
+p1646
+S'116 theaters'
+p1647
+sVWin Win
+p1648
+S'388 theaters'
+p1649
+sVA Good Day to Die Hard
+p1650
+S'3,555 theaters'
+p1651
+sVDaylight (2011)
+p1652
+S'1 theaters'
+p1653
+sVN'Secure
+p1654
+S'486 theaters'
+p1655
+sVFootloose (2011)
+p1656
+S'3,555 theaters'
+p1657
+sVHeroine
+p1658
+S'114 theaters'
+p1659
+sVThe Expendables 3
+p1660
+S'3,221 theaters'
+p1661
+sVGirl Most Likely
+p1662
+S'351 theaters'
+p1663
+sVHeaven is for Real
+p1664
+S'3,048 theaters'
+p1665
+sVNebraska
+p1666
+S'968 theaters'
+p1667
+sVElysium
+p1668
+S'3,284 theaters'
+p1669
+sVSatyagraha
+p1670
+S'83 theaters'
+p1671
+sVThe Apparition
+p1672
+S'810 theaters'
+p1673
+sVMaleficent
+p1674
+S'3,948 theaters'
+p1675
+sVThat's My Boy
+p1676
+S'3,030 theaters'
+p1677
+sVRed State
+p1678
+S'5 theaters'
+p1679
+sVPlaying for Keeps
+p1680
+S'2,840 theaters'
+p1681
+sVGhost Rider: Spirit of Vengeance
+p1682
+S'3,174 theaters'
+p1683
+sVRepo Men
+p1684
+S'2,521 theaters'
+p1685
+sVImmortals
+p1686
+S'3,120 theaters'
+p1687
+sVStar Trek Into Darkness
+p1688
+S'3,907 theaters'
+p1689
+sVThe Darkest Hour
+p1690
+S'2,327 theaters'
+p1691
+sVBig Hero 6
+p1692
+S'3,773 theaters'
+p1693
+sVOur Idiot Brother
+p1694
+S'2,555 theaters'
+p1695
+sVAt Middleton
+p1696
+S'20 theaters'
+p1697
+sVThe Three Musketeers (2011)
+p1698
+S'3,017 theaters'
+p1699
+sVThe Ultimate Life
+p1700
+S'412 theaters'
+p1701
+sVThe Grand Seduction
+p1702
+S'124 theaters'
+p1703
+sVDom Hemingway
+p1704
+S'129 theaters'
+p1705
+sVBlue Like Jazz
+p1706
+S'136 theaters'
+p1707
+sVProject Nim
+p1708
+S'22 theaters'
+p1709
+sVVeronica Mars
+p1710
+S'347 theaters'
+p1711
+sVChappie
+p1712
+S'3,201 theaters'
+p1713
+sVFifty Shades of Grey
+p1714
+S'3,655 theaters'
+p1715
+sVBroken City
+p1716
+S'2,622 theaters'
+p1717
+sVThe Bay
+p1718
+S'23 theaters'
+p1719
+sVThe Heart Specialist
+p1720
+S'422 theaters'
+p1721
+sVThe Wolf of Wall Street
+p1722
+S'2,557 theaters'
+p1723
+sVMeet the Mormons
+p1724
+S'333 theaters'
+p1725
+sVRace 2
+p1726
+S'153 theaters'
+p1727
+sVBlack Souls (Anime Nere)
+p1728
+S'11 theaters'
+p1729
+sVEat Pray Love
+p1730
+S'3,108 theaters'
+p1731
+sVThanks for Sharing
+p1732
+S'269 theaters'
+p1733
+sVGrassroots
+p1734
+S'2 theaters'
+p1735
+sVSavannah
+p1736
+S'14 theaters'
+p1737
+sVThe Good Guy
+p1738
+S'9 theaters'
+p1739
+sVAfrican Cats
+p1740
+S'1,224 theaters'
+p1741
+sVArt of the Steal
+p1742
+S'60 theaters'
+p1743
+sVSabotage (2014)
+p1744
+S'2,486 theaters'
+p1745
+sVChance Pe Dance
+p1746
+S'68 theaters'
+p1747
+sVHorrible Bosses 2
+p1748
+S'3,400 theaters'
+p1749
+sV10 Years
+p1750
+S'63 theaters'
+p1751
+sVNo One Killed Jessica
+p1752
+S'48 theaters'
+p1753
+sVMud
+p1754
+S'960 theaters'
+p1755
+sV13 Sins
+p1756
+S'45 theaters'
+p1757
+sVStill Alice
+p1758
+S'1,318 theaters'
+p1759
+sVIf I Stay
+p1760
+S'3,157 theaters'
+p1761
+sVMillion Dollar Arm
+p1762
+S'3,019 theaters'
+p1763
+sVThe Great Gatsby (2013)
+p1764
+S'3,550 theaters'
+p1765
+sVContagion
+p1766
+S'3,222 theaters'
+p1767
+sVTinker, Tailor, Soldier, Spy
+p1768
+S'886 theaters'
+p1769
+sVFlipped
+p1770
+S'442 theaters'
+p1771
+sVIt's Kind of a Funny Story
+p1772
+S'757 theaters'
+p1773
+sVMax et les Ferrailleurs (Max and the Junkmen) (2012 re-release)
+p1774
+S'2 theaters'
+p1775
+sVDespicable Me
+p1776
+S'3,602 theaters'
+p1777
+sVJurassic World
+p1778
+S'4,291 theaters'
+p1779
+sVCrazy on the Outside
+p1780
+S'75 theaters'
+p1781
+sVKhoobsurat
+p1782
+S'61 theaters'
+p1783
+sV35 and Ticking
+p1784
+S'6 theaters'
+p1785
+sVBlack or White
+p1786
+S'1,823 theaters'
+p1787
+sVThe Last 5 Years
+p1788
+S'36 theaters'
+p1789
+sVPastorela
+p1790
+S'55 theaters'
+p1791
+sVA Nightmare on Elm Street (2010)
+p1792
+S'3,332 theaters'
+p1793
+sVFrankenweenie
+p1794
+S'3,005 theaters'
+p1795
+sVBuen Dia, Ramon
+p1796
+S'29 theaters'
+p1797
+sVLUV
+p1798
+S'45 theaters'
+p1799
+sVHugo
+p1800
+S'2,608 theaters'
+p1801
+sV2 States
+p1802
+S'137 theaters'
+p1803
+sVResurrect Dead: The Mystery of the Toynbee Tiles
+p1804
+S'1 theaters'
+p1805
+sVTake Me Home Tonight
+p1806
+S'2,003 theaters'
+p1807
+sVSelma
+p1808
+S'2,235 theaters'
+p1809
+sVBlackhat
+p1810
+S'2,568 theaters'
+p1811
+sVTees Maar Khan
+p1812
+S'108 theaters'
+p1813
+sVArthur Christmas
+p1814
+S'3,376 theaters'
+p1815
+sVWaiting for "Superman"
+p1816
+S'330 theaters'
+p1817
+sVThe Loft
+p1818
+S'1,841 theaters'
+p1819
+sVBefore Midnight
+p1820
+S'897 theaters'
+p1821
+sVSanctum
+p1822
+S'2,789 theaters'
+p1823
+sVThe Tree of Life
+p1824
+S'237 theaters'
+p1825
+sVThe Hobbit: An Unexpected Journey
+p1826
+S'4,100 theaters'
+p1827
+sVRio 2
+p1828
+S'3,975 theaters'
+p1829
+sVThe Black Waters of Echo's Pond
+p1830
+S'404 theaters'
+p1831
+sVMeet Monica Velour
+p1832
+S'4 theaters'
+p1833
+sVX-Men: Days of Future Past
+p1834
+S'4,001 theaters'
+p1835
+sVThe Kids Are All Right
+p1836
+S'994 theaters'
+p1837
+sVZokkomon
+p1838
+S'24 theaters'
+p1839
+sVMr. X
+p1840
+S'52 theaters'
+p1841
+sVParental Guidance
+p1842
+S'3,368 theaters'
+p1843
+sVThey Come to America
+p1844
+S'1 theaters'
+p1845
+sVTyler Perry's Good Deeds
+p1846
+S'2,132 theaters'
+p1847
+sVLovely Molly
+p1848
+S'5 theaters'
+p1849
+sVAlpha and Omega
+p1850
+S'2,625 theaters'
+p1851
+sVExtraordinary Measures
+p1852
+S'2,549 theaters'
+p1853
+sVInchAllah (U.S. only)
+p1854
+S'2 theaters'
+p1855
+sVEnd of Watch
+p1856
+S'2,780 theaters'
+p1857
+sVThe Company Men
+p1858
+S'277 theaters'
+p1859
+sVThe Big Wedding
+p1860
+S'2,633 theaters'
+p1861
+sVRaiders of the Lost Ark (IMAX)
+p1862
+S'322 theaters'
+p1863
+sVThe Wind Rises
+p1864
+S'496 theaters'
+p1865
+sVVirginia
+p1866
+S'5 theaters'
+p1867
+sVLe Amiche (re-issue)
+p1868
+S'1 theaters'
+p1869
+sVAgneepath
+p1870
+S'132 theaters'
+p1871
+sVCloudy with a Chance of Meatballs 2
+p1872
+S'4,001 theaters'
+p1873
+sVJumping the Broom
+p1874
+S'2,035 theaters'
+p1875
+sVHoliday (2014)
+p1876
+S'144 theaters'
+p1877
+sVEx Machina
+p1878
+S'2,004 theaters'
+p1879
+sVNot Today
+p1880
+S'41 theaters'
+p1881
+sVWar of the Buttons (2012)
+p1882
+S'35 theaters'
+p1883
+sVBarfi!
+p1884
+S'132 theaters'
+p1885
+sVThe Lazarus Effect
+p1886
+S'2,666 theaters'
+p1887
+sVFar from the Madding Crowd
+p1888
+S'902 theaters'
+p1889
+sVEscobar: Paradise Lost
+p1890
+S'105 theaters'
+p1891
+sVGone Girl
+p1892
+S'3,284 theaters'
+p1893
+sVCamp (2013)
+p1894
+S'32 theaters'
+p1895
+sVAugust: Osage County
+p1896
+S'2,411 theaters'
+p1897
+sVBabies
+p1898
+S'543 theaters'
+p1899
+sVThe Quiet Ones
+p1900
+S'2,027 theaters'
+p1901
+sVTooth Fairy
+p1902
+S'3,345 theaters'
+p1903
+sVMy Way (2012)
+p1904
+S'22 theaters'
+p1905
+sVThe Three Stooges
+p1906
+S'3,482 theaters'
+p1907
+sVAmerican Sniper
+p1908
+S'3,885 theaters'
+p1909
+sVBlack Nativity
+p1910
+S'1,525 theaters'
+p1911
+sVThe Package (2013)
+p1912
+S'1 theaters'
+p1913
+sVIn a World
+p1914
+S'144 theaters'
+p1915
+sVAccident
+p1916
+S'1 theaters'
+p1917
+sVMiral
+p1918
+S'29 theaters'
+p1919
+sVThe Interview (2014)
+p1920
+S'581 theaters'
+p1921
+sVThis is Where I Leave You
+p1922
+S'2,868 theaters'
+p1923
+sVThe Hobbit: The Desolation of Smaug
+p1924
+S'3,928 theaters'
+p1925
+sVSomething Borrowed
+p1926
+S'2,904 theaters'
+p1927
+sVBeyond the Lights
+p1928
+S'1,789 theaters'
+p1929
+sVThe Drop
+p1930
+S'1,192 theaters'
+p1931
+sVThe Cabin in the Woods
+p1932
+S'2,811 theaters'
+p1933
+sVA Better Life
+p1934
+S'216 theaters'
+p1935
+sV44 Inch Chest
+p1936
+S'5 theaters'
+p1937
+sVJane Eyre
+p1938
+S'319 theaters'
+p1939
+sVLittle Boy
+p1940
+S'1,045 theaters'
+p1941
+sVPearl Jam Twenty
+p1942
+S'60 theaters'
+p1943
+sVSweethearts of the Prison Rodeo
+p1944
+S'2 theaters'
+p1945
+sVJersey Boys
+p1946
+S'2,905 theaters'
+p1947
+sVMama
+p1948
+S'2,781 theaters'
+p1949
+sVThe Polar Express (2011 re-issue)
+p1950
+S'25 theaters'
+p1951
+sVPredestination
+p1952
+S'20 theaters'
+p1953
+sVMadame Bovary
+p1954
+S'53 theaters'
+p1955
+sVDiary of a Country Priest (2011 re-release)
+p1956
+S'2 theaters'
+p1957
+sVThe Iron Lady
+p1958
+S'1,244 theaters'
+p1959
+sVPopulaire
+p1960
+S'58 theaters'
+p1961
+sVAnna Karenina
+p1962
+S'422 theaters'
+p1963
+sVHotel Normandy
+p1964
+S'1 theaters'
+p1965
+sVAnchorman 2 (R-Rated Extended Cut)
+p1966
+S'1,317 theaters'
+p1967
+sVFrank Miller's Sin City: A Dame to Kill For
+p1968
+S'2,894 theaters'
+p1969
+sVA Pig Across Paris (2013 re-issue)
+p1970
+S'1 theaters'
+p1971
+sV3 Hearts
+p1972
+S'29 theaters'
+p1973
+sVWater for Elephants
+p1974
+S'2,820 theaters'
+p1975
+sVHaider
+p1976
+S'119 theaters'
+p1977
+sVLet's Be Cops
+p1978
+S'3,140 theaters'
+p1979
+sVRedemption (2013)
+p1980
+S'19 theaters'
+p1981
+sVThe Full Picture
+p1982
+S'1 theaters'
+p1983
+sVKites
+p1984
+S'207 theaters'
+p1985
+sVHigh Tech, Low Life
+p1986
+S'1 theaters'
+p1987
+sVP.K.
+p1988
+S'272 theaters'
+p1989
+sVThe Spectacular Now
+p1990
+S'770 theaters'
+p1991
+sVBereavement
+p1992
+S'21 theaters'
+p1993
+sVMorning Glory
+p1994
+S'2,544 theaters'
+p1995
+sVBreath Made Visible
+p1996
+S'3 theaters'
+p1997
+sVFed Up
+p1998
+S'104 theaters'
+p1999
+sVThe Hunting Ground
+p2000
+S'25 theaters'
+p2001
+sVThe Best Man Holiday
+p2002
+S'2,041 theaters'
+p2003
+sVLast Flight of the Champion
+p2004
+S'15 theaters'
+p2005
+sVTrace Amounts
+p2006
+S'7 theaters'
+p2007
+sVClash of the Titans (2010)
+p2008
+S'3,802 theaters'
+p2009
+sVAs It Is In Heaven
+p2010
+S'2 theaters'
+p2011
+sVJust Go With It
+p2012
+S'3,548 theaters'
+p2013
+sVThe Second Best Exotic Marigold Hotel
+p2014
+S'2,022 theaters'
+p2015
+sVWa-shoku: Beyond Sushi
+p2016
+S'1 theaters'
+p2017
+sVMars Needs Moms
+p2018
+S'3,117 theaters'
+p2019
+sVEasy Money (2012)
+p2020
+S'7 theaters'
+p2021
+sVTyler Perry Presents Peeples
+p2022
+S'2,041 theaters'
+p2023
+sVGirls Against Boys
+p2024
+S'2 theaters'
+p2025
+sVJust Before I Go
+p2026
+S'2 theaters'
+p2027
+sVKites: The Remix
+p2028
+S'40 theaters'
+p2029
+sVHope Springs
+p2030
+S'2,441 theaters'
+p2031
+sVThe Book Thief
+p2032
+S'1,316 theaters'
+p2033
+sVThunder Soul
+p2034
+S'37 theaters'
+p2035
+sVThe Bourne Legacy
+p2036
+S'3,753 theaters'
+p2037
+sVErnest & Celestine
+p2038
+S'39 theaters'
+p2039
+sVSarah Palin - You Betcha!
+p2040
+S'6 theaters'
+p2041
+sVLucky (2011)
+p2042
+S'4 theaters'
+p2043
+sVMegamind
+p2044
+S'3,949 theaters'
+p2045
+sVThe Help
+p2046
+S'3,014 theaters'
+p2047
+sVThe Square
+p2048
+S'24 theaters'
+p2049
+sVCourageous
+p2050
+S'1,214 theaters'
+p2051
+sVThe Next Three Days
+p2052
+S'2,564 theaters'
+p2053
+sVPublic Speaking
+p2054
+S'2 theaters'
+p2055
+sVChernobyl Diaries
+p2056
+S'2,433 theaters'
+p2057
+sVThe Joneses
+p2058
+S'217 theaters'
+p2059
+sVThe Internship
+p2060
+S'3,399 theaters'
+p2061
+sVFalcon Rising
+p2062
+S'10 theaters'
+p2063
+sVPeepli Live
+p2064
+S'70 theaters'
+p2065
+sVRaavan
+p2066
+S'120 theaters'
+p2067
+sVTanner Hall
+p2068
+S'5 theaters'
+p2069
+sVA Little Chaos
+p2070
+S'87 theaters'
+p2071
+sVThe A-Team
+p2072
+S'3,544 theaters'
+p2073
+sVThe Purge: Anarchy
+p2074
+S'2,856 theaters'
+p2075
+sVUnderworld Awakening
+p2076
+S'3,078 theaters'
+p2077
+sVThor: The Dark World
+p2078
+S'3,841 theaters'
+p2079
+sV50/50
+p2080
+S'2,479 theaters'
+p2081
+sVBattle: Los Angeles
+p2082
+S'3,417 theaters'
+p2083
+sVThe Warrior's Way
+p2084
+S'1,622 theaters'
+p2085
+sVMia and the Migoo
+p2086
+S'1 theaters'
+p2087
+sVInfliction
+p2088
+S'2 theaters'
+p2089
+sVThe Lone Ranger
+p2090
+S'3,904 theaters'
+p2091
+sVRosewater
+p2092
+S'371 theaters'
+p2093
+sVFinal Destination 5
+p2094
+S'3,155 theaters'
+p2095
+sVJackass 3-D
+p2096
+S'3,139 theaters'
+p2097
+sVIn the Name of my Daughter
+p2098
+S'50 theaters'
+p2099
+sVJudy Moody and the NOT Bummer Summer
+p2100
+S'2,524 theaters'
+p2101
+sVOuija
+p2102
+S'2,899 theaters'
+p2103
+sVCars 2
+p2104
+S'4,115 theaters'
+p2105
+sVFaster
+p2106
+S'2,470 theaters'
+p2107
+sVSong of the Sea
+p2108
+S'48 theaters'
+p2109
+sVThor
+p2110
+S'3,963 theaters'
+p2111
+sVThe Dark Knight Rises
+p2112
+S'4,404 theaters'
+p2113
+sVEscape From Planet Earth
+p2114
+S'3,353 theaters'
+p2115
+sVI Hate Luv Storys
+p2116
+S'85 theaters'
+p2117
+sVExodus: Gods and Kings
+p2118
+S'3,503 theaters'
+p2119
+sVThe Sweeney
+p2120
+S'11 theaters'
+p2121
+sVThe Hunger Games
+p2122
+S'4,137 theaters'
+p2123
+sVInside Llewyn Davis
+p2124
+S'729 theaters'
+p2125
+sVBeing Flynn
+p2126
+S'88 theaters'
+p2127
+sVOut in the Dark
+p2128
+S'6 theaters'
+p2129
+sVUdaan
+p2130
+S'2 theaters'
+p2131
+sVThe Collection
+p2132
+S'1,403 theaters'
+p2133
+sVKung Fu Killer
+p2134
+S'28 theaters'
+p2135
+sVThe Investigator
+p2136
+S'11 theaters'
+p2137
+sVShark Night 3D
+p2138
+S'2,848 theaters'
+p2139
+sVThe Thing (2011)
+p2140
+S'2,996 theaters'
+p2141
+sVArjun: The Warrior Prince
+p2142
+S'10 theaters'
+p2143
+sVMIB 3
+p2144
+S'4,248 theaters'
+p2145
+sVThe Legend of Hercules
+p2146
+S'2,104 theaters'
+p2147
+sVEvil Intent
+p2148
+S'2 theaters'
+p2149
+sVSeason of the Witch
+p2150
+S'2,827 theaters'
+p2151
+sVRepentance
+p2152
+S'157 theaters'
+p2153
+sVThe Amazing Spider-Man 2
+p2154
+S'4,324 theaters'
+p2155
+sVJack and Jill
+p2156
+S'3,438 theaters'
+p2157
+sVTales from Earthsea
+p2158
+S'5 theaters'
+p2159
+sVFrom Up on Poppy Hill
+p2160
+S'49 theaters'
+p2161
+sVLucy
+p2162
+S'3,202 theaters'
+p2163
+sVThe Other Woman (2014)
+p2164
+S'3,306 theaters'
+p2165
+sVLittle White Lies
+p2166
+S'14 theaters'
+p2167
+sVThe Lord of the Rings: The Return of the King (2011 re-release)
+p2168
+S'521 theaters'
+p2169
+sVThe Polar Express (2012 re-issue)
+p2170
+S'17 theaters'
+p2171
+sVGodzilla: The Japanese Original
+p2172
+S'21 theaters'
+p2173
+sVRabbit Hole
+p2174
+S'131 theaters'
+p2175
+sVDon 2
+p2176
+S'167 theaters'
+p2177
+sVThe Giver
+p2178
+S'3,003 theaters'
+p2179
+sVThe Strange Little Cat
+p2180
+S'1 theaters'
+p2181
+sVParanormal Activity 3
+p2182
+S'3,329 theaters'
+p2183
+sVBears
+p2184
+S'1,790 theaters'
+p2185
+sVHomefront
+p2186
+S'2,570 theaters'
+p2187
+sVAlex Cross
+p2188
+S'2,541 theaters'
+p2189
+sVThe Woman in Black
+p2190
+S'2,856 theaters'
+p2191
+sVCosmopolis
+p2192
+S'65 theaters'
+p2193
+sVMugamoodi
+p2194
+S'21 theaters'
+p2195
+sVAll's Faire in Love
+p2196
+S'75 theaters'
+p2197
+sVLottery Ticket
+p2198
+S'1,974 theaters'
+p2199
+sVSeeking Justice
+p2200
+S'231 theaters'
+p2201
+sVThe Gambler
+p2202
+S'2,494 theaters'
+p2203
+sVTexas Chainsaw 3D
+p2204
+S'2,659 theaters'
+p2205
+sVOlympus Has Fallen
+p2206
+S'3,106 theaters'
+p2207
+sVDeliver Us From Evil
+p2208
+S'3,049 theaters'
+p2209
+sVNew Year's Eve
+p2210
+S'3,505 theaters'
+p2211
+sVWhat If (2014)
+p2212
+S'787 theaters'
+p2213
+sVThe Equalizer
+p2214
+S'3,236 theaters'
+p2215
+sVArthur (2011)
+p2216
+S'3,276 theaters'
+p2217
+sVThe Skeleton Twins
+p2218
+S'461 theaters'
+p2219
+sVMommy
+p2220
+S'83 theaters'
+p2221
+sVThe Tale of The Princess Kaguya
+p2222
+S'29 theaters'
+p2223
+sVThe Way, Way Back
+p2224
+S'1,001 theaters'
+p2225
+sVFrom Prada to Nada
+p2226
+S'261 theaters'
+p2227
+sVTrue Grit
+p2228
+S'3,464 theaters'
+p2229
+sVFast & Furious 6
+p2230
+S'3,771 theaters'
+p2231
+sVI'm In Love With a Church Girl
+p2232
+S'458 theaters'
+p2233
+sVRemember Me
+p2234
+S'2,215 theaters'
+p2235
+sVScott Pilgrim vs. the World
+p2236
+S'2,820 theaters'
+p2237
+sVLeft Behind (2014)
+p2238
+S'1,887 theaters'
+p2239
+sVEva
+p2240
+S'50 theaters'
+p2241
+sVPitch Perfect
+p2242
+S'2,787 theaters'
+p2243
+sVThe Son of No One
+p2244
+S'10 theaters'
+p2245
+sVDead Man Down
+p2246
+S'2,188 theaters'
+p2247
+sVSpecial Forces
+p2248
+S'5 theaters'
+p2249
+sVThe Wolfman
+p2250
+S'3,223 theaters'
+p2251
+sVCave of Forgotten Dreams
+p2252
+S'123 theaters'
+p2253
+sVJimi: All Is By My Side
+p2254
+S'75 theaters'
+p2255
+sVBucky Larson: Born to Be a Star
+p2256
+S'1,500 theaters'
+p2257
+sVEl Sicario, Room 164
+p2258
+S'1 theaters'
+p2259
+sVLe Rayon Vert (Summer)
+p2260
+S'2 theaters'
+p2261
+sVBuried
+p2262
+S'107 theaters'
+p2263
+sVThe Karate Kid
+p2264
+S'3,740 theaters'
+p2265
+sVGhostbusters (30th Anniversary re-release)
+p2266
+S'784 theaters'
+p2267
+sVThe 100-Year Old Man Who Climbed Out the Window and Disappeared
+p2268
+S'76 theaters'
+p2269
+sVParanormal Activity: The Marked Ones
+p2270
+S'2,883 theaters'
+p2271
+sVWild (2014)
+p2272
+S'1,361 theaters'
+p2273
+sVWhat's Your Number?
+p2274
+S'3,011 theaters'
+p2275
+sVThe Monuments Men
+p2276
+S'3,083 theaters'
+p2277
+sVThis Is 40
+p2278
+S'2,931 theaters'
+p2279
+sVBeautiful Creatures (2013)
+p2280
+S'2,950 theaters'
+p2281
+sVHumpty Sharma Ki Dulhania
+p2282
+S'101 theaters'
+p2283
+sVPoltergeist (2015)
+p2284
+S'3,242 theaters'
+p2285
+sVI Don't Know How She Does It
+p2286
+S'2,490 theaters'
+p2287
+sVA Haunted House 2
+p2288
+S'2,310 theaters'
+p2289
+sVMachine Gun Preacher
+p2290
+S'93 theaters'
+p2291
+sVArgo
+p2292
+S'3,247 theaters'
+p2293
+sVPersecuted
+p2294
+S'736 theaters'
+p2295
+sVDhoom 3
+p2296
+S'239 theaters'
+p2297
+sVHereafter
+p2298
+S'2,424 theaters'
+p2299
+sVThe Lucky One
+p2300
+S'3,175 theaters'
+p2301
+sVConan the Barbarian (2011)
+p2302
+S'3,015 theaters'
+p2303
+sVThe Boy Next Door
+p2304
+S'2,615 theaters'
+p2305
+sVSpy
+p2306
+S'3,715 theaters'
+p2307
+sV12 Years a Slave
+p2308
+S'1,474 theaters'
+p2309
+sVTron Legacy
+p2310
+S'3,451 theaters'
+p2311
+sVSoul Surfer
+p2312
+S'2,240 theaters'
+p2313
+sVZookeeper
+p2314
+S'3,482 theaters'
+p2315
+sVMuran
+p2316
+S'10 theaters'
+p2317
+sVThe Fault in our Stars
+p2318
+S'3,340 theaters'
+p2319
+sVWall Street: Money Never Sleeps
+p2320
+S'3,597 theaters'
+p2321
+sVKick-Ass 2
+p2322
+S'2,945 theaters'
+p2323
+sVAvatar: Special Edition
+p2324
+S'812 theaters'
+p2325
+sVDhobi Ghat (Mumbai Diaries)
+p2326
+S'78 theaters'
+p2327
+sVFilmistaan
+p2328
+S'24 theaters'
+p2329
+sVAct of Valor
+p2330
+S'3,053 theaters'
+p2331
+sVTyler Perry's Madea's Big Happy Family
+p2332
+S'2,288 theaters'
+p2333
+sV2016 Obama's America
+p2334
+S'2,017 theaters'
+p2335
+sVSpare Parts
+p2336
+S'440 theaters'
+p2337
+sVThe Age of Adaline
+p2338
+S'3,070 theaters'
+p2339
+sVLove At First Fight
+p2340
+S'7 theaters'
+p2341
+sVThe Theory of Everything
+p2342
+S'1,220 theaters'
+p2343
+sVRunner Runner
+p2344
+S'3,026 theaters'
+p2345
+sVHere Comes the Boom
+p2346
+S'3,014 theaters'
+p2347
+sVBlue Valentine
+p2348
+S'450 theaters'
+p2349
+sVPaan Singh Tomar
+p2350
+S'10 theaters'
+p2351
+sVGrand Illusion (2012 re-release)
+p2352
+S'4 theaters'
+p2353
+sVFriends with Kids
+p2354
+S'640 theaters'
+p2355
+sVPiranha 3D
+p2356
+S'2,491 theaters'
+p2357
+sVVampire Academy
+p2358
+S'2,676 theaters'
+p2359
+sVTangled
+p2360
+S'3,603 theaters'
+p2361
+sVBang Bang
+p2362
+S'271 theaters'
+p2363
+sVBarefoot
+p2364
+S'18 theaters'
+p2365
+sVHappyThankYouMorePlease
+p2366
+S'19 theaters'
+p2367
+sVWhite Wedding
+p2368
+S'4 theaters'
+p2369
+sVOur Man in Tehran
+p2370
+S'1 theaters'
+p2371
+sVR.I.P.D.
+p2372
+S'2,852 theaters'
+p2373
+sVAtlas Shrugged: Part II
+p2374
+S'1,012 theaters'
+p2375
+sVGnomeo and Juliet
+p2376
+S'3,037 theaters'
+p2377
+sVI Am Ali
+p2378
+S'11 theaters'
+p2379
+sVManuscripts Don't Burn
+p2380
+S'2 theaters'
+p2381
+sVThe Divergent Series: Insurgent
+p2382
+S'3,875 theaters'
+p2383
+sVCaptain Phillips
+p2384
+S'3,143 theaters'
+p2385
+sVJe T'aime, Je T'aime (2014 re-issue)
+p2386
+S'2 theaters'
+p2387
+sVNever Let Me Go
+p2388
+S'232 theaters'
+p2389
+sVWinter's Bone
+p2390
+S'141 theaters'
+p2391
+sVCool It
+p2392
+S'43 theaters'
+p2393
+sVThe Last Day of August
+p2394
+S'1 theaters'
+p2395
+sVSaving Mr. Banks
+p2396
+S'2,671 theaters'
+p2397
+sVBiutiful
+p2398
+S'191 theaters'
+p2399
+sVThe Gallows
+p2400
+S'2,720 theaters'
+p2401
+sVStrangerland
+p2402
+S'15 theaters'
+p2403
+sVCesar Chavez
+p2404
+S'664 theaters'
+p2405
+sVInto the Woods
+p2406
+S'2,833 theaters'
+p2407
+sVTyler Perry's A Madea Christmas
+p2408
+S'2,194 theaters'
+p2409
+sVThe World's End
+p2410
+S'1,553 theaters'
+p2411
+sVSeventh Son
+p2412
+S'2,875 theaters'
+p2413
+sVThe Obama Effect
+p2414
+S'25 theaters'
+p2415
+sVAlvin and the Chipmunks: Chipwrecked
+p2416
+S'3,734 theaters'
+p2417
+sVThe Secret World of Arrietty
+p2418
+S'1,522 theaters'
+p2419
+sVThe Players
+p2420
+S'50 theaters'
+p2421
+sVThe Afterlight
+p2422
+S'1 theaters'
+p2423
+sVWoman in Gold
+p2424
+S'2,011 theaters'
+p2425
+sVTyler Perry's Why Did I Get Married Too?
+p2426
+S'2,155 theaters'
+p2427
+sVJohnny English Reborn
+p2428
+S'1,554 theaters'
+p2429
+sVThe Worst Movie EVER!
+p2430
+S'2 theaters'
+p2431
+sVMadagascar 3: Europe's Most Wanted
+p2432
+S'4,263 theaters'
+p2433
+sVMy Week with Marilyn
+p2434
+S'630 theaters'
+p2435
+sVThe Bounty Hunter
+p2436
+S'3,118 theaters'
+p2437
+sVBorn to Be Wild (IMAX)
+p2438
+S'208 theaters'
+p2439
+sVFury (2014)
+p2440
+S'3,313 theaters'
+p2441
+sVFrozen (2010)
+p2442
+S'106 theaters'
+p2443
+sVRobin Hood
+p2444
+S'3,505 theaters'
+p2445
+sVHimmatwala
+p2446
+S'99 theaters'
+p2447
+sVDinner for Schmucks
+p2448
+S'3,046 theaters'
+p2449
+sVRiddick
+p2450
+S'3,117 theaters'
+p2451
+sVNitro Circus the Movie 3D
+p2452
+S'800 theaters'
+p2453
+sVPort of Shadows (2012 re-issue)
+p2454
+S'2 theaters'
+p2455
+sVLe Petit Soldat (2013 re-release)
+p2456
+S'1 theaters'
+p2457
+sVHorrible Bosses
+p2458
+S'3,134 theaters'
+p2459
+sVSpring Breakers
+p2460
+S'1,379 theaters'
+p2461
+sVHector And The Search For Happiness
+p2462
+S'183 theaters'
+p2463
+sVThe Eagle
+p2464
+S'2,296 theaters'
+p2465
+sVGrease (Sing-a-Long re-issue)
+p2466
+S'33 theaters'
+p2467
+sVLevel Five
+p2468
+S'2 theaters'
+p2469
+sVThe To-Do List
+p2470
+S'591 theaters'
+p2471
+sVThe SpongeBob Movie: Sponge Out of Water
+p2472
+S'3,680 theaters'
+p2473
+sVStories We Tell
+p2474
+S'70 theaters'
+p2475
+sVUndefeated (2012)
+p2476
+S'21 theaters'
+p2477
+sVCedar Rapids
+p2478
+S'462 theaters'
+p2479
+sVHorns
+p2480
+S'103 theaters'
+p2481
+sVThe Green Hornet
+p2482
+S'3,584 theaters'
+p2483
+sVNightcrawler
+p2484
+S'2,766 theaters'
+p2485
+sVStrangers Online
+p2486
+S'1 theaters'
+p2487
+sVJonah Hex
+p2488
+S'2,825 theaters'
+p2489
+sVMoonrise Kingdom
+p2490
+S'924 theaters'
+p2491
+sVLost in Thailand
+p2492
+S'35 theaters'
+p2493
+sVReturn to Nuke 'Em High Volume 1
+p2494
+S'1 theaters'
+p2495
+sVThe Wedding Ringer
+p2496
+S'3,003 theaters'
+p2497
+sVKill the Messenger
+p2498
+S'427 theaters'
+p2499
+sVSecretariat
+p2500
+S'3,108 theaters'
+p2501
+sVDum Maaro Dum
+p2502
+S'101 theaters'
+p2503
+sVBully (2012)
+p2504
+S'6 theaters'
+p2505
+sVBeginners
+p2506
+S'170 theaters'
+p2507
+sVSomewhere
+p2508
+S'83 theaters'
+p2509
+sVBol Bachchan
+p2510
+S'98 theaters'
+p2511
+sVI Love You, Phillip Morris
+p2512
+S'100 theaters'
+p2513
+sVOne Small Hitch
+p2514
+S'10 theaters'
+p2515
+sVDue Date
+p2516
+S'3,365 theaters'
+p2517
+sVLabor Day
+p2518
+S'2,584 theaters'
+p2519
+sV5 Days of War
+p2520
+S'6 theaters'
+p2521
+sVThe Last Stand
+p2522
+S'2,913 theaters'
+p2523
+sVHot Tub Time Machine 2
+p2524
+S'2,901 theaters'
+p2525
+sVKiller Joe
+p2526
+S'75 theaters'
+p2527
+sVIn Secret
+p2528
+S'266 theaters'
+p2529
+sVEntourage
+p2530
+S'3,108 theaters'
+p2531
+sVFinding Nemo (3D)
+p2532
+S'2,904 theaters'
+p2533
+sVPariah
+p2534
+S'24 theaters'
+p2535
+sVOne Day Pina Asked...
+p2536
+S'2 theaters'
+p2537
+sVOld Fashioned
+p2538
+S'298 theaters'
+p2539
+sVThe Judge
+p2540
+S'3,003 theaters'
+p2541
+sVStations of the Elevated
+p2542
+S'1 theaters'
+p2543
+sVWon't Back Down
+p2544
+S'2,517 theaters'
+p2545
+sVChillar Party
+p2546
+S'7 theaters'
+p2547
+sVInstructions Not Included
+p2548
+S'978 theaters'
+p2549
+sVToys in the Attic
+p2550
+S'27 theaters'
+p2551
+sVSource Code
+p2552
+S'2,971 theaters'
+p2553
+sVI'm Not Jesus Mommy
+p2554
+S'3 theaters'
+p2555
+sVFriends with Benefits
+p2556
+S'2,926 theaters'
+p2557
+sVMad Max: Fury Road
+p2558
+S'3,722 theaters'
+p2559
+sVNot Fade Away
+p2560
+S'565 theaters'
+p2561
+sVReaching for the Moon
+p2562
+S'4 theaters'
+p2563
+sVGone
+p2564
+S'2,186 theaters'
+p2565
+sVDaybreakers
+p2566
+S'2,523 theaters'
+p2567
+sVThe Suicide Theory
+p2568
+S'10 theaters'
+p2569
+sVUnfinished Business
+p2570
+S'2,777 theaters'
+p2571
+sVTyler Perry's Temptation: Confessions of a Marriage Counselor
+p2572
+S'2,047 theaters'
+p2573
+sVA Zombie Invasion
+p2574
+S'1 theaters'
+p2575
+sVPenguins of Madagascar
+p2576
+S'3,775 theaters'
+p2577
+sVFocus (2015)
+p2578
+S'3,323 theaters'
+p2579
+sVLove is in the Air
+p2580
+S'6 theaters'
+p2581
+sVThe American
+p2582
+S'2,833 theaters'
+p2583
+sVBrotherly Love
+p2584
+S'200 theaters'
+p2585
+sVStrange Magic
+p2586
+S'3,020 theaters'
+p2587
+sVGangster Squad
+p2588
+S'3,103 theaters'
+p2589
+sVSpeed-Dating
+p2590
+S'1 theaters'
+p2591
+sVThe Seven Five
+p2592
+S'5 theaters'
+p2593
+sVSubmarine
+p2594
+S'28 theaters'
+p2595
+sVProm
+p2596
+S'2,730 theaters'
+p2597
+sVMovie 43
+p2598
+S'2,023 theaters'
+p2599
+sVAfter.Life
+p2600
+S'41 theaters'
+p2601
+sVWe Are Family
+p2602
+S'78 theaters'
+p2603
+sVYves Saint Laurent
+p2604
+S'24 theaters'
+p2605
+sVThe Art of Getting By
+p2606
+S'610 theaters'
+p2607
+sVThe November Man
+p2608
+S'2,776 theaters'
+p2609
+sV'71
+p2610
+S'121 theaters'
+p2611
+sVDon't Think I've Forgotten: Cambodia's Lost Rock and Roll
+p2612
+S'7 theaters'
+p2613
+sVMachete Kills
+p2614
+S'2,538 theaters'
+p2615
+sV30 Beats
+p2616
+S'15 theaters'
+p2617
+sV127 Hours
+p2618
+S'916 theaters'
+p2619
+sVLincoln
+p2620
+S'2,293 theaters'
+p2621
+sVMoms' Night Out
+p2622
+S'1,046 theaters'
+p2623
+sVThe Future
+p2624
+S'31 theaters'
+p2625
+sVThe Descendants
+p2626
+S'2,038 theaters'
+p2627
+sVDumb and Dumber To
+p2628
+S'3,188 theaters'
+p2629
+sVJeff, Who Lives at Home
+p2630
+S'513 theaters'
+p2631
+sVFurry Vengeance
+p2632
+S'3,002 theaters'
+p2633
+sVThe Quitter
+p2634
+S'1 theaters'
+p2635
+sVRomeo and Juliet (2013)
+p2636
+S'461 theaters'
+p2637
+sVFor Colored Girls
+p2638
+S'2,127 theaters'
+p2639
+sVThe Impossible
+p2640
+S'886 theaters'
+p2641
+sVFurious 7
+p2642
+S'4,022 theaters'
+p2643
+sVFast Five
+p2644
+S'3,793 theaters'
+p2645
+sVPirates of the Caribbean: On Stranger Tides
+p2646
+S'4,164 theaters'
+p2647
+sVLe Jour Se Leve (2014 re-release)
+p2648
+S'3 theaters'
+p2649
+sVThe Intouchables (U.S.-only)
+p2650
+S'194 theaters'
+p2651
+sVA Thousand Words
+p2652
+S'1,895 theaters'
+p2653
+sVOne Chance
+p2654
+S'43 theaters'
+p2655
+sVLove, Rosie
+p2656
+S'15 theaters'
+p2657
+sVEnder's Game
+p2658
+S'3,407 theaters'
+p2659
+sVGet Him to the Greek
+p2660
+S'2,702 theaters'
+p2661
+sVBig Sur
+p2662
+S'13 theaters'
+p2663
+sVJurassic Park 3D
+p2664
+S'2,778 theaters'
+p2665
+sVCarrie (2013)
+p2666
+S'3,157 theaters'
+p2667
+sVPriest
+p2668
+S'2,864 theaters'
+p2669
+sVBhaag Milkha Bhaag
+p2670
+S'140 theaters'
+p2671
+sVDon Jon
+p2672
+S'2,422 theaters'
+p2673
+sVSon of God
+p2674
+S'3,271 theaters'
+p2675
+sVWe Steal Secrets: The Story of Wikileaks
+p2676
+S'25 theaters'
+p2677
+sVPawn
+p2678
+S'1 theaters'
+p2679
+sVPrisoners
+p2680
+S'3,290 theaters'
+p2681
+sVThe Imposter
+p2682
+S'31 theaters'
+p2683
+sVBaahubali: The Beginning
+p2684
+S'236 theaters'
+p2685
+sVHayride 2
+p2686
+S'10 theaters'
+p2687
+sVA Resurrection
+p2688
+S'17 theaters'
+p2689
+sVIce Age: Continental Drift
+p2690
+S'3,886 theaters'
+p2691
+sVSilent Night
+p2692
+S'11 theaters'
+p2693
+sVCyrus
+p2694
+S'454 theaters'
+p2695
+sVBranded
+p2696
+S'307 theaters'
+p2697
+sVDivergent
+p2698
+S'3,936 theaters'
+p2699
+sVThe Rabbi's Cat
+p2700
+S'6 theaters'
+p2701
+sVCats & Dogs: The Revenge of Kitty Galore
+p2702
+S'3,705 theaters'
+p2703
+sV300: Rise of An Empire
+p2704
+S'3,490 theaters'
+p2705
+sVRan (2010 re-issue)
+p2706
+S'4 theaters'
+p2707
+sVRed Dawn (2012)
+p2708
+S'2,781 theaters'
+p2709
+sVJack the Giant Slayer
+p2710
+S'3,525 theaters'
+p2711
+sVSavages (2012)
+p2712
+S'2,635 theaters'
+p2713
+sVThe Stroller Strategy
+p2714
+S'1 theaters'
+p2715
+sVMagic Mike
+p2716
+S'3,120 theaters'
+p2717
+sVSympathy for Delicious
+p2718
+S'2 theaters'
+p2719
+sVDate Night
+p2720
+S'3,380 theaters'
+p2721
+sVSeven Psychopaths
+p2722
+S'1,480 theaters'
+p2723
+sVThe King's Speech
+p2724
+S'2,584 theaters'
+p2725
+sVThe Debt
+p2726
+S'1,874 theaters'
+p2727
+sVScary Movie 5
+p2728
+S'3,402 theaters'
+p2729
+sVRoar!
+p2730
+S'19 theaters'
+p2731
+sVOctober Baby (2012)
+p2732
+S'390 theaters'
+p2733
+sVPassion
+p2734
+S'14 theaters'
+p2735
+sV30 Minutes or Less
+p2736
+S'2,888 theaters'
+p2737
+sVPain and Gain
+p2738
+S'3,303 theaters'
+p2739
+sVAftermath (2014)
+p2740
+S'1 theaters'
+p2741
+sVGoon
+p2742
+S'242 theaters'
+p2743
+sVThe Nutcracker in 3D
+p2744
+S'115 theaters'
+p2745
+sVLawless
+p2746
+S'3,138 theaters'
+p2747
+sVInAPPropriate Comedy
+p2748
+S'275 theaters'
+p2749
+sVBeautiful Boy
+p2750
+S'8 theaters'
+p2751
+sVSound City
+p2752
+S'50 theaters'
+p2753
+sVThe Nut Job
+p2754
+S'3,472 theaters'
+p2755
+sVEvil Dead (2013)
+p2756
+S'3,025 theaters'
+p2757
+sVFree Angela and All Political Prisoners
+p2758
+S'16 theaters'
+p2759
+sVFaith of Our Fathers
+p2760
+S'344 theaters'
+p2761
+sVL.A. Slasher
+p2762
+S'7 theaters'
+p2763
+sVFair Game (2010)
+p2764
+S'436 theaters'
+p2765
+sVAlice in Wonderland (2010)
+p2766
+S'3,739 theaters'
+p2767
+sVBreak Ke Baad
+p2768
+S'85 theaters'
+p2769
+sVThe Tillman Story
+p2770
+S'28 theaters'
+p2771
+sVThe Conspirator
+p2772
+S'849 theaters'
+p2773
+sVThe Other Guys
+p2774
+S'3,651 theaters'
+p2775
+sVThe Sapphires
+p2776
+S'126 theaters'
+p2777
+sVTrue Story
+p2778
+S'856 theaters'
+p2779
+sVUnfinished Song
+p2780
+S'91 theaters'
+p2781
+sVSummer Wars
+p2782
+S'11 theaters'
+p2783
+sVTyler Perry's Madea's Witness Protection
+p2784
+S'2,161 theaters'
+p2785
+sVBrotherhood (2011)
+p2786
+S'2 theaters'
+p2787
+sVAnnie (2014)
+p2788
+S'3,197 theaters'
+p2789
+sVWish I Was Here
+p2790
+S'753 theaters'
+p2791
+sVWalk of Shame
+p2792
+S'51 theaters'
+p2793
+sVThe Big Year
+p2794
+S'2,150 theaters'
+p2795
+sVCowboys & Aliens
+p2796
+S'3,754 theaters'
+p2797
+sVGringo Trails
+p2798
+S'2 theaters'
+p2799
+sVTeenage Mutant Ninja Turtles (2014)
+p2800
+S'3,980 theaters'
+p2801
+sVHarry Potter and the Deathly Hallows Part 2
+p2802
+S'4,375 theaters'
+p2803
+sVAlphaville (2013 re-release)
+p2804
+S'2 theaters'
+p2805
+sVThe Switch
+p2806
+S'2,017 theaters'
+p2807
+sVMonsters, Inc. (3D)
+p2808
+S'2,618 theaters'
+p2809
+sVThe Pirates! Band of Misfits
+p2810
+S'3,358 theaters'
+p2811
+sVGabrielle (2014)
+p2812
+S'1 theaters'
+p2813
+sVJoyful Noise
+p2814
+S'2,735 theaters'
+p2815
+sVMosquita y Mari
+p2816
+S'1 theaters'
+p2817
+sVThe Kings of Summer
+p2818
+S'65 theaters'
+p2819
+sVThe Grace Card
+p2820
+S'352 theaters'
+p2821
+sVThe Dark Knight (2012 re-release)
+p2822
+g1422
+sVRed Riding Hood
+p2823
+S'3,030 theaters'
+p2824
+sVSingham
+p2825
+S'50 theaters'
+p2826
+sVThe Connection
+p2827
+S'27 theaters'
+p2828
+sVConviction
+p2829
+S'672 theaters'
+p2830
+sVDope
+p2831
+S'2,002 theaters'
+p2832
+sVThe Railway Man
+p2833
+S'600 theaters'
+p2834
+sVDear White People
+p2835
+S'393 theaters'
+p2836
+sVAbraham Lincoln: Vampire Hunter
+p2837
+S'3,109 theaters'
+p2838
+sVInside Out
+p2839
+S'4,158 theaters'
+p2840
+sVBaggage Claim
+p2841
+S'2,230 theaters'
+p2842
+sVContempt (2013 re-release)
+p2843
+S'2 theaters'
+p2844
+sVLong Shot: The Kevin Laue Story
+p2845
+S'1 theaters'
+p2846
+sVNeighbors
+p2847
+S'3,311 theaters'
+p2848
+sVDylan Dog: Dead of Night
+p2849
+S'875 theaters'
+p2850
+sVAlbert Nobbs
+p2851
+S'245 theaters'
+p2852
+sVCrooked Arrows
+p2853
+S'327 theaters'
+p2854
+sVTere Naal Love Ho Gaya
+p2855
+S'49 theaters'
+p2856
+sVThe Way Back
+p2857
+S'678 theaters'
+p2858
+sVThe Secret Life of Walter Mitty
+p2859
+S'2,922 theaters'
+p2860
+sVMy Soul to Take
+p2861
+S'2,572 theaters'
+p2862
+sVChild 44
+p2863
+S'510 theaters'
+p2864
+sVLabios Rojos
+p2865
+S'67 theaters'
+p2866
+sVWhen the Game Stands Tall
+p2867
+S'2,766 theaters'
+p2868
+sVDolphin Tale
+p2869
+S'3,515 theaters'
+p2870
+sVJesus Henry Christ
+p2871
+S'3 theaters'
+p2872
+sVThe Best of Me
+p2873
+S'2,936 theaters'
+p2874
+sVTracks (2014)
+p2875
+S'67 theaters'
+p2876
+sVThe Place Beyond the Pines
+p2877
+S'1,584 theaters'
+p2878
+sVHeaven Knows What
+p2879
+S'14 theaters'
+p2880
+sVRacing Dreams
+p2881
+S'33 theaters'
+p2882
+sVTransformers: Age of Extinction
+p2883
+S'4,233 theaters'
+p2884
+sVThe Sisterhood of Night
+p2885
+S'10 theaters'
+p2886
+sVLike Crazy
+p2887
+S'162 theaters'
+p2888
+sVPaddington
+p2889
+S'3,355 theaters'
+p2890
+sVInception
+p2891
+S'3,792 theaters'
+p2892
+sVLe Joli Mai
+p2893
+S'3 theaters'
+p2894
+sVHello Herman
+p2895
+S'15 theaters'
+p2896
+sVSeven Days in Utopia
+p2897
+S'561 theaters'
+p2898
+sVThe Ghost Writer
+p2899
+S'819 theaters'
+p2900
+sVThe Film Critic
+p2901
+S'2 theaters'
+p2902
+sVVito Bonafacci
+p2903
+S'1 theaters'
+p2904
+sVArbitrage
+p2905
+S'256 theaters'
+p2906
+sVCantinflas
+p2907
+S'429 theaters'
+p2908
+sVBeyond the Reach
+p2909
+S'27 theaters'
+p2910
+sVThe Unknown Known
+p2911
+S'80 theaters'
+p2912
+sVHaywire
+p2913
+S'2,441 theaters'
+p2914
+sVPiranha 3DD
+p2915
+S'86 theaters'
+p2916
+sVAmericons
+p2917
+S'14 theaters'
+p2918
+sVThe Lion King (in 3D)
+p2919
+S'2,340 theaters'
+p2920
+sVThe Last Song
+p2921
+S'2,794 theaters'
+p2922
+sVMoneyball
+p2923
+S'3,018 theaters'
+p2924
+sVTotal Recall (2012 re-release)
+p2925
+S'2 theaters'
+p2926
+sVWarrior
+p2927
+S'1,883 theaters'
+p2928
+sVThe Losers
+p2929
+S'2,936 theaters'
+p2930
+sVLimitless
+p2931
+S'2,838 theaters'
+p2932
+sVTexas Killing Fields
+p2933
+S'10 theaters'
+p2934
+sVThe Guilt Trip
+p2935
+S'2,431 theaters'
+p2936
+sVBig Game
+p2937
+S'11 theaters'
+p2938
+sVSol LeWitt
+p2939
+S'2 theaters'
+p2940
+sVI'll See You In My Dreams
+p2941
+S'290 theaters'
+p2942
+sVRango
+p2943
+S'3,923 theaters'
+p2944
+sVGayby
+p2945
+S'1 theaters'
+p2946
+sVThe Sessions
+p2947
+S'516 theaters'
+p2948
+sVThe Decent One
+p2949
+S'2 theaters'
+p2950
+sVEverything Must Go
+p2951
+S'245 theaters'
+p2952
+sVHere and There
+p2953
+S'5 theaters'
+p2954
+sVLeap Year
+p2955
+S'2,512 theaters'
+p2956
+sVSalinger
+p2957
+S'138 theaters'
+p2958
+sVThe Fifth Estate
+p2959
+S'1,769 theaters'
+p2960
+sVMy Name is Khan
+p2961
+S'125 theaters'
+p2962
+sVTrance
+p2963
+S'443 theaters'
+p2964
+sVWinnie the Pooh
+p2965
+S'2,405 theaters'
+p2966
+sVValentine's Day
+p2967
+S'3,665 theaters'
+p2968
+sVI (2015)
+p2969
+S'222 theaters'
+p2970
+sVBeastly
+p2971
+S'1,959 theaters'
+p2972
+sVThe Apu Trilogy
+p2973
+S'10 theaters'
+p2974
+sVLegend of the Guardians: The Owls of Ga'Hoole
+p2975
+S'3,575 theaters'
+p2976
+sVThe Book of Eli
+p2977
+S'3,111 theaters'
+p2978
+sVPawn Shop Chronicles
+p2979
+S'15 theaters'
+p2980
+sVThe Boxtrolls
+p2981
+S'3,464 theaters'
+p2982
+sVDiana
+p2983
+S'100 theaters'
+p2984
+sVTed
+p2985
+S'3,303 theaters'
+p2986
+sVNon-Stop
+p2987
+S'3,183 theaters'
+p2988
+sVLooper
+p2989
+S'2,993 theaters'
+p2990
+sVThe Devil's Violinist
+p2991
+S'10 theaters'
+p2992
+sVZero Dark Thirty
+p2993
+S'2,946 theaters'
+p2994
+sVBeyond the Mask
+p2995
+S'181 theaters'
+p2996
+sVEasy A
+p2997
+S'2,974 theaters'
+p2998
+sVDon McKay
+p2999
+S'7 theaters'
+p3000
+sVJackass Presents: Bad Grandpa
+p3001
+S'3,345 theaters'
+p3002
+sVOde to My Father
+p3003
+S'38 theaters'
+p3004
+sVThe Host (2013)
+p3005
+S'3,202 theaters'
+p3006
+sVKick
+p3007
+S'180 theaters'
+p3008
+sVAvengers: Age of Ultron
+p3009
+S'4,276 theaters'
+p3010
+sV42
+p3011
+S'3,405 theaters'
+p3012
+sVBrief Reunion
+p3013
+S'2 theaters'
+p3014
+sVThe Endless Summer (2014 re-release)
+p3015
+S'32 theaters'
+p3016
+sVHanna
+p3017
+S'2,545 theaters'
+p3018
+sVLarry Crowne
+p3019
+S'2,976 theaters'
+p3020
+sVThe Homesman
+p3021
+S'222 theaters'
+p3022
+sVLast Vegas
+p3023
+S'3,237 theaters'
+p3024
+sVThe Rite
+p3025
+S'2,985 theaters'
+p3026
+sVThe Pyramid
+p3027
+S'685 theaters'
+p3028
+sVLet Me In
+p3029
+S'2,042 theaters'
+p3030
+sVGuardians of the Galaxy
+p3031
+S'4,088 theaters'
+p3032
+sVThe Man in the White Suit (2012 re-release)
+p3033
+S'1 theaters'
+p3034
+sVMr. Peabody & Sherman
+p3035
+S'3,951 theaters'
+p3036
+sVDallas Buyers Club
+p3037
+S'1,110 theaters'
+p3038
+s.

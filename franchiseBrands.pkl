@@ -1,0 +1,1134 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+VStephen King
+p4
+(lp5
+VThe Green Mile
+p6
+aV1408
+p7
+aVMisery
+p8
+aVPet Sematary
+p9
+aVStand by Me
+p10
+aVSecret Window
+p11
+aVThe Shining
+p12
+aVThe Running Man
+p13
+aVCarrie (2013)
+p14
+aVCarrie
+p15
+aVDreamcatcher
+p16
+aVThe Lawnmower Man
+p17
+aVSleepwalkers
+p18
+aVThe Shawshank Redemption
+p19
+aVThe Mist
+p20
+aVDolores Claiborne
+p21
+aVHearts in Atlantis
+p22
+aVCujo
+p23
+aVCreepshow
+p24
+aVChristine
+p25
+aVThe Dead Zone
+p26
+aVThe Rage: Carrie 2
+p27
+aVPet Sematary II
+p28
+aVFirestarter
+p29
+aVTales From the Darkside: The Movie
+p30
+aVStephen King's Thinner
+p31
+aVNeedful Things
+p32
+aVChildren of the Corn
+p33
+aVCat's Eye
+p34
+aVSilver Bullet
+p35
+aVGraveyard Shift
+p36
+aVThe Dark Half
+p37
+aVApt Pupil
+p38
+aVMaximum Overdrive
+p39
+aVChildren of the Corn II
+p40
+aVLawnmower Man 2: Beyond Cyberspace
+p41
+aVThe Mangler
+p42
+aVStephen King's Riding the Bullet
+p43
+aVThe Night Flier
+p44
+aVThe Dark Tower (Cancelled)
+p45
+asVAardman
+p46
+(lp47
+VChicken Run
+p48
+aVFlushed Away
+p49
+aVWallace and Gromit: The Curse of the Were-Rabbit
+p50
+aVArthur Christmas
+p51
+aVThe Pirates! Band of Misfits
+p52
+aVWallace and Gromit
+p53
+asVJohn Grisham
+p54
+(lp55
+VThe Firm
+p56
+aVA Time to Kill
+p57
+aVThe Pelican Brief
+p58
+aVThe Client
+p59
+aVChristmas with the Kranks((Skipping Christmas))
+p60
+aVRunaway Jury
+p61
+aVThe Rainmaker (1997)
+p62
+aVThe Chamber
+p63
+aVThe Gingerbread Man
+p64
+aVMickey
+p65
+asVDark Castle
+p66
+(lp67
+VUnknown
+p68
+aVGothika
+p69
+aVThirteen Ghosts
+p70
+aVOrphan
+p71
+aVHouse on Haunted Hill
+p72
+aVNinja Assassin
+p73
+aVHouse of Wax
+p74
+aVGhost Ship
+p75
+aVThe Reaping
+p76
+aVThe Losers
+p77
+aVSplice
+p78
+aVGetaway (2013)
+p79
+aVWhiteout
+p80
+aVBullet to the Head
+p81
+aVRockNRolla
+p82
+aVThe Apparition
+p83
+asVTim Burton-Johnny Depp
+p84
+(lp85
+VAlice in Wonderland (2010)
+p86
+aVCharlie and the Chocolate Factory
+p87
+aVSleepy Hollow
+p88
+aVDark Shadows
+p89
+aVEdward Scissorhands
+p90
+aVTim Burton's Corpse Bride
+p91
+aVSweeney Todd: The Demon Barber of Fleet Street
+p92
+aVEd Wood
+p93
+asVLegendary Pictures
+p94
+(lp95
+VJurassic World
+p96
+aVThe Dark Knight
+p97
+aVThe Dark Knight Rises
+p98
+aVInception
+p99
+aVMan of Steel
+p100
+aVThe Hangover
+p101
+aVThe Hangover Part II
+p102
+aV300
+p103
+aVBatman Begins
+p104
+aVGodzilla (2014)
+p105
+aVSuperman Returns
+p106
+aVInterstellar
+p107
+aVClash of the Titans (2010)
+p108
+aVUnbroken
+p109
+aVThe Hangover Part III
+p110
+aVWatchmen
+p111
+aV300: Rise of An Empire
+p112
+aVPacific Rim
+p113
+aVDue Date
+p114
+aV42
+p115
+aV10,000 B.C.
+p116
+aVThe Town
+p117
+aVWrath of the Titans
+p118
+aVWhere the Wild Things Are
+p119
+aVJack the Giant Slayer
+p120
+aVDracula Untold
+p121
+aVWe Are Marshall
+p122
+aVLady in the Water
+p123
+aVNinja Assassin
+p124
+aVSucker Punch
+p125
+aVThe Ant Bully
+p126
+aVObserve and Report
+p127
+aVAs Above/So Below
+p128
+aVBeerfest
+p129
+aVSeventh Son
+p130
+aVJonah Hex
+p131
+aVBlackhat
+p132
+asVSony Pictures Animation
+p133
+(lp134
+VHotel Transylvania
+p135
+aVThe Smurfs
+p136
+aVCloudy with a Chance of Meatballs
+p137
+aVCloudy with a Chance of Meatballs 2
+p138
+aVOpen Season
+p139
+aVThe Smurfs 2
+p140
+aVSurf's Up
+p141
+aVArthur Christmas
+p142
+aVThe Pirates! Band of Misfits
+p143
+asVPixar
+p144
+(lp145
+VToy Story 3
+p146
+aVFinding Nemo
+p147
+aVUp
+p148
+aVInside Out
+p149
+aVMonsters University
+p150
+aVThe Incredibles
+p151
+aVMonsters, Inc.
+p152
+aVToy Story 2
+p153
+aVCars
+p154
+aVBrave
+p155
+aVWALL-E
+p156
+aVRatatouille
+p157
+aVToy Story
+p158
+aVCars 2
+p159
+aVA Bug's Life
+p160
+asVIllumination Entertainment
+p161
+(lp162
+VDespicable Me 2
+p163
+aVDespicable Me
+p164
+aVDr. Seuss' The Lorax
+p165
+aVMinions
+p166
+aVHop
+p167
+asVDisneynature
+p168
+(lp169
+VEarth (2009)
+p170
+aVChimpanzee
+p171
+aVOceans
+p172
+aVBears
+p173
+aVMonkey Kingdom
+p174
+aVAfrican Cats
+p175
+asVDark Horse Comics
+p176
+(lp177
+V300
+p178
+aVThe Mask
+p179
+aV300: Rise of An Empire
+p180
+aVAlien Vs. Predator
+p181
+aVHellboy II: The Golden Army
+p182
+aVSin City
+p183
+aVHellboy
+p184
+aVTimecop
+p185
+aVAliens Vs. Predator - Requiem
+p186
+aVR.I.P.D.
+p187
+aVMystery Men
+p188
+aVSon of the Mask
+p189
+aVVirus
+p190
+aVFrank Miller's Sin City: A Dame to Kill For
+p191
+aVBarb Wire
+p192
+asVAlan Moore
+p193
+(lp194
+VWatchmen
+p195
+aVV for Vendetta
+p196
+aVThe League of Extraordinary Gentlemen
+p197
+aVFrom Hell
+p198
+asVDreamWorks Animation
+p199
+(lp200
+VShrek 2
+p201
+aVShrek the Third
+p202
+aVShrek
+p203
+aVShrek Forever After
+p204
+aVHow to Train Your Dragon
+p205
+aVMadagascar 3: Europe's Most Wanted
+p206
+aVKung Fu Panda
+p207
+aVMonsters Vs. Aliens
+p208
+aVMadagascar
+p209
+aVThe Croods
+p210
+aVMadagascar: Escape 2 Africa
+p211
+aVHow to Train Your Dragon 2
+p212
+aVHome (2015)
+p213
+aVKung Fu Panda 2
+p214
+aVShark Tale
+p215
+aVOver the Hedge
+p216
+aVPuss in Boots
+p217
+aVMegamind
+p218
+aVBee Movie
+p219
+aVMr. Peabody & Sherman
+p220
+aVChicken Run
+p221
+aVRise of the Guardians
+p222
+aVThe Prince of Egypt
+p223
+aVAntz
+p224
+aVPenguins of Madagascar
+p225
+aVTurbo
+p226
+aVSpirit: Stallion of the Cimarron
+p227
+aVFlushed Away
+p228
+aVWallace and Gromit: The Curse of the Were-Rabbit
+p229
+aVThe Road to El Dorado
+p230
+aVSinbad: Legend of the Seven Seas
+p231
+asVDC Comics
+p232
+(lp233
+VThe Dark Knight
+p234
+aVThe Dark Knight Rises
+p235
+aVMan of Steel
+p236
+aVBatman
+p237
+aVBatman Begins
+p238
+aVSuperman Returns
+p239
+aVBatman Forever
+p240
+aVBatman Returns
+p241
+aVSuperman
+p242
+aVGreen Lantern
+p243
+aVSuperman II
+p244
+aVWatchmen
+p245
+aVBatman and Robin
+p246
+aVRed
+p247
+aVConstantine
+p248
+aVV for Vendetta
+p249
+aVSuperman III
+p250
+aVRed 2
+p251
+aVCatwoman
+p252
+aVThe Losers
+p253
+aVSuperman IV: The Quest for Peace
+p254
+aVSupergirl
+p255
+aVJonah Hex
+p256
+aVBatman: Mask of the Phantasm
+p257
+aVSteel
+p258
+asVPhilip K. Dick
+p259
+(lp260
+VMinority Report
+p261
+aVTotal Recall
+p262
+aVThe Adjustment Bureau
+p263
+aVTotal Recall (2012)
+p264
+aVPaycheck
+p265
+aVBlade Runner
+p266
+aVNext(The Golden Man)
+p267
+aVImpostor
+p268
+aVScreamers
+p269
+aVA Scanner Darkly
+p270
+aVBlade Runner (re-issue)(Re-release)
+p271
+aVRadio Free Albemuth
+p272
+asVRobert Ludlum
+p273
+(lp274
+VThe Bourne Ultimatum
+p275
+aVThe Bourne Supremacy
+p276
+aVThe Bourne Identity
+p277
+aVThe Bourne Legacy
+p278
+aVThe Osterman Weekend
+p279
+aVThe Holcroft Covenant
+p280
+asVMTV
+p281
+(lp282
+VThe Longest Yard
+p283
+aVBlades of Glory
+p284
+aVJackass 3-D
+p285
+aVJackass Presents: Bad Grandpa
+p286
+aVSave the Last Dance
+p287
+aVJustin Bieber: Never Say Never
+p288
+aVJackass: Number Two
+p289
+aVCoach Carter
+p290
+aVJackass: The Movie
+p291
+aVBeavis and Butt-Head Do America
+p292
+aVVarsity Blues
+p293
+aVFootloose (2011)
+p294
+aVNapoleon Dynamite
+p295
+aVOrange County
+p296
+aVThe Original Kings of Comedy
+p297
+aVCrossroads
+p298
+aVFreedom Writers
+p299
+aVGet Rich or Die Tryin'
+p300
+aVThe Fighting Temptations
+p301
+aVAeon Flux
+p302
+aVDance Flick
+p303
+aVKaty Perry: Part of Me
+p304
+aVThe Wood
+p305
+aVHustle and Flow
+p306
+aVMartin Lawrence Live: Runteldat
+p307
+aVDead Man on Campus
+p308
+aVElection
+p309
+aVStop-Loss
+p310
+aVThe Perfect Score
+p311
+aVTupac: Resurrection
+p312
+aVHow She Move
+p313
+aV200 Cigarettes
+p314
+aVJoe's Apartment
+p315
+aVBetter Luck Tomorrow
+p316
+aVPootie Tang
+p317
+aVMurderball
+p318
+asVNational Lampoon
+p319
+(lp320
+VNational Lampoon's Animal House
+p321
+aVChristmas Vacation
+p322
+aVNational Lampoon's Vacation
+p323
+aVEuropean Vacation
+p324
+aVVegas Vacation
+p325
+aVLoaded Weapon 1
+p326
+aVAnimal House (1979 re-issue)(Re-release)
+p327
+aVNational Lampoon's Van Wilder
+p328
+aVNational Lampoon's Class Reunion
+p329
+aVNational Lampoon's Senior Trip
+p330
+aVJoy of Sex
+p331
+aVNational Lampoon's Van Wilder: The Rise of Taj
+p332
+aVNational Lampoon's Gold Diggers
+p333
+aVNational Lampoon's Movie Madness
+p334
+aVDorm Daze
+p335
+aVNational Lampoon's Blackball
+p336
+aVO.C. and Stiggs
+p337
+aVBarely Legal
+p338
+asVHasbro
+p339
+(lp340
+VTransformers: Revenge of the Fallen
+p341
+aVTransformers: Dark of the Moon
+p342
+aVTransformers
+p343
+aVG.I. Joe: The Rise of Cobra
+p344
+aVG.I. Joe: Retaliation
+p345
+aVBattleship
+p346
+aVOuija
+p347
+aVClue
+p348
+aVMy Little Pony
+p349
+aVTransformers: The Movie
+p350
+asVNickelodeon
+p351
+(lp352
+VTeenage Mutant Ninja Turtles (2014)
+p353
+aVThe SpongeBob Movie: Sponge Out of Water
+p354
+aVThe Last Airbender
+p355
+aVRango
+p356
+aVLemony Snicket's A Series of Unfortunate Events
+p357
+aVThe Rugrats Movie
+p358
+aVThe SpongeBob SquarePants Movie
+p359
+aVCharlotte's Web (2006)
+p360
+aVJimmy Neutron: Boy Genius
+p361
+aVNacho Libre
+p362
+aVRugrats in Paris: The Movie
+p363
+aVHotel for Dogs
+p364
+aVBarnyard: The Original Party Animals
+p365
+aVThe Spiderwick Chronicles
+p366
+aVSnow Day
+p367
+aVYours, Mine and Ours
+p368
+aVThe Wild Thornberrys
+p369
+aVRugrats Go Wild
+p370
+aVClockstoppers
+p371
+aVHarriet the Spy
+p372
+aVGood Burger
+p373
+aVHey Arnold! The Movie
+p374
+aVFun Size
+p375
+asVSaturday Night Live - Alumni Debuts
+p376
+(lp377
+VBridesmaids(Kristen Wiig)
+p378
+aVNational Lampoon's Animal House(John Belushi)
+p379
+aV48 HRS.(Eddie Murphy)
+p380
+aVOld School(Will Ferrell)
+p381
+aVDeuce Bigalow: Male Gigolo(Rob Schneider)
+p382
+aVFoul Play(Chevy Chase)
+p383
+aVMeatballs(Bill Murray)
+p384
+aVRunning Scared(Billy Crystal)
+p385
+aVTaxi(Jimmy Fallon)
+p386
+aVTommy Boy(Chris Farley)
+p387
+aVNeighbors (1981)(Dan Aykroyd)
+p388
+aVHouseguest(Phil Hartman)
+p389
+aVInnerspace(Martin Short)
+p390
+aVBilly Madison(Adam Sandler)
+p391
+aVCorky Romano(Chris Kattan)
+p392
+aVHigh School High(Jon Lovitz)
+p393
+aVCB4(Chris Rock)
+p394
+aVHalf Baked(Jim Breuer)
+p395
+aVFirst Family(Gilda Radner)
+p396
+aVWholly Moses(Laraine Newman)
+p397
+aVHot Rod(Andy Samberg)
+p398
+aVCasual Sex?(Victoria Jackson)
+p399
+aVSo I Married an Axe Murderer(Mike Myers)
+p400
+aVOpportunity Knocks(Dana Carvey)
+p401
+aVDirty Work(Norm MacDonald)
+p402
+aVHow to Beat the High Cost of Living(Jane Curtin)
+p403
+aVLost and Found (1999)(David Spade)
+p404
+aVBordello of Blood(Dennis Miller)
+p405
+asVBroken Lizard
+p406
+(lp407
+VBeerfest
+p408
+aVSuper Troopers
+p409
+aVClub Dread
+p410
+aVThe Slammin' Salmon
+p411
+asVMarvel Comics
+p412
+(lp413
+VMarvel's The Avengers
+p414
+aVAvengers: Age of Ultron
+p415
+aVIron Man 3
+p416
+aVSpider-Man
+p417
+aVSpider-Man 2
+p418
+aVSpider-Man 3
+p419
+aVGuardians of the Galaxy
+p420
+aVIron Man
+p421
+aVIron Man 2
+p422
+aVThe Amazing Spider-Man
+p423
+aVCaptain America: The Winter Soldier
+p424
+aVX-Men: The Last Stand
+p425
+aVX-Men: Days of Future Past
+p426
+aVBig Hero 6
+p427
+aVX2: X-Men United
+p428
+aVThor: The Dark World
+p429
+aVThe Amazing Spider-Man 2
+p430
+aVThor
+p431
+aVX-Men Origins: Wolverine
+p432
+aVCaptain America: The First Avenger
+p433
+aVX-Men
+p434
+aVFantastic Four (2005)
+p435
+aVX-Men: First Class
+p436
+aVThe Incredible Hulk
+p437
+aVThe Wolverine
+p438
+aVHulk
+p439
+aVFantastic Four: Rise of the Silver Surfer
+p440
+aVGhost Rider
+p441
+aVDaredevil
+p442
+aVBlade II
+p443
+aVBlade
+p444
+aVBlade: Trinity
+p445
+aVGhost Rider: Spirit of Vengeance
+p446
+aVThe Punisher
+p447
+aVElektra
+p448
+aVHoward the Duck
+p449
+aVPunisher: War Zone
+p450
+aVMan-Thing
+p451
+asVDisney Channel
+p452
+(lp453
+VHigh School Musical 3: Senior Year
+p454
+aVHannah Montana The Movie
+p455
+aVHannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour
+p456
+aVThe Lizzie McGuire Movie
+p457
+aVRecess: School's Out
+p458
+aVDoug's First Movie
+p459
+aVJonas Brothers: The 3D Concert Experience
+p460
+aVTeacher's Pet
+p461
+asVClive Barker
+p462
+(lp463
+VCandyman
+p464
+aVHellraiser
+p465
+aVCandyman: Farewell to the Flesh
+p466
+aVLord of Illusions
+p467
+aVHellraiser III: Hell on Earth
+p468
+aVHellbound: Hellraiser II
+p469
+aVHellraiser 4: Bloodline
+p470
+aVNightbreed
+p471
+aVMidnight Meat Train
+p472
+aVClive Barker Presents: Hellraiser
+p473
+asVWalt Disney Animation Studios
+p474
+(lp475
+VFrozen
+p476
+aVBig Hero 6
+p477
+aVTangled
+p478
+aVWreck-It Ralph
+p479
+aVBolt
+p480
+aVThe Princess and the Frog
+p481
+aVMeet the Robinsons
+p482
+aVWinnie the Pooh
+p483
+asVWalden Media
+p484
+(lp485
+VThe Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+p486
+aVThe Chronicles of Narnia: Prince Caspian
+p487
+aVThe Chronicles of Narnia: The Voyage of the Dawn Treader
+p488
+aVJourney 2: The Mysterious Island
+p489
+aVJourney to the Center of the Earth
+p490
+aVCharlotte's Web (2006)
+p491
+aVBridge to Terabithia
+p492
+aVHoles
+p493
+aVTooth Fairy
+p494
+aVNim's Island
+p495
+aVThe Water Horse: Legend of the Deep
+p496
+aVBecause of Winn-Dixie
+p497
+aVMr. Magorium's Wonder Emporium
+p498
+aVRamona and Beezus
+p499
+aVAround the World in 80 Days
+p500
+aVMonte Carlo
+p501
+aVAmazing Grace
+p502
+aVGhosts of the Abyss (IMAX & 35mm)
+p503
+aVHow to Eat Fried Worms
+p504
+aVPulse: A Stomp Odyssey (IMAX)
+p505
+aVAliens of the Deep (IMAX)
+p506
+aVThe Seeker: The Dark Is Rising
+p507
+aVHoot
+p508
+aVCity of Ember
+p509
+aVWaiting for "Superman"
+p510
+aVChasing Mavericks
+p511
+aVWon't Back Down
+p512
+aVBandslam
+p513
+aVI Am David
+p514
+asVTyler Perry
+p515
+(lp516
+VTyler Perry's Madea Goes to Jail
+p517
+aVTyler Perry's Madea's Witness Protection
+p518
+aVTyler Perry's Madea's Family Reunion
+p519
+aVTyler Perry's Why Did I Get Married Too?
+p520
+aVTyler Perry's Why Did I Get Married?
+p521
+aVTyler Perry's Madea's Big Happy Family
+p522
+aVTyler Perry's A Madea Christmas
+p523
+aVTyler Perry's Temptation: Confessions of a Marriage Counselor
+p524
+aVTyler Perry's I Can Do Bad All By Myself
+p525
+aVTyler Perry's Diary of a Mad Black Woman
+p526
+aVTyler Perry's Meet the Browns
+p527
+aVTyler Perry's The Family That Preys
+p528
+aVTyler Perry's Good Deeds
+p529
+aVTyler Perry's Daddy's Little Girls
+p530
+aVTyler Perry's The Single Moms Club
+p531
+aVTyler Perry Presents Peeples
+p532
+asVLaika
+p533
+(lp534
+VCoraline
+p535
+aVParaNorman
+p536
+aVTim Burton's Corpse Bride
+p537
+aVThe Boxtrolls
+p538
+asVSaturday Night Live
+p539
+(lp540
+VWayne's World
+p541
+aVThe Blues Brothers
+p542
+aVWayne's World 2
+p543
+aVSuperstar
+p544
+aVA Night at the Roxbury
+p545
+aVConeheads
+p546
+aVBlues Brothers 2000
+p547
+aVThe Ladies Man
+p548
+aVMacGruber
+p549
+aVStuart Saves His Family
+p550
+aVIt's Pat
+p551
+asVRoald Dahl
+p552
+(lp553
+VCharlie and the Chocolate Factory
+p554
+aVMatilda
+p555
+aVJames and the Giant Peach
+p556
+aVFantastic Mr. Fox
+p557
+aVThe Witches
+p558
+aVWilly Wonka and the Chocolate Factory
+p559
+asVNicholas Sparks
+p560
+(lp561
+VThe Notebook
+p562
+aVDear John
+p563
+aVSafe Haven
+p564
+aVThe Last Song
+p565
+aVThe Lucky One
+p566
+aVMessage in a Bottle
+p567
+aVNights in Rodanthe
+p568
+aVA Walk to Remember
+p569
+aVThe Longest Ride
+p570
+aVThe Best of Me
+p571
+asVBlue Sky
+p572
+(lp573
+VIce Age: Dawn of the Dinosaurs
+p574
+aVIce Age: The Meltdown
+p575
+aVIce Age
+p576
+aVIce Age: Continental Drift
+p577
+aVDr. Seuss' Horton Hears a Who!
+p578
+aVRio
+p579
+aVRio 2
+p580
+aVRobots
+p581
+aVEpic
+p582
+as.

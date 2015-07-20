@@ -1,0 +1,191 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'2002'
+p4
+(lp5
+S'Renee Zellweger'
+p6
+aS'Diane Lane'
+p7
+aS'Nichole Kidman'
+p8
+aS'Salma Heyek'
+p9
+aS'Julianne Moore'
+p10
+asS'2003'
+p11
+(lp12
+S'Diane Keaton'
+p13
+aS'Charlize Theron'
+p14
+aS'Keisha Castle-Hughes'
+p15
+aS'Naomi Watts'
+p16
+aS'Samantha Morton'
+p17
+asS'2001'
+p18
+(lp19
+S'Renee Zellweger'
+p20
+aS'Nicole Kidman'
+p21
+aS'Sissy Spacek'
+p22
+aS'Halle Berry'
+p23
+aS'Judi Dench'
+p24
+asS'2006'
+p25
+(lp26
+S'Meryl Streep'
+p27
+aS'Helen Mirren'
+p28
+aS'Judi Dench'
+p29
+aS'Penelope Cruz'
+p30
+aS'Kate Winslet'
+p31
+asS'2007'
+p32
+(lp33
+S'Ellen Page'
+p34
+aS'Cate Blanchett'
+p35
+aS'Marion Cotillard'
+p36
+aS'Laura Linney'
+p37
+aS'Julie Christie'
+p38
+asS'2004'
+p39
+(lp40
+S'Hilary Swank'
+p41
+aS'Kate Winslet'
+p42
+aS'Annette Bening'
+p43
+aS'Catalina Sandino Moreno'
+p44
+aS'Imelda Staunton'
+p45
+asS'2005'
+p46
+(lp47
+S'Reese Witherspoon'
+p48
+aS'Keira Knightley'
+p49
+aS'Charlize Theron'
+p50
+aS'Judi Dench'
+p51
+aS'Felicity Huffman'
+p52
+asS'2014'
+p53
+(lp54
+S'Rosamund Pike'
+p55
+aS'Reese Witherspoon'
+p56
+aS'Felicity Jones'
+p57
+aS'Julianne Moore'
+p58
+aS'Marion Cotillard'
+p59
+asS'2008'
+p60
+(lp61
+S'Angelina Jolie'
+p62
+aS'Kate Winslet'
+p63
+aS'Meryl Streep'
+p64
+aS'Anne Hathaway'
+p65
+aS'Melissa Leo'
+p66
+asS'2009'
+p67
+(lp68
+S'Sandra Bullock'
+p69
+aS'Meryl Streep'
+p70
+aS'Gabourey Sidibe'
+p71
+aS'Carey Mulligan'
+p72
+aS'Helen Mirren'
+p73
+asS'2011'
+p74
+(lp75
+S'Viola Davis'
+p76
+aS'Rooney Mara'
+p77
+aS'Meryl Streep'
+p78
+aS'Michelle Williams'
+p79
+aS'Glenn Close'
+p80
+asS'2010'
+p81
+(lp82
+S'Natalie Portman'
+p83
+aS'Annette Bening'
+p84
+aS'Michelle Williams'
+p85
+aS'Jennifer Lawrence'
+p86
+aS'Nicole Kidman'
+p87
+asS'2013'
+p88
+(lp89
+S'Sandra Bullock'
+p90
+aS'Amy Adams'
+p91
+aS'Meryl Streep'
+p92
+aS'Judi Dench'
+p93
+aS'Cate Blanchett'
+p94
+asS'2012'
+p95
+(lp96
+S'Jennifer Lawrence'
+p97
+aS'Jessica Chastain'
+p98
+aS'Naomi Watts'
+p99
+aS'Quvenzhane Wallis'
+p100
+aS'Emmanuelle Riva'
+p101
+as.

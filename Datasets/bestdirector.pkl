@@ -1,0 +1,191 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'2002'
+p4
+(lp5
+S'Rob Marshall'
+p6
+aS'Martin Scorsese'
+p7
+aS'Stephen Daldry'
+p8
+aS'Roman Polanski'
+p9
+aS'Pedro Almodvar'
+p10
+asS'2003'
+p11
+(lp12
+S'Peter Jackson'
+p13
+aS'Peter Weir'
+p14
+aS'Clint Eastwood'
+p15
+aS'Sofia Coppola'
+p16
+aS'Fernando Meirelles'
+p17
+asS'2001'
+p18
+(lp19
+S'Peter Jackson'
+p20
+aS'Ron Howard'
+p21
+aS'Ridley Scott'
+p22
+aS'Robert Altman'
+p23
+aS'David Lynch'
+p24
+asS'2006'
+p25
+(lp26
+S'Martin Scorsese'
+p27
+aS'Stephen Frears'
+p28
+aS'Alejandro Gonzalez Inarritu'
+p29
+aS'Paul Greengrass'
+p30
+aS'Clint Eastwood'
+p31
+asS'2007'
+p32
+(lp33
+S'Jason Reitman'
+p34
+aS'Joel Coen and Ethan Coen'
+p35
+aS'Tony Gilroy'
+p36
+aS'Paul Thomas Anderson'
+p37
+aS'Julian Schnabel'
+p38
+asS'2004'
+p39
+(lp40
+S'Martin Scorsese'
+p41
+aS'Clint Eastwood'
+p42
+aS'Taylor Hackford'
+p43
+aS'Alexander Payne'
+p44
+aS'Mike Leigh'
+p45
+asS'2005'
+p46
+(lp47
+S'Ang Lee'
+p48
+aS'Paul Haggis'
+p49
+aS'Steven Spielberg'
+p50
+aS'George Clooney'
+p51
+aS'Bennett Miller'
+p52
+asS'2014'
+p53
+(lp54
+S'Morten Tyldum'
+p55
+aS'Wes Anderson'
+p56
+aS'Alejandro Gonzalez Inarritu'
+p57
+aS'Richard Linklater'
+p58
+aS'Bennett Miller'
+p59
+asS'2008'
+p60
+(lp61
+S'Danny Boyle'
+p62
+aS'David Fincher'
+p63
+aS'Stephen Daldry'
+p64
+aS'Gus Van Sant'
+p65
+aS'Ron Howard'
+p66
+asS'2009'
+p67
+(lp68
+S'James Cameron'
+p69
+aS'Quentin Tarantino'
+p70
+aS'Jason Reitman'
+p71
+aS'Lee Daniels'
+p72
+aS'Kathryn Bigelow'
+p73
+asS'2011'
+p74
+(lp75
+S'Alexander Payne'
+p76
+aS'Martin Scorsese'
+p77
+aS'Woody Allen'
+p78
+aS'Michel Hazanavicius'
+p79
+aS'Terrence Malick'
+p80
+asS'2010'
+p81
+(lp82
+S'Joel Coen & Ethan Coen'
+p83
+aS'Tom Hooper'
+p84
+aS'Darren Aronofsky'
+p85
+aS'David Fincher'
+p86
+aS'David O. Russell'
+p87
+asS'2013'
+p88
+(lp89
+S'Alfonso Cuaron'
+p90
+aS'David O. Russell'
+p91
+aS'Martin Scorsese'
+p92
+aS'Steve McQueen'
+p93
+aS'Alexander Payne'
+p94
+asS'2012'
+p95
+(lp96
+S'Steven Spielberg'
+p97
+aS'David O. Russell'
+p98
+aS'Ang Lee'
+p99
+aS'Benh Zeitlin'
+p100
+aS'Michael Haneke'
+p101
+as.
